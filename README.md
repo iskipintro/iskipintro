@@ -6,17 +6,21 @@ The world's largest open database for playback metadata. Think "TMDB for skip in
 
 ## Contribute Markers
 
-<a href="https://github.com/iskipintro/iskipintro/actions/workflows/submit-marker.yml">
-  <img src="https://img.shields.io/badge/➡️_Submit_Marker-Run_Workflow-f59e0b?style=for-the-badge" alt="Submit Marker">
-</a>
+<p align="center">
+  <a href="https://github.com/iskipintro/iskipintro/actions/workflows/submit-marker.yml">
+    <img src="https://img.shields.io/badge/🚀_SUBMIT_MARKERS-Run_Workflow-f59e0b?style=for-the-badge&logo=github&logoColor=white&labelColor=000" alt="Submit Markers" width="400" style="border-radius:8px;">
+  </a>
+</p>
 
-<a href="https://github.com/iskipintro/iskipintro/issues/new?template=submit-marker.yml">
-  <img src="https://img.shields.io/badge/📝_Submit_via_Issue-Open_Form-2563eb?style=for-the-badge" alt="Submit via Issue">
-</a>
-
-<a href="https://github.com/iskipintro/iskipintro/tree/main/data">
-  <img src="https://img.shields.io/badge/📂_Browse_Data-View_Files-059669?style=for-the-badge" alt="Browse Data">
-</a>
+<p align="center">
+  <a href="https://github.com/iskipintro/iskipintro/issues/new?template=submit-marker.yml">
+    <img src="https://img.shields.io/badge/📝_Submit_via_Issue-Open_Form-2563eb?style=for-the-badge" alt="Submit via Issue">
+  </a>
+  &nbsp;
+  <a href="https://github.com/iskipintro/iskipintro/tree/main/data">
+    <img src="https://img.shields.io/badge/📂_Browse_Data-View_Files-059669?style=for-the-badge" alt="Browse Data">
+  </a>
+</p>
 
 ### How it works
 
