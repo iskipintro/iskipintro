@@ -35,6 +35,18 @@ on:
         description: "End time in seconds (e.g. 131.8)"
         required: true
         type: string
+      source:
+        description: "How did you get these timings?"
+        required: true
+        type: choice
+        default: manual
+        options:
+          - manual
+          - TMDB
+          - IMDb
+          - Jikan (MyAnimeList)
+          - AniList
+          - Kitsu
 
 permissions:
   contents: write
@@ -63,15 +75,19 @@ jobs:
           EPISODE=$(printf '%02d' ${{ inputs.episode }})
           DIR="data/series/$SLUG/season-$SEASON"
           FILE="$DIR/episode-$EPISODE.yaml"
+          # Normalize source: "Jikan (MyAnimeList)" -> "jikan", "TMDB" -> "tmdb"
+          SOURCE=$(echo "${{ inputs.source }}" | sed 's/(.*//' | tr '[:upper:]' '[:lower:]' | xargs)
 
           mkdir -p "$DIR"
 
           if [ -f "$FILE" ]; then
-            echo "  - type: ${{ inputs.marker_type }}" >> "$FILE"
-            echo "    start: ${{ inputs.start_time }}" >> "$FILE"
-            echo "    end: ${{ inputs.end_time }}" >> "$FILE"
-            echo "    confidence: 0.95" >> "$FILE"
-            echo "    source: manual" >> "$FILE"
+            {
+              echo "  - type: ${{ inputs.marker_type }}"
+              echo "    start: ${{ inputs.start_time }}"
+              echo "    end: ${{ inputs.end_time }}"
+              echo "    confidence: 0.95"
+              echo "    source: $SOURCE"
+            } >> "$FILE"
           else
             {
               echo "series: ${{ inputs.series }}"
@@ -82,7 +98,7 @@ jobs:
               echo "    start: ${{ inputs.start_time }}"
               echo "    end: ${{ inputs.end_time }}"
               echo "    confidence: 0.95"
-              echo "    source: manual"
+              echo "    source: $SOURCE"
             } > "$FILE"
           fi
 
@@ -103,6 +119,7 @@ jobs:
             **Type:** ${{ inputs.marker_type }}
             **Start:** ${{ inputs.start_time }}s
             **End:** ${{ inputs.end_time }}s
+            **Source:** ${{ inputs.source }}
 
             ---
             _Created automatically by the Submit Marker workflow_
