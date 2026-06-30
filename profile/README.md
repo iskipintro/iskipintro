@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/series-98-8A2BE2" alt="Series">
-  <img src="https://img.shields.io/badge/movies-344-00C853" alt="Movies">
-  <img src="https://img.shields.io/badge/anime-11-FF6D00" alt="Anime">
-  <img src="https://img.shields.io/badge/episodes-5,111-2962FF" alt="Episodes">
-  <img src="https://img.shields.io/badge/markers-15,933-FF1744" alt="Markers">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.sujeetunbeatable.workers.dev%2Fv1%2Fstats&query=%24.series&label=Series&color=8A2BE2" alt="Series">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.sujeetunbeatable.workers.dev%2Fv1%2Fstats&query=%24.movies&label=Movies&color=00C853" alt="Movies">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.sujeetunbeatable.workers.dev%2Fv1%2Fstats&query=%24.anime&label=Anime&color=FF6D00" alt="Anime">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.sujeetunbeatable.workers.dev%2Fv1%2Fstats&query=%24.episodes&label=Episodes&color=2962FF" alt="Episodes">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.sujeetunbeatable.workers.dev%2Fv1%2Fstats&query=%24.markers&label=Markers&color=FF1744" alt="Markers">
   <br>
   <img src="https://img.shields.io/badge/API-Hono_+_D1_+_Drizzle-000000?logo=cloudflare" alt="Stack">
   <img src="https://img.shields.io/badge/data-YAML_with_PRs-181717?logo=github" alt="Data">
