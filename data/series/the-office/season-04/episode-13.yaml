@@ -1,0 +1,21 @@
+series: The Office
+season: 4
+episode: 13
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 49
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 49
+    end: 109
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2608
+    end: 2683
+    confidence: 0.95
+    source: manual

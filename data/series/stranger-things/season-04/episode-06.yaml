@@ -1,0 +1,21 @@
+series: Stranger Things
+season: 4
+episode: 6
+tmdb_id: 66732
+imdb_id: tt4574334
+markers:
+  - type: RECAP
+    start: 0
+    end: 46
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 46
+    end: 93
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2587
+    end: 2662
+    confidence: 0.95
+    source: manual

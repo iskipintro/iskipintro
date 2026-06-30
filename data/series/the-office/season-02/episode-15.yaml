@@ -1,0 +1,21 @@
+series: The Office
+season: 2
+episode: 15
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 69
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 69
+    end: 130
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2544
+    end: 2619
+    confidence: 0.95
+    source: manual

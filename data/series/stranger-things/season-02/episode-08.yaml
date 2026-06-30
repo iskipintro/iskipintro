@@ -1,0 +1,21 @@
+series: Stranger Things
+season: 2
+episode: 8
+tmdb_id: 66732
+imdb_id: tt4574334
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 94
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2583
+    end: 2658
+    confidence: 0.95
+    source: manual

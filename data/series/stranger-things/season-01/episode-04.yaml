@@ -1,0 +1,21 @@
+series: Stranger Things
+season: 1
+episode: 4
+tmdb_id: 66732
+imdb_id: tt4574334
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 111
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2620
+    end: 2695
+    confidence: 0.95
+    source: manual

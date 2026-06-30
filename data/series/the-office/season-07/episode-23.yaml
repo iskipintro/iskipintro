@@ -1,0 +1,21 @@
+series: The Office
+season: 7
+episode: 23
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 92
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2528
+    end: 2603
+    confidence: 0.95
+    source: manual

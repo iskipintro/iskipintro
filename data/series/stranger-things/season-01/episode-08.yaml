@@ -1,0 +1,21 @@
+series: Stranger Things
+season: 1
+episode: 8
+tmdb_id: 66732
+imdb_id: tt4574334
+markers:
+  - type: RECAP
+    start: 0
+    end: 63
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 63
+    end: 129
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2552
+    end: 2627
+    confidence: 0.95
+    source: manual

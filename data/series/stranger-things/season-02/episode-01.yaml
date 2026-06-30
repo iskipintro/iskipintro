@@ -1,0 +1,21 @@
+series: Stranger Things
+season: 2
+episode: 1
+tmdb_id: 66732
+imdb_id: tt4574334
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2626
+    end: 2701
+    confidence: 0.95
+    source: manual

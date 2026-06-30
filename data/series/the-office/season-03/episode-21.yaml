@@ -1,0 +1,21 @@
+series: The Office
+season: 3
+episode: 21
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 53
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 53
+    end: 117
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2564
+    end: 2639
+    confidence: 0.95
+    source: manual

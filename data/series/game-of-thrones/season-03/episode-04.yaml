@@ -1,0 +1,21 @@
+series: Game of Thrones
+season: 3
+episode: 4
+tmdb_id: 1399
+imdb_id: tt0944947
+markers:
+  - type: RECAP
+    start: 0
+    end: 45
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 45
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2635
+    end: 2710
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Game of Thrones
+season: 1
+episode: 8
+tmdb_id: 1399
+imdb_id: tt0944947
+markers:
+  - type: RECAP
+    start: 0
+    end: 69
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 69
+    end: 118
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2580
+    end: 2655
+    confidence: 0.95
+    source: manual

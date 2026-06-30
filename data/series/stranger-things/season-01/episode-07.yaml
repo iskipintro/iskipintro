@@ -1,0 +1,21 @@
+series: Stranger Things
+season: 1
+episode: 7
+tmdb_id: 66732
+imdb_id: tt4574334
+markers:
+  - type: RECAP
+    start: 0
+    end: 46
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 46
+    end: 89
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2530
+    end: 2605
+    confidence: 0.95
+    source: manual

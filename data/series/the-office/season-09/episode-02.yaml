@@ -1,0 +1,21 @@
+series: The Office
+season: 9
+episode: 2
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 107
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2635
+    end: 2710
+    confidence: 0.95
+    source: manual

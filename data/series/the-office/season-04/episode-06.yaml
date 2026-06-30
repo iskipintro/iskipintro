@@ -1,0 +1,21 @@
+series: The Office
+season: 4
+episode: 6
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 45
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 45
+    end: 97
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2557
+    end: 2632
+    confidence: 0.95
+    source: manual

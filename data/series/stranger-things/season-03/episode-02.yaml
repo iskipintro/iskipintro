@@ -1,0 +1,21 @@
+series: Stranger Things
+season: 3
+episode: 2
+tmdb_id: 66732
+imdb_id: tt4574334
+markers:
+  - type: RECAP
+    start: 0
+    end: 62
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 62
+    end: 116
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2573
+    end: 2648
+    confidence: 0.95
+    source: manual

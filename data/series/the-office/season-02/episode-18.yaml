@@ -1,0 +1,21 @@
+series: The Office
+season: 2
+episode: 18
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2552
+    end: 2627
+    confidence: 0.95
+    source: manual

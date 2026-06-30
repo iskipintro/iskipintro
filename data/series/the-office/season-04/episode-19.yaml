@@ -1,0 +1,21 @@
+series: The Office
+season: 4
+episode: 19
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 41
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 41
+    end: 101
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2521
+    end: 2596
+    confidence: 0.95
+    source: manual

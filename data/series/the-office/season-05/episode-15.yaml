@@ -1,0 +1,21 @@
+series: The Office
+season: 5
+episode: 15
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 40
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 40
+    end: 94
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2568
+    end: 2643
+    confidence: 0.95
+    source: manual

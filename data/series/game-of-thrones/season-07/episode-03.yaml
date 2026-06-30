@@ -1,0 +1,21 @@
+series: Game of Thrones
+season: 7
+episode: 3
+tmdb_id: 1399
+imdb_id: tt0944947
+markers:
+  - type: RECAP
+    start: 0
+    end: 66
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 66
+    end: 109
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2569
+    end: 2644
+    confidence: 0.95
+    source: manual

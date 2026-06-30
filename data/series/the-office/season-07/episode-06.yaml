@@ -1,0 +1,21 @@
+series: The Office
+season: 7
+episode: 6
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 52
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 52
+    end: 98
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2527
+    end: 2602
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: The Office
+season: 8
+episode: 14
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 62
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 62
+    end: 111
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2607
+    end: 2682
+    confidence: 0.95
+    source: manual

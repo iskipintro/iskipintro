@@ -1,0 +1,21 @@
+series: The Office
+season: 9
+episode: 5
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 122
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2527
+    end: 2602
+    confidence: 0.95
+    source: manual

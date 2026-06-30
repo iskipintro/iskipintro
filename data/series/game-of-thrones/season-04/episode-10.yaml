@@ -1,0 +1,21 @@
+series: Game of Thrones
+season: 4
+episode: 10
+tmdb_id: 1399
+imdb_id: tt0944947
+markers:
+  - type: RECAP
+    start: 0
+    end: 54
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 54
+    end: 104
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2602
+    end: 2677
+    confidence: 0.95
+    source: manual

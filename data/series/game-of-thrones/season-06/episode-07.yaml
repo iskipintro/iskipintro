@@ -1,0 +1,21 @@
+series: Game of Thrones
+season: 6
+episode: 7
+tmdb_id: 1399
+imdb_id: tt0944947
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 114
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2586
+    end: 2661
+    confidence: 0.95
+    source: manual

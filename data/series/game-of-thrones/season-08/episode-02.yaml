@@ -1,0 +1,21 @@
+series: Game of Thrones
+season: 8
+episode: 2
+tmdb_id: 1399
+imdb_id: tt0944947
+markers:
+  - type: RECAP
+    start: 0
+    end: 57
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 57
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2539
+    end: 2614
+    confidence: 0.95
+    source: manual

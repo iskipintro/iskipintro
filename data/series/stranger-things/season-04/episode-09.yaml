@@ -1,0 +1,21 @@
+series: Stranger Things
+season: 4
+episode: 9
+tmdb_id: 66732
+imdb_id: tt4574334
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 96
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2629
+    end: 2704
+    confidence: 0.95
+    source: manual

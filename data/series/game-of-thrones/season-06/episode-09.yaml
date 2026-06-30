@@ -1,0 +1,21 @@
+series: Game of Thrones
+season: 6
+episode: 9
+tmdb_id: 1399
+imdb_id: tt0944947
+markers:
+  - type: RECAP
+    start: 0
+    end: 61
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 61
+    end: 119
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2578
+    end: 2653
+    confidence: 0.95
+    source: manual

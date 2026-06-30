@@ -1,0 +1,21 @@
+series: The Office
+season: 9
+episode: 10
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 69
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 69
+    end: 132
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2541
+    end: 2616
+    confidence: 0.95
+    source: manual

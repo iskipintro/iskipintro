@@ -1,0 +1,21 @@
+series: The Office
+season: 3
+episode: 14
+tmdb_id: 2316
+imdb_id: tt0386676
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 106
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2546
+    end: 2621
+    confidence: 0.95
+    source: manual
