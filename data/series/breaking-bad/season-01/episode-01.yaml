@@ -2,6 +2,8 @@ series: Breaking Bad
 season: 1
 episode: 1
 title: Pilot
+tmdb_id: 1396
+imdb_id: tt0903747
 markers:
   - type: RECAP
     start: 0

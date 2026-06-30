@@ -4,14 +4,25 @@
 #   data/series/<series-slug>/season-NN/episode-NN.yaml
 #   data/movies/<movie-slug>.yaml
 #
-# Example:
-#   series: Breaking Bad
-#   season: 1
-#   episode: 1
-#   title: Pilot
+# Series/Episode markers:
+#   series: string          # Required - series name
+#   season: number          # Required - season number
+#   episode: number         # Required - episode number
+#   title: string           # Optional - episode title
+#   tmdb_id: number         # Optional - TMDB series/collection ID
+#   imdb_id: string         # Optional - IMDb ID (tt0123456)
+#   mal_id: number          # Optional - MyAnimeList ID
+#   anilist_id: number      # Optional - AniList ID
+#   kitsu_id: number        # Optional - Kitsu ID
 #   markers:
-#     - type: INTRO
-#       start: 90
-#       end: 132.4
-#       confidence: 0.99
-#       source: manual
+#     - type: INTRO         # Required - INTRO|RECAP|OPENING|ENDING|CREDITS|POST_CREDIT|LOGO|OTHER
+#       start: 90           # Required - start time in seconds
+#       end: 132.4          # Required - end time in seconds
+#       confidence: 0.99    # Required - 0.0 to 1.0
+#       source: manual      # Required - manual|tmdb|imdb|jikan|anilist|kitsu
+#
+# Movie markers use tmdb_id as the primary identifier:
+#   title: string
+#   year: number
+#   tmdb_id: number
+#   markers: [...]

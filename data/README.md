@@ -24,6 +24,11 @@ series: Series Name
 season: 1
 episode: 1
 title: Episode Title
+tmdb_id: 1396          # Optional: TMDB series/collection ID
+imdb_id: tt0903747     # Optional: IMDb ID
+mal_id: 1              # Optional: MyAnimeList ID
+anilist_id: 1          # Optional: AniList ID
+kitsu_id: 1            # Optional: Kitsu ID
 markers:
   - type: INTRO
     start: 90

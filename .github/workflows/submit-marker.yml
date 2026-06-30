@@ -47,6 +47,26 @@ on:
           - Jikan (MyAnimeList)
           - AniList
           - Kitsu
+      tmdb_id:
+        description: "TMDB series ID (optional)"
+        required: false
+        type: string
+      imdb_id:
+        description: "IMDb ID - tt0123456 (optional)"
+        required: false
+        type: string
+      mal_id:
+        description: "MyAnimeList ID (optional)"
+        required: false
+        type: string
+      anilist_id:
+        description: "AniList ID (optional)"
+        required: false
+        type: string
+      kitsu_id:
+        description: "Kitsu ID (optional)"
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -75,7 +95,6 @@ jobs:
           EPISODE=$(printf '%02d' ${{ inputs.episode }})
           DIR="data/series/$SLUG/season-$SEASON"
           FILE="$DIR/episode-$EPISODE.yaml"
-          # Normalize source: "Jikan (MyAnimeList)" -> "jikan", "TMDB" -> "tmdb"
           SOURCE=$(echo "${{ inputs.source }}" | sed 's/(.*//' | tr '[:upper:]' '[:lower:]' | xargs)
 
           mkdir -p "$DIR"
@@ -93,6 +112,11 @@ jobs:
               echo "series: ${{ inputs.series }}"
               echo "season: ${{ inputs.season }}"
               echo "episode: ${{ inputs.episode }}"
+              [ -n "${{ inputs.tmdb_id }}" ] && echo "tmdb_id: ${{ inputs.tmdb_id }}"
+              [ -n "${{ inputs.imdb_id }}" ] && echo "imdb_id: ${{ inputs.imdb_id }}"
+              [ -n "${{ inputs.mal_id }}" ] && echo "mal_id: ${{ inputs.mal_id }}"
+              [ -n "${{ inputs.anilist_id }}" ] && echo "anilist_id: ${{ inputs.anilist_id }}"
+              [ -n "${{ inputs.kitsu_id }}" ] && echo "kitsu_id: ${{ inputs.kitsu_id }}"
               echo "markers:"
               echo "  - type: ${{ inputs.marker_type }}"
               echo "    start: ${{ inputs.start_time }}"
@@ -120,6 +144,11 @@ jobs:
             **Start:** ${{ inputs.start_time }}s
             **End:** ${{ inputs.end_time }}s
             **Source:** ${{ inputs.source }}
+            **TMDB ID:** ${{ inputs.tmdb_id }}
+            **IMDb ID:** ${{ inputs.imdb_id }}
+            **MAL ID:** ${{ inputs.mal_id }}
+            **AniList ID:** ${{ inputs.anilist_id }}
+            **Kitsu ID:** ${{ inputs.kitsu_id }}
 
             ---
             _Created automatically by the Submit Marker workflow_

@@ -79,6 +79,37 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: tmdb_id
+    attributes:
+      label: TMDB ID (optional)
+      description: Series ID from themoviedb.org
+      placeholder: e.g. 1396
+
+  - type: input
+    id: imdb_id
+    attributes:
+      label: IMDb ID (optional)
+      placeholder: e.g. tt0903747
+
+  - type: input
+    id: mal_id
+    attributes:
+      label: MyAnimeList ID (optional)
+      placeholder: e.g. 1535
+
+  - type: input
+    id: anilist_id
+    attributes:
+      label: AniList ID (optional)
+      placeholder: e.g. 16498
+
+  - type: input
+    id: kitsu_id
+    attributes:
+      label: Kitsu ID (optional)
+      placeholder: e.g. 4224
+
   - type: textarea
     id: comment
     attributes:

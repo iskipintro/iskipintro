@@ -63,6 +63,12 @@ jobs:
                 if (!doc.episode || typeof doc.episode !== 'number') die(file + ': invalid/missing episode');
               }
 
+              if (doc.tmdb_id !== undefined && typeof doc.tmdb_id !== 'number') die(file + ': tmdb_id must be a number');
+              if (doc.imdb_id !== undefined && !/^tt\d+$/.test(doc.imdb_id)) die(file + ': imdb_id must match ttXXXX format');
+              if (doc.mal_id !== undefined && typeof doc.mal_id !== 'number') die(file + ': mal_id must be a number');
+              if (doc.anilist_id !== undefined && typeof doc.anilist_id !== 'number') die(file + ': anilist_id must be a number');
+              if (doc.kitsu_id !== undefined && typeof doc.kitsu_id !== 'number') die(file + ': kitsu_id must be a number');
+
               if (!Array.isArray(doc.markers)) die(file + ': missing markers array');
 
               for (const m of doc.markers) {
