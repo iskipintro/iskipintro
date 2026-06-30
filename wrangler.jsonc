@@ -11,14 +11,12 @@
     {
       "binding": "DB",
       "database_name": "iskipintro-db",
-      "database_id": "iskipintro-db"
+      "database_id": "6cb8c589-50c4-410c-ae24-5e6332a93a8a"
     }
   ],
   "vars": {
     "JWT_SECRET": "your-jwt-secret-here",
     "GITHUB_CLIENT_ID": "your-github-oauth-client-id",
-    "GITHUB_CLIENT_SECRET": "your-github-oauth-client-secret",
-    "GITHUB_APP_ID": "",
-    "GITHUB_APP_PRIVATE_KEY": ""
+    "GITHUB_CLIENT_SECRET": "your-github-oauth-client-secret"
   }
 }

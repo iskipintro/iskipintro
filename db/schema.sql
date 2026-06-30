@@ -92,8 +92,10 @@ CREATE TABLE IF NOT EXISTS votes (
   vote TEXT NOT NULL
 );
 
+CREATE UNIQUE INDEX IF NOT EXISTS idx_series_slug ON series(slug);
+CREATE UNIQUE INDEX IF NOT EXISTS idx_seasons_unique ON seasons(series_id, season_number);
+CREATE UNIQUE INDEX IF NOT EXISTS idx_episodes_unique ON episodes(season_id, episode_number);
 CREATE INDEX IF NOT EXISTS idx_series_title ON series(title);
-CREATE INDEX IF NOT EXISTS idx_series_slug ON series(slug);
 CREATE INDEX IF NOT EXISTS idx_seasons_series ON seasons(series_id);
 CREATE INDEX IF NOT EXISTS idx_episodes_season ON episodes(season_id);
 CREATE INDEX IF NOT EXISTS idx_markers_episode ON markers(episode_id);

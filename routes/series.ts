@@ -30,10 +30,14 @@ seriesRoute.get("/:id", async (c) => {
     return c.json({ ...s, seasons: seasonList });
   }
 
-  const tmdbId = Number(id);
-  if (isNaN(tmdbId)) return c.json({ error: "Invalid ID" }, 400);
+  const numId = Number(id);
+  if (isNaN(numId)) return c.json({ error: "Invalid ID" }, 400);
 
-  const result = await db.select().from(seriesTable).where(eq(seriesTable.tmdbId, tmdbId)).all();
+  let result = await db.select().from(seriesTable).where(eq(seriesTable.tmdbId, numId)).all();
+
+  if (result.length === 0) {
+    result = await db.select().from(seriesTable).where(eq(seriesTable.id, numId)).all();
+  }
 
   if (result.length === 0) {
     return c.json({ error: "Series not found" }, 404);

@@ -28,10 +28,14 @@ movieRoute.get("/:id", async (c) => {
     return c.json(result[0]);
   }
 
-  const tmdbId = Number(id);
-  if (isNaN(tmdbId)) return c.json({ error: "Invalid ID" }, 400);
+  const numId = Number(id);
+  if (isNaN(numId)) return c.json({ error: "Invalid ID" }, 400);
 
-  const result = await db.select().from(movies).where(eq(movies.tmdbId, tmdbId)).all();
+  let result = await db.select().from(movies).where(eq(movies.tmdbId, numId)).all();
+
+  if (result.length === 0) {
+    result = await db.select().from(movies).where(eq(movies.id, numId)).all();
+  }
 
   if (result.length === 0) {
     return c.json({ error: "Movie not found" }, 404);

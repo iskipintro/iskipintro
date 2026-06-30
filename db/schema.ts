@@ -1,4 +1,4 @@
-import { sqliteTable, text, integer, real } from "drizzle-orm/sqlite-core";
+import { sqliteTable, text, integer, real, uniqueIndex } from "drizzle-orm/sqlite-core";
 
 export const movies = sqliteTable("movies", {
   id: integer("id").primaryKey({ autoIncrement: true }),
@@ -35,7 +35,9 @@ export const seasons = sqliteTable("seasons", {
     .notNull()
     .references(() => series.id),
   seasonNumber: integer("season_number").notNull(),
-});
+}, (t) => ({
+  uniqueSeriesSeason: uniqueIndex("idx_seasons_unique").on(t.seriesId, t.seasonNumber),
+}));
 
 export const episodes = sqliteTable("episodes", {
   id: integer("id").primaryKey({ autoIncrement: true }),
@@ -51,7 +53,9 @@ export const episodes = sqliteTable("episodes", {
   runtime: integer("runtime"),
   airDate: text("air_date"),
   aired: text("aired"),
-});
+}, (t) => ({
+  uniqueSeasonEpisode: uniqueIndex("idx_episodes_unique").on(t.seasonId, t.episodeNumber),
+}));
 
 export const markers = sqliteTable("markers", {
   id: integer("id").primaryKey({ autoIncrement: true }),
