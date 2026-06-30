@@ -1,0 +1,36 @@
+{
+  "name": "iskipintro",
+  "version": "1.0.0",
+  "description": "The Open Playback Metadata Database",
+  "main": "app/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:seed": "wrangler d1 execute iskipintro-db --file=./db/seed.sql",
+    "typecheck": "tsc --noEmit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skip-intro",
+    "metadata",
+    "tmdb"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@hono/zod-validator": "^0.8.0",
+    "drizzle-orm": "^0.45.2",
+    "hono": "^4.12.27",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260630.1",
+    "@hono/swagger-ui": "^0.6.1",
+    "@hono/zod-openapi": "^1.4.0",
+    "drizzle-kit": "^0.31.10",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.105.0"
+  }
+}
