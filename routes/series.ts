@@ -1,5 +1,4 @@
 import { Hono } from "hono";
-import { zValidator } from "@hono/zod-validator";
 import { z } from "zod";
 import type { AppBindings, AppVariables } from "../types/hono";
 import { series as seriesTable, seasons } from "../db/schema";
@@ -9,19 +8,32 @@ type Env = { Bindings: AppBindings; Variables: AppVariables };
 
 const seriesRoute = new Hono<Env>();
 
-const tmdbIdParam = z.object({
-  tmdb_id: z.coerce.number().int().positive(),
+const idParam = z.object({
+  id: z.string().min(1),
 });
 
-seriesRoute.get("/:tmdb_id", zValidator("param", tmdbIdParam), async (c) => {
-  const { tmdb_id } = c.req.valid("param");
+seriesRoute.get("/:id", async (c) => {
+  const raw = c.req.param("id");
+  const parsed = idParam.safeParse({ id: raw });
+  if (!parsed.success) {
+    return c.json({ error: "Invalid ID" }, 400);
+  }
+
+  const { id } = parsed.data;
   const db = c.var.db;
 
-  const result = await db
-    .select()
-    .from(seriesTable)
-    .where(eq(seriesTable.tmdbId, tmdb_id))
-    .all();
+  if (id.startsWith("tt")) {
+    const result = await db.select().from(seriesTable).where(eq(seriesTable.imdbId, id)).all();
+    if (result.length === 0) return c.json({ error: "Series not found" }, 404);
+    const s = result[0];
+    const seasonList = await db.select().from(seasons).where(eq(seasons.seriesId, s.id)).all();
+    return c.json({ ...s, seasons: seasonList });
+  }
+
+  const tmdbId = Number(id);
+  if (isNaN(tmdbId)) return c.json({ error: "Invalid ID" }, 400);
+
+  const result = await db.select().from(seriesTable).where(eq(seriesTable.tmdbId, tmdbId)).all();
 
   if (result.length === 0) {
     return c.json({ error: "Series not found" }, 404);

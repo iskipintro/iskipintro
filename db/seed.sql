@@ -1,18 +1,18 @@
 -- Sample data for iSkipIntro
 
 -- Movies
-INSERT INTO movies (tmdb_id, title, year, poster, backdrop) VALUES
-  (680, 'Pulp Fiction', 1994, '/pulp-fiction-poster.jpg', '/pulp-fiction-backdrop.jpg'),
-  (238, 'The Godfather', 1972, '/godfather-poster.jpg', '/godfather-backdrop.jpg'),
-  (155, 'The Dark Knight', 2008, '/dark-knight-poster.jpg', '/dark-knight-backdrop.jpg'),
-  (11, 'Star Wars', 1977, '/star-wars-poster.jpg', '/star-wars-backdrop.jpg');
+INSERT INTO movies (tmdb_id, imdb_id, title, year, poster, backdrop) VALUES
+  (680, 'tt0110912', 'Pulp Fiction', 1994, '/pulp-fiction-poster.jpg', '/pulp-fiction-backdrop.jpg'),
+  (238, 'tt0068646', 'The Godfather', 1972, '/godfather-poster.jpg', '/godfather-backdrop.jpg'),
+  (155, 'tt0468569', 'The Dark Knight', 2008, '/dark-knight-poster.jpg', '/dark-knight-backdrop.jpg'),
+  (11, 'tt0076759', 'Star Wars', 1977, '/star-wars-poster.jpg', '/star-wars-backdrop.jpg');
 
 -- Series
-INSERT INTO series (tmdb_id, title, poster, backdrop) VALUES
-  (1396, 'Breaking Bad', '/breaking-bad-poster.jpg', '/breaking-bad-backdrop.jpg'),
-  (1668, 'Friends', '/friends-poster.jpg', '/friends-backdrop.jpg'),
-  (1429, 'Attack on Titan', '/aot-poster.jpg', '/aot-backdrop.jpg'),
-  (1399, 'Game of Thrones', '/got-poster.jpg', '/got-backdrop.jpg');
+INSERT INTO series (tmdb_id, imdb_id, title, poster, backdrop) VALUES
+  (1396, 'tt0903747', 'Breaking Bad', '/breaking-bad-poster.jpg', '/breaking-bad-backdrop.jpg'),
+  (1668, 'tt0108778', 'Friends', '/friends-poster.jpg', '/friends-backdrop.jpg'),
+  (1429, 'tt2560140', 'Attack on Titan', '/aot-poster.jpg', '/aot-backdrop.jpg'),
+  (1399, 'tt0944947', 'Game of Thrones', '/got-poster.jpg', '/got-backdrop.jpg');
 
 -- Seasons (Breaking Bad has 5 seasons)
 INSERT INTO seasons (series_id, season_number) VALUES
@@ -33,35 +33,35 @@ INSERT INTO seasons (series_id, season_number) VALUES
   (4, 6), (4, 7), (4, 8);
 
 -- Episodes for Breaking Bad S1 (season_id = 1)
-INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, title, runtime, air_date) VALUES
-  (1, 1, 62085, 'Pilot', 58, '2008-01-20'),
-  (1, 2, 62086, 'Cat''s in the Bag...', 48, '2008-01-27'),
-  (1, 3, 62087, '...And the Bag''s in the River', 48, '2008-02-10'),
-  (1, 4, 62088, 'Cancer Man', 48, '2008-02-17'),
-  (1, 5, 62089, 'Gray Matter', 48, '2008-02-24'),
-  (1, 6, 62090, 'Crazy Handful of Nothin''', 48, '2008-03-02'),
-  (1, 7, 62091, 'A No-Rough-Stuff-Type Deal', 48, '2008-03-09');
+INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, imdb_id, title, runtime, air_date) VALUES
+  (1, 1, 62085, 'tt0903747', 'Pilot', 58, '2008-01-20'),
+  (1, 2, 62086, 'tt0959621', 'Cat''s in the Bag...', 48, '2008-01-27'),
+  (1, 3, 62087, 'tt0959622', '...And the Bag''s in the River', 48, '2008-02-10'),
+  (1, 4, 62088, 'tt0959623', 'Cancer Man', 48, '2008-02-17'),
+  (1, 5, 62089, 'tt0959624', 'Gray Matter', 48, '2008-02-24'),
+  (1, 6, 62090, 'tt0959625', 'Crazy Handful of Nothin''', 48, '2008-03-02'),
+  (1, 7, 62091, 'tt0959626', 'A No-Rough-Stuff-Type Deal', 48, '2008-03-09');
 
 -- Episodes for Breaking Bad S2 (season_id = 2)
-INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, title, runtime, air_date) VALUES
-  (2, 1, 62092, 'Seven Thirty-Seven', 48, '2009-03-08'),
-  (2, 2, 62093, 'Grilled', 48, '2009-03-15'),
-  (2, 3, 62094, 'Bit by a Dead Bee', 48, '2009-03-22');
+INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, imdb_id, title, runtime, air_date) VALUES
+  (2, 1, 62092, 'tt1235448', 'Seven Thirty-Seven', 48, '2009-03-08'),
+  (2, 2, 62093, 'tt1235449', 'Grilled', 48, '2009-03-15'),
+  (2, 3, 62094, 'tt1235450', 'Bit by a Dead Bee', 48, '2009-03-22');
 
 -- Episodes for Friends S1 (season_id = 6)
-INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, title, runtime, air_date) VALUES
-  (6, 1, 62000, 'The Pilot', 23, '1994-09-22'),
-  (6, 2, 62001, 'The One with the Sonogram at the End', 23, '1994-09-29');
+INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, imdb_id, title, runtime, air_date) VALUES
+  (6, 1, 62000, 'tt0583436', 'The Pilot', 23, '1994-09-22'),
+  (6, 2, 62001, 'tt0583437', 'The One with the Sonogram at the End', 23, '1994-09-29');
 
 -- Episodes for AOT S1 (season_id = 16)
-INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, title, runtime, air_date) VALUES
-  (16, 1, 63000, 'To You, in 2000 Years: The Fall of Shiganshina', 24, '2013-04-07'),
-  (16, 2, 63001, 'That Day: The Fall of Shiganshina (Part 2)', 24, '2013-04-14');
+INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, imdb_id, title, runtime, air_date) VALUES
+  (16, 1, 63000, 'tt2560140', 'To You, in 2000 Years: The Fall of Shiganshina', 24, '2013-04-07'),
+  (16, 2, 63001, 'tt2821300', 'That Day: The Fall of Shiganshina (Part 2)', 24, '2013-04-14');
 
 -- Episodes for GoT S1 (season_id = 20)
-INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, title, runtime, air_date) VALUES
-  (20, 1, 64000, 'Winter Is Coming', 62, '2011-04-17'),
-  (20, 2, 64001, 'The Kingsroad', 56, '2011-04-24');
+INSERT INTO episodes (season_id, episode_number, tmdb_episode_id, imdb_id, title, runtime, air_date) VALUES
+  (20, 1, 64000, 'tt1480055', 'Winter Is Coming', 62, '2011-04-17'),
+  (20, 2, 64001, 'tt1668746', 'The Kingsroad', 56, '2011-04-24');
 
 -- Markers for Breaking Bad S1E1 (episode_id = 1)
 INSERT INTO markers (episode_id, type, start_time, end_time, confidence, verified) VALUES

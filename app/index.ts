@@ -71,12 +71,12 @@ app.get("/docs", (c) => {
   <pre>curl /v1/search?q=breaking+bad</pre>
 </div>
 <div class="endpoint">
-  <span class="method get">GET</span> <code>/v1/movie/{tmdb_id}</code>
-  <p>Get movie details by TMDB ID.</p>
+  <span class="method get">GET</span> <code>/v1/movie/{id}</code>
+  <p>Get movie details. Accepts TMDB ID (number) or IMDb ID (<code>tt...</code>).</p>
 </div>
 <div class="endpoint">
-  <span class="method get">GET</span> <code>/v1/series/{tmdb_id}</code>
-  <p>Get series details with seasons list.</p>
+  <span class="method get">GET</span> <code>/v1/series/{id}</code>
+  <p>Get series details with seasons list. Accepts TMDB ID or IMDb ID.</p>
 </div>
 <div class="endpoint">
   <span class="method get">GET</span> <code>/v1/season/{id}</code>

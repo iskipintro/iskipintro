@@ -54,13 +54,15 @@ GET /v1/search?q=breaking+bad
 
 ### Movies
 ```
-GET /v1/movie/{tmdb_id}
+GET /v1/movie/{id}
 ```
+Accepts TMDB ID (`680`) or IMDb ID (`tt0110912`).
 
 ### Series
 ```
-GET /v1/series/{tmdb_id}
+GET /v1/series/{id}
 ```
+Accepts TMDB ID or IMDb ID.
 
 ### Seasons
 ```

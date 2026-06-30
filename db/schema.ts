@@ -2,7 +2,8 @@ import { sqliteTable, text, integer, real } from "drizzle-orm/sqlite-core";
 
 export const movies = sqliteTable("movies", {
   id: integer("id").primaryKey({ autoIncrement: true }),
-  tmdbId: integer("tmdb_id").notNull().unique(),
+  tmdbId: integer("tmdb_id").unique(),
+  imdbId: text("imdb_id").unique(),
   title: text("title").notNull(),
   year: integer("year"),
   poster: text("poster"),
@@ -12,7 +13,8 @@ export const movies = sqliteTable("movies", {
 
 export const series = sqliteTable("series", {
   id: integer("id").primaryKey({ autoIncrement: true }),
-  tmdbId: integer("tmdb_id").notNull().unique(),
+  tmdbId: integer("tmdb_id").unique(),
+  imdbId: text("imdb_id").unique(),
   title: text("title").notNull(),
   poster: text("poster"),
   backdrop: text("backdrop"),
@@ -34,6 +36,7 @@ export const episodes = sqliteTable("episodes", {
     .references(() => seasons.id),
   episodeNumber: integer("episode_number").notNull(),
   tmdbEpisodeId: integer("tmdb_episode_id"),
+  imdbId: text("imdb_id"),
   title: text("title"),
   runtime: integer("runtime"),
   airDate: text("air_date"),

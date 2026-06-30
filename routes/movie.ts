@@ -1,5 +1,4 @@
 import { Hono } from "hono";
-import { zValidator } from "@hono/zod-validator";
 import { z } from "zod";
 import type { AppBindings, AppVariables } from "../types/hono";
 import { movies } from "../db/schema";
@@ -9,19 +8,30 @@ type Env = { Bindings: AppBindings; Variables: AppVariables };
 
 const movieRoute = new Hono<Env>();
 
-const tmdbIdParam = z.object({
-  tmdb_id: z.coerce.number().int().positive(),
+const idParam = z.object({
+  id: z.string().min(1),
 });
 
-movieRoute.get("/:tmdb_id", zValidator("param", tmdbIdParam), async (c) => {
-  const { tmdb_id } = c.req.valid("param");
+movieRoute.get("/:id", async (c) => {
+  const raw = c.req.param("id");
+  const parsed = idParam.safeParse({ id: raw });
+  if (!parsed.success) {
+    return c.json({ error: "Invalid ID" }, 400);
+  }
+
+  const { id } = parsed.data;
   const db = c.var.db;
 
-  const result = await db
-    .select()
-    .from(movies)
-    .where(eq(movies.tmdbId, tmdb_id))
-    .all();
+  if (id.startsWith("tt")) {
+    const result = await db.select().from(movies).where(eq(movies.imdbId, id)).all();
+    if (result.length === 0) return c.json({ error: "Movie not found" }, 404);
+    return c.json(result[0]);
+  }
+
+  const tmdbId = Number(id);
+  if (isNaN(tmdbId)) return c.json({ error: "Invalid ID" }, 400);
+
+  const result = await db.select().from(movies).where(eq(movies.tmdbId, tmdbId)).all();
 
   if (result.length === 0) {
     return c.json({ error: "Movie not found" }, 404);
