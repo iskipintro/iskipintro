@@ -71,6 +71,7 @@ export const landingPage = `<!DOCTYPE html>
       <div class="buttons">
         <a href="https://github.com/iskipintro/iskipintro/actions/workflows/submit-marker.yml" class="btn btn-primary">➕ Submit Marker</a>
         <a href="https://github.com/iskipintro/iskipintro/issues/new?template=submit-marker.yml" class="btn btn-secondary">📝 Submit via Issue</a>
+        <a href="https://github.com/iskipintro/iskipintro/tree/main/data" class="btn btn-secondary">📂 Browse Data</a>
         <a href="/docs" class="btn btn-secondary">📖 API Docs</a>
         <a href="https://github.com/iskipintro/iskipintro" class="btn btn-secondary">⭐ GitHub</a>
       </div>

@@ -6,16 +6,15 @@ The world's largest open database for playback metadata. Think "TMDB for skip in
 
 ## Contribute Markers
 
-<!-- ACTION BUTTON -->
-<a href="./actions/workflows/submit-marker.yml">
+<a href="https://github.com/iskipintro/iskipintro/actions/workflows/submit-marker.yml">
   <img src="https://img.shields.io/badge/➡️_Submit_Marker-Run_Workflow-f59e0b?style=for-the-badge" alt="Submit Marker">
 </a>
 
-<a href="./issues/new?template=submit-marker.yml">
+<a href="https://github.com/iskipintro/iskipintro/issues/new?template=submit-marker.yml">
   <img src="https://img.shields.io/badge/📝_Submit_via_Issue-Open_Form-2563eb?style=for-the-badge" alt="Submit via Issue">
 </a>
 
-<a href="./tree/main/data">
+<a href="https://github.com/iskipintro/iskipintro/tree/main/data">
   <img src="https://img.shields.io/badge/📂_Browse_Data-View_Files-059669?style=for-the-badge" alt="Browse Data">
 </a>
 
