@@ -1,0 +1,114 @@
+name: Validate Data PR
+on:
+  pull_request:
+    paths:
+      - "data/**/*.yaml"
+      - "data/**/*.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install js-yaml ajv
+
+      - name: Validate YAML files
+        run: |
+          echo "::group::Validating YAML syntax"
+          for f in $(find data -name '*.yaml' -o -name '*.yml'); do
+            node -e "
+              const yaml = require('js-yaml');
+              const fs = require('fs');
+              try {
+                const doc = yaml.load(fs.readFileSync('$f', 'utf8'));
+                console.log('✓ $f');
+              } catch (e) {
+                console.error('✗ $f: ' + e.message);
+                process.exit(1);
+              }
+            "
+          done
+          echo "::endgroup::"
+
+      - name: Validate schema
+        run: |
+          echo "::group::Validating marker schema"
+          node -e "
+            const yaml = require('js-yaml');
+            const fs = require('fs');
+            const VALID_TYPES = ['INTRO','RECAP','OPENING','ENDING','CREDITS','POST_CREDIT','LOGO','OTHER'];
+            const VALID_SOURCES = ['manual','jikan','anilist','kitsu','tmdb','imdb','ai'];
+
+            function die(msg) { console.error('✗ ' + msg); process.exit(1); }
+
+            const files = fs.readdirSync('data', { recursive: true })
+              .filter(f => f.endsWith('.yaml') || f.endsWith('.yml'))
+              .map(f => 'data/' + f)
+              .filter(f => fs.statSync(f).isFile());
+
+            for (const file of files) {
+              const doc = yaml.load(fs.readFileSync(file, 'utf8'));
+              if (!doc || typeof doc !== 'object') die(file + ': invalid document');
+
+              if (file.startsWith('data/series')) {
+                if (!doc.series) die(file + ': missing series');
+                if (!doc.season || typeof doc.season !== 'number') die(file + ': invalid/missing season');
+                if (!doc.episode || typeof doc.episode !== 'number') die(file + ': invalid/missing episode');
+              }
+
+              if (!Array.isArray(doc.markers)) die(file + ': missing markers array');
+
+              for (const m of doc.markers) {
+                if (!VALID_TYPES.includes(m.type)) die(file + ': invalid marker type: ' + m.type);
+                if (typeof m.start !== 'number' || m.start < 0) die(file + ': invalid start');
+                if (typeof m.end !== 'number' || m.end < 0) die(file + ': invalid end');
+                if (m.start >= m.end) die(file + ': start must be before end');
+                if (m.confidence !== undefined && (m.confidence < 0 || m.confidence > 1)) die(file + ': confidence must be 0-1');
+                if (m.source && !VALID_SOURCES.includes(m.source)) die(file + ': invalid source: ' + m.source);
+              }
+
+              console.log('✓ ' + file);
+            }
+
+            console.log('All files valid.');
+          "
+          echo "::endgroup::"
+
+      - name: Check for duplicate markers
+        run: |
+          echo "::group::Checking for duplicate markers"
+          node -e "
+            const yaml = require('js-yaml');
+            const fs = require('fs');
+
+            const files = fs.readdirSync('data', { recursive: true })
+              .filter(f => f.endsWith('.yaml') || f.endsWith('.yml'))
+              .map(f => 'data/' + f)
+              .filter(f => fs.statSync(f).isFile());
+
+            for (const file of files) {
+              const doc = yaml.load(fs.readFileSync(file, 'utf8'));
+              const types = doc.markers.map(m => m.type);
+              const seen = new Set();
+              for (const t of types) {
+                if (seen.has(t)) {
+                  console.error('✗ ' + file + ': duplicate marker type: ' + t);
+                  process.exit(1);
+                }
+                seen.add(t);
+              }
+            }
+            console.log('No duplicate markers found.');
+          "
+          echo "::endgroup::"
+
+      - name: Post status
+        if: success()
+        run: echo "✅ All validation checks passed!"

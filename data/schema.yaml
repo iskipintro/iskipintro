@@ -1,0 +1,17 @@
+# iSkipIntro Data Schema
+#
+# All marker submissions go in:
+#   data/series/<series-slug>/season-NN/episode-NN.yaml
+#   data/movies/<movie-slug>.yaml
+#
+# Example:
+#   series: Breaking Bad
+#   season: 1
+#   episode: 1
+#   title: Pilot
+#   markers:
+#     - type: INTRO
+#       start: 90
+#       end: 132.4
+#       confidence: 0.99
+#       source: manual

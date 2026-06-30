@@ -1,0 +1,140 @@
+name: Deploy Data
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**/*.yaml"
+      - "data/**/*.yml"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install js-yaml @cloudflare/workers-types
+
+      - name: Parse YAML data
+        run: |
+          echo "::group::Parsing all YAML data files"
+          node -e "
+            const yaml = require('js-yaml');
+            const fs = require('fs');
+            const path = require('path');
+
+            const output = { series: [], movies: [] };
+
+            function slug(name) {
+              return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-\$/g, '');
+            }
+
+            function collect(dir, base) {
+              if (!fs.existsSync(dir)) return;
+              for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+                const full = path.join(dir, entry.name);
+                if (entry.isDirectory()) collect(full, base);
+                else if (entry.name.endsWith('.yaml') || entry.name.endsWith('.yml')) {
+                  const doc = yaml.load(fs.readFileSync(full, 'utf8'));
+                  if (base === 'series') {
+                    const seriesSlug = path.basename(path.dirname(path.dirname(full)));
+                    const seasonStr = path.basename(path.dirname(full));
+                    const seasonNum = parseInt(seasonStr.replace('season-', ''));
+
+                    const key = slug(doc.series);
+                    let s = output.series.find(x => x.slug === key);
+                    if (!s) {
+                      s = { slug: key, title: doc.series, seasons: [] };
+                      output.series.push(s);
+                    }
+
+                    let sn = s.seasons.find(x => x.season === seasonNum);
+                    if (!sn) {
+                      sn = { season: seasonNum, episodes: [] };
+                      s.seasons.push(sn);
+                    }
+
+                    sn.episodes.push({
+                      episode: doc.episode,
+                      title: doc.title || null,
+                      markers: doc.markers.map(m => ({
+                        type: m.type,
+                        startTime: m.start,
+                        endTime: m.end,
+                        confidence: m.confidence || 1.0,
+                        source: m.source || 'manual'
+                      }))
+                    });
+                  }
+                }
+              }
+            }
+
+            collect('data/series', 'series');
+            collect('data/movies', 'movies');
+
+            fs.writeFileSync('parsed-data.json', JSON.stringify(output, null, 2));
+            console.log(JSON.stringify(output, null, 2));
+          "
+          echo "::endgroup::"
+
+      - name: Deploy to Cloudflare D1
+        run: |
+          echo "::group::Deploying to D1 database"
+          # Install wrangler
+          npm install wrangler
+
+          # Read parsed data and generate SQL
+          node -e "
+            const data = require('./parsed-data.json');
+            const fs = require('fs');
+            let sql = '-- Auto-generated from YAML data\\n';
+
+            // Clear existing markers that came from data files
+            // We'll rebuild from YAML on each deploy
+            sql += 'DELETE FROM markers WHERE source IS NOT NULL AND source IN (\\\"manual\\\",\\\"jikan\\\",\\\"anilist\\\",\\\"kitsu\\\",\\\"tmdb\\\",\\\"imdb\\\",\\\"ai\\\");\\n';
+
+            for (const s of data.series) {
+              // Upsert series
+              sql += \\`INSERT OR IGNORE INTO series (title) VALUES (\\\"\\\${s.title}\\\");\\n\`;
+              sql += \\`SELECT id INTO @series_id FROM series WHERE title = \\\"\\\${s.title}\\\";\\n\`;
+
+              for (const sn of s.seasons) {
+                sql += \\`INSERT OR IGNORE INTO seasons (series_id, season_number) VALUES (@series_id, \\\${sn.season});\\n\`;
+                sql += \\`SELECT id INTO @season_id FROM seasons WHERE series_id = @series_id AND season_number = \\\${sn.season};\\n\`;
+
+                for (const ep of sn.episodes) {
+                  sql += \\`INSERT OR IGNORE INTO episodes (season_id, episode_number, title) VALUES (@season_id, \\\${ep.episode}, \\\"\\\${ep.title || ''}\\\");\\n\`;
+                  sql += \\`SELECT id INTO @episode_id FROM episodes WHERE season_id = @season_id AND episode_number = \\\${ep.episode};\\n\`;
+
+                  for (const m of ep.markers) {
+                    sql += \\`INSERT INTO markers (episode_id, type, start_time, end_time, confidence, verified) VALUES (@episode_id, \\\"\\\${m.type}\\\", \\\${m.startTime}, \\\${m.endTime}, \\\${m.confidence}, 1);\\n\`;
+                  }
+                }
+              }
+            }
+
+            fs.writeFileSync('deploy.sql', sql);
+            console.log('Generated deploy.sql');
+          "
+
+          # Apply to D1 (requires wrangler auth)
+          npx wrangler d1 execute iskipintro-db --file=./deploy.sql
+          echo "::endgroup::"
+
+      - name: Purge Cloudflare cache
+        run: |
+          echo "::group::Purging cache"
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
+            -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --data '{"purge_everything":true}'
+          echo "::endgroup::"
+
+      - name: Summary
+        run: echo "✅ Data deployed successfully!"

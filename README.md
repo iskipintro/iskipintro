@@ -2,7 +2,17 @@
 
 The world's largest open database for playback metadata. Think "TMDB for skip intro/credits."
 
-**Status:** Phase 1 — API, D1 database, search, episode/marker lookup, Swagger docs, and landing page.
+**Status:** Phase 1 — API, D1 database, search, episode/marker lookup, Swagger docs, landing page, and GitHub-native contribution workflow.
+
+## How It Works
+
+Contributors submit markers via the web form or by editing YAML files directly. Every submission becomes a **pull request** on the [iskipintro-data](https://github.com/anomalyco/iskipintro-data) repository.
+
+```
+User fills form → GitHub API creates branch → Pull Request → GitHub Actions validate → Merge → Auto-deploy to D1
+```
+
+No database access needed. GitHub is the CMS.
 
 ## Quick Start
 
@@ -33,16 +43,18 @@ pnpm dev
 
 ```
 iskipintro/
-  app/          — Entry point, landing page
-  api/          — API versioning
-  db/           — Schema, migrations, seed data
-  middleware/   — Auth, rate limiting
-  routes/       — Route handlers
-  services/     — Business logic
-  schemas/      — Zod validation schemas
-  types/        — TypeScript type definitions
-  utils/        — Helpers
-  docs/         — API documentation
+  app/            — Entry point, landing page
+  api/            — API versioning
+  data/           — YAML marker files (the open dataset)
+  db/             — Schema, migrations, seed data
+  middleware/     — Auth, rate limiting
+  routes/         — Route handlers
+  services/       — Business logic (anime import, GitHub PR)
+  schemas/        — Zod validation schemas
+  types/          — TypeScript type definitions
+  utils/          — Helpers
+  docs/           — API documentation
+  .github/        — GitHub Actions workflows
 ```
 
 ## API Endpoints
@@ -123,10 +135,15 @@ Fetches series + episodes from the source and upserts into the database.
 ### Phase 1 (current)
 - [x] API with Hono + D1 + Drizzle
 - [x] Search, episode, marker lookup
-- [x] Landing page + API docs
+- [x] Landing page + Submit Marker form + GitHub login
 - [x] Seed data with real marker examples
 - [x] Open source (MIT)
 - [x] Anime data import (Jikan/MAL, AniList, Kitsu APIs)
+- [x] IMDb ID support alongside TMDB
+- [x] YAML-based data repository (`data/` directory)
+- [x] GitHub PR contribution workflow (form → branch → PR → merge → deploy)
+- [x] GitHub Actions: validate data PRs, auto-deploy on merge
+- [x] GitHub OAuth login for non-technical contributors
 
 ### Phase 2
 - [ ] User authentication (JWT)

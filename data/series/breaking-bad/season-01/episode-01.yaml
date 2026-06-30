@@ -1,0 +1,20 @@
+series: Breaking Bad
+season: 1
+episode: 1
+title: Pilot
+markers:
+  - type: RECAP
+    start: 0
+    end: 90
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 90
+    end: 132.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3021
+    end: 3101
+    confidence: 0.95
+    source: manual
