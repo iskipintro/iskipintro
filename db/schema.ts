@@ -4,6 +4,9 @@ export const movies = sqliteTable("movies", {
   id: integer("id").primaryKey({ autoIncrement: true }),
   tmdbId: integer("tmdb_id").unique(),
   imdbId: text("imdb_id").unique(),
+  malId: integer("mal_id").unique(),
+  anilistId: integer("anilist_id").unique(),
+  kitsuId: integer("kitsu_id").unique(),
   title: text("title").notNull(),
   year: integer("year"),
   poster: text("poster"),
@@ -15,6 +18,9 @@ export const series = sqliteTable("series", {
   id: integer("id").primaryKey({ autoIncrement: true }),
   tmdbId: integer("tmdb_id").unique(),
   imdbId: text("imdb_id").unique(),
+  malId: integer("mal_id").unique(),
+  anilistId: integer("anilist_id").unique(),
+  kitsuId: integer("kitsu_id").unique(),
   title: text("title").notNull(),
   poster: text("poster"),
   backdrop: text("backdrop"),
@@ -37,9 +43,12 @@ export const episodes = sqliteTable("episodes", {
   episodeNumber: integer("episode_number").notNull(),
   tmdbEpisodeId: integer("tmdb_episode_id"),
   imdbId: text("imdb_id"),
+  malEpisodeId: integer("mal_episode_id"),
+  anilistEpisodeId: integer("anilist_episode_id"),
   title: text("title"),
   runtime: integer("runtime"),
   airDate: text("air_date"),
+  aired: text("aired"),
 });
 
 export const markers = sqliteTable("markers", {

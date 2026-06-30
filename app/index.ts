@@ -13,6 +13,7 @@ import markersRoute from "../routes/markers";
 import popularRoute from "../routes/popular";
 import recentRoute from "../routes/recent";
 import statsRoute from "../routes/stats";
+import importRoute from "../routes/import";
 
 type Env = { Bindings: AppBindings; Variables: AppVariables };
 
@@ -114,6 +115,21 @@ app.get("/docs", (c) => {
 }</pre>
 </div>
 
+<h2>Import (Admin)</h2>
+
+<div class="endpoint">
+  <span class="method post">POST</span> <code>/v1/import/jikan</code>
+  <p>Import anime from MyAnimeList via Jikan API. Body: <code>{"id": 1}</code> (MAL ID).</p>
+</div>
+<div class="endpoint">
+  <span class="method post">POST</span> <code>/v1/import/anilist</code>
+  <p>Import anime from AniList. Body: <code>{"id": 1}</code>.</p>
+</div>
+<div class="endpoint">
+  <span class="method post">POST</span> <code>/v1/import/kitsu</code>
+  <p>Import anime from Kitsu. Body: <code>{"id": 1}</code>.</p>
+</div>
+
 <h2>Errors</h2>
 <pre>{ "error": "Not found" }</pre>
 
@@ -133,6 +149,7 @@ v1.route("/markers", markersRoute);
 v1.route("/popular", popularRoute);
 v1.route("/recent", recentRoute);
 v1.route("/stats", statsRoute);
+v1.route("/import", importRoute);
 
 app.route("/v1", v1);
 

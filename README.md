@@ -94,12 +94,20 @@ GET /v1/recent
 GET /v1/stats
 ```
 
+### Import Anime (Admin)
+```
+POST /v1/import/jikan   {"id": 1}     # MyAnimeList via Jikan API
+POST /v1/import/anilist {"id": 1}     # AniList GraphQL API
+POST /v1/import/kitsu   {"id": 1}     # Kitsu JSON:API
+```
+Fetches series + episodes from the source and upserts into the database.
+
 ## Database Schema
 
 | Table | Purpose |
 |-------|---------|
-| `movies` | Movie metadata from TMDB |
-| `series` | TV series metadata |
+| `movies` | Movie metadata (TMDB, IMDb, MAL, AniList, Kitsu) |
+| `series` | TV series and anime metadata |
 | `seasons` | Season numbers linked to series |
 | `episodes` | Episode metadata linked to seasons |
 | `markers` | Timestamps for intro/recap/credits/etc |
@@ -118,6 +126,7 @@ GET /v1/stats
 - [x] Landing page + API docs
 - [x] Seed data with real marker examples
 - [x] Open source (MIT)
+- [x] Anime data import (Jikan/MAL, AniList, Kitsu APIs)
 
 ### Phase 2
 - [ ] User authentication (JWT)
