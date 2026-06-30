@@ -68,8 +68,18 @@ export const landingPage = `<!DOCTYPE html>
     <div class="hero">
       <h1>iSkipIntro</h1>
       <p class="subtitle">The Open Playback Metadata Database — powering Skip Intro for every media player.</p>
+      <div style="margin-bottom:1.5rem;">
+        <a href="https://github.com/iskipintro/iskipintro/actions/workflows/submit-marker.yml" style="
+          display:inline-block; padding:1.2rem 4rem; border-radius:0.75rem;
+          background:linear-gradient(135deg, #f59e0b, #ef4444); color:#fff;
+          font-size:1.5rem; font-weight:800; text-decoration:none;
+          box-shadow:0 0 40px rgba(245,158,11,0.3);
+          transition:all 0.2s;
+        " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          SUBMIT
+        </a>
+      </div>
       <div class="buttons">
-        <a href="https://github.com/iskipintro/iskipintro/actions/workflows/submit-marker.yml" class="btn btn-primary">➕ Submit Marker</a>
         <a href="https://github.com/iskipintro/iskipintro/issues/new?template=submit-marker.yml" class="btn btn-secondary">📝 Submit via Issue</a>
         <a href="https://github.com/iskipintro/iskipintro/tree/main/data" class="btn btn-secondary">📂 Browse Data</a>
         <a href="/docs" class="btn btn-secondary">📖 API Docs</a>
