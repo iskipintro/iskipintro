@@ -63,9 +63,17 @@ export const landingPage = `<!DOCTYPE html>
     }
   </style>
 </head>
-<body>
-  <div class="container">
-    <div class="hero">
+  <body>
+    <div class="container">
+      <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem;margin-bottom:1rem;">
+        <div></div>
+        <div style="display:flex;gap:0.4rem;">
+          <a href="/" style="font-size:0.8rem;color:#888;padding:0.3rem 0.6rem;border:1px solid #333;border-radius:0.3rem;">Home</a>
+          <a href="/player" style="font-size:0.8rem;color:#888;padding:0.3rem 0.6rem;border:1px solid #333;border-radius:0.3rem;">Player</a>
+          <a href="/docs" style="font-size:0.8rem;color:#888;padding:0.3rem 0.6rem;border:1px solid #333;border-radius:0.3rem;">Docs</a>
+        </div>
+      </div>
+      <div class="hero">
       <h1>iSkipIntro</h1>
       <p class="subtitle">The Open Playback Metadata Database — powering Skip Intro for every media player.</p>
       <div style="margin-bottom:1.5rem;">
@@ -83,6 +91,7 @@ export const landingPage = `<!DOCTYPE html>
         <a href="https://github.com/iskipintro/iskipintro/issues/new?template=submit-marker.yml" class="btn btn-secondary">📝 Submit via Issue</a>
         <a href="https://github.com/iskipintro/iskipintro/tree/main/data" class="btn btn-secondary">📂 Browse Data</a>
         <a href="/docs" class="btn btn-secondary">📖 API Docs</a>
+        <a href="/player" class="btn btn-secondary">🎬 Player Test</a>
         <a href="https://github.com/iskipintro/iskipintro" class="btn btn-secondary">⭐ GitHub</a>
       </div>
     </div>
@@ -120,6 +129,7 @@ export const landingPage = `<!DOCTYPE html>
     <div class="footer">
       <a href="https://github.com/iskipintro/iskipintro">GitHub</a> &middot;
       <a href="/docs">API Docs</a> &middot;
+      <a href="/player">Player Test</a> &middot;
       <a href="/v1/stats">Statistics</a> &middot;
       MIT License
     </div>

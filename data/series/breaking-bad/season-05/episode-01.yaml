@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 5
+episode: 1
+title: Live Free or Die
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 64
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 64
+    end: 109
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2820
+    end: 2900
+    confidence: 0.95
+    source: manual

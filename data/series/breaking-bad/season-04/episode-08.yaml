@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 4
+episode: 8
+title: Hermanos
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 60
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 60
+    end: 113
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2842
+    end: 2922
+    confidence: 0.95
+    source: manual

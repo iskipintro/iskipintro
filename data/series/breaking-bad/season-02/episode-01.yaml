@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 2
+episode: 1
+title: Seven Thirty-Seven
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 102
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2838
+    end: 2918
+    confidence: 0.95
+    source: manual

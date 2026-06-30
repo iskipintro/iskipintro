@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 2
+episode: 9
+title: 4 Days Out
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 60
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 60
+    end: 122
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2829
+    end: 2909
+    confidence: 0.95
+    source: manual

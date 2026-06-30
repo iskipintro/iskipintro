@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 5
+episode: 3
+title: Hazard Pay
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55
+    end: 101
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2824
+    end: 2904
+    confidence: 0.95
+    source: manual

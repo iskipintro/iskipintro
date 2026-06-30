@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 5
+episode: 12
+title: Rabid Dog
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 63
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 63
+    end: 118
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2836
+    end: 2916
+    confidence: 0.95
+    source: manual

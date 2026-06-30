@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 3
+episode: 8
+title: I See You
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2869
+    end: 2949
+    confidence: 0.95
+    source: manual

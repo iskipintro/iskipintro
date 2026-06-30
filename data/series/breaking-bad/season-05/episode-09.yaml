@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 5
+episode: 9
+title: Blood Money
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 116
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2873
+    end: 2953
+    confidence: 0.95
+    source: manual

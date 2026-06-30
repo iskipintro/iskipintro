@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 3
+episode: 5
+title: Más
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 68
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 68
+    end: 116
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2879
+    end: 2959
+    confidence: 0.95
+    source: manual

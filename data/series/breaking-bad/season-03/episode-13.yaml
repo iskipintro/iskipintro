@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 3
+episode: 13
+title: Full Measure
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2859
+    end: 2939
+    confidence: 0.95
+    source: manual

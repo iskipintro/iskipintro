@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 5
+episode: 6
+title: Buyout
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 73
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 73
+    end: 131
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2843
+    end: 2923
+    confidence: 0.95
+    source: manual

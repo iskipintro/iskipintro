@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 4
+episode: 10
+title: Salud
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 71
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 71
+    end: 135
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2845
+    end: 2925
+    confidence: 0.95
+    source: manual

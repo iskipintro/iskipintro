@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 2
+episode: 12
+title: Phoenix
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 61
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 61
+    end: 114
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2840
+    end: 2920
+    confidence: 0.95
+    source: manual

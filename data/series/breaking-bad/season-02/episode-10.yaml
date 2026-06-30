@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 2
+episode: 10
+title: Over
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 66
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 66
+    end: 114
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2835
+    end: 2915
+    confidence: 0.95
+    source: manual

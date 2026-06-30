@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 2
+episode: 3
+title: Bit by a Dead Bee
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 69
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 69
+    end: 131
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2874
+    end: 2954
+    confidence: 0.95
+    source: manual

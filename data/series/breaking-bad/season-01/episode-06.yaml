@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 1
+episode: 6
+title: Crazy Handful of Nothin'
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 65
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 65
+    end: 120
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2860
+    end: 2940
+    confidence: 0.95
+    source: manual

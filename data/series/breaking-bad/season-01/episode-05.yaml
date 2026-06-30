@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 1
+episode: 5
+title: Gray Matter
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 102
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2850
+    end: 2930
+    confidence: 0.95
+    source: manual

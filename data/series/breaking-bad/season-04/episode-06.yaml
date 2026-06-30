@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 4
+episode: 6
+title: Cornered
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 63
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 63
+    end: 108
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2855
+    end: 2935
+    confidence: 0.95
+    source: manual

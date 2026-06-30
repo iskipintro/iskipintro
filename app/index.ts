@@ -3,6 +3,7 @@ import { cors } from "hono/cors";
 import { getDb } from "../db";
 import type { AppBindings, AppVariables } from "../types/hono";
 import { landingPage } from "./landing";
+import { playerPage } from "./player";
 
 import searchRoute from "../routes/search";
 import movieRoute from "../routes/movie";
@@ -137,6 +138,8 @@ app.get("/docs", (c) => {
 <p>Coming soon: JavaScript, Python, Go, Rust, Swift, Kotlin</p>
 </body></html>`);
 });
+
+app.get("/player", (c) => c.html(playerPage));
 
 const v1 = new Hono<Env>();
 

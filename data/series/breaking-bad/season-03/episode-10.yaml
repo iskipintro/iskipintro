@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 3
+episode: 10
+title: Fly
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 51
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 51
+    end: 115
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2866
+    end: 2946
+    confidence: 0.95
+    source: manual

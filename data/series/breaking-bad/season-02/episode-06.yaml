@@ -1,0 +1,22 @@
+series: Breaking Bad
+season: 2
+episode: 6
+title: Peekaboo
+tmdb_id: 1396
+imdb_id: tt0903747
+markers:
+  - type: RECAP
+    start: 0
+    end: 71
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 71
+    end: 133
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2872
+    end: 2952
+    confidence: 0.95
+    source: manual
