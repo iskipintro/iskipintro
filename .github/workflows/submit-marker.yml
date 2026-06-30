@@ -1,0 +1,116 @@
+name: Submit Marker
+on:
+  workflow_dispatch:
+    inputs:
+      series:
+        description: "Series name"
+        required: true
+        type: string
+      season:
+        description: "Season number"
+        required: true
+        type: number
+      episode:
+        description: "Episode number"
+        required: true
+        type: number
+      marker_type:
+        description: "Marker type"
+        required: true
+        type: choice
+        options:
+          - INTRO
+          - RECAP
+          - OPENING
+          - ENDING
+          - CREDITS
+          - POST_CREDIT
+          - LOGO
+          - OTHER
+      start_time:
+        description: "Start time (seconds, e.g. 42.1)"
+        required: true
+        type: string
+      end_time:
+        description: "End time (seconds, e.g. 131.8)"
+        required: true
+        type: string
+      comment:
+        description: "Comment / source (optional)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Slugify series name
+        id: slug
+        run: |
+          SLUG=$(echo "${{ inputs.series }}" \
+            | tr '[:upper:]' '[:lower:]' \
+            | sed 's/[^a-z0-9]/-/g' \
+            | sed 's/--*/-/g' \
+            | sed 's/^-//;s/-$//')
+          echo "slug=$SLUG" >> $GITHUB_OUTPUT
+
+      - name: Create YAML file
+        run: |
+          SLUG="${{ steps.slug.outputs.slug }}"
+          DIR="data/series/$SLUG/season-$(printf '%02d' ${{ inputs.season }})"
+          FILE="$DIR/episode-$(printf '%02d' ${{ inputs.episode }}).yaml"
+
+          mkdir -p "$DIR"
+
+          # If file already exists, append; otherwise create new
+          if [ -f "$FILE" ]; then
+            echo "  - type: ${{ inputs.marker_type }}" >> "$FILE"
+            echo "    start: ${{ inputs.start_time }}" >> "$FILE"
+            echo "    end: ${{ inputs.end_time }}" >> "$FILE"
+            echo "    confidence: 0.95" >> "$FILE"
+            echo "    source: manual" >> "$FILE"
+          else
+            cat > "$FILE" << 'YAMLEOF'
+series: ${{ inputs.series }}
+season: ${{ inputs.season }}
+episode: ${{ inputs.episode }}
+markers:
+  - type: ${{ inputs.marker_type }}
+    start: ${{ inputs.start_time }}
+    end: ${{ inputs.end_time }}
+    confidence: 0.95
+    source: manual
+YAMLEOF
+          fi
+
+          echo "Created $FILE"
+          cat "$FILE"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Add ${{ inputs.marker_type }} marker for ${{ inputs.series }} S${{ inputs.season }}E${{ inputs.episode }}"
+          title: "Add ${{ inputs.marker_type }} marker for ${{ inputs.series }} S${{ inputs.season }}E${{ inputs.episode }}"
+          body: |
+            ## Marker Submission
+
+            **Series:** ${{ inputs.series }}
+            **Season:** ${{ inputs.season }}
+            **Episode:** ${{ inputs.episode }}
+            **Type:** ${{ inputs.marker_type }}
+            **Start:** ${{ inputs.start_time }}s
+            **End:** ${{ inputs.end_time }}s
+
+            ${{ inputs.comment && format('**Comment:** {0}', inputs.comment) || '' }}
+
+            ---
+            _Created automatically by the Submit Marker workflow_
+          branch: "marker-${{ steps.slug.outputs.slug }}-s${{ inputs.season }}e${{ inputs.episode }}"
+          base: main
+          labels: marker-submission

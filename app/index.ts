@@ -14,8 +14,6 @@ import popularRoute from "../routes/popular";
 import recentRoute from "../routes/recent";
 import statsRoute from "../routes/stats";
 import importRoute from "../routes/import";
-import submitRoute from "../routes/submit";
-import authRoute from "../routes/auth";
 
 type Env = { Bindings: AppBindings; Variables: AppVariables };
 
@@ -152,10 +150,7 @@ v1.route("/popular", popularRoute);
 v1.route("/recent", recentRoute);
 v1.route("/stats", statsRoute);
 v1.route("/import", importRoute);
-v1.route("/submit", submitRoute);
 
 app.route("/v1", v1);
-
-app.route("/auth", authRoute);
 
 export default app;

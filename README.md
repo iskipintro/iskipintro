@@ -2,9 +2,32 @@
 
 The world's largest open database for playback metadata. Think "TMDB for skip intro/credits."
 
-**Status:** Phase 1 — API, D1 database, search, episode/marker lookup, Swagger docs, landing page, and GitHub-native contribution workflow.
+**Status:** Phase 1
 
-## How It Works
+## Contribute Markers
+
+<!-- ACTION BUTTON -->
+<a href="./actions/workflows/submit-marker.yml">
+  <img src="https://img.shields.io/badge/➡️_Submit_Marker-Run_Workflow-f59e0b?style=for-the-badge" alt="Submit Marker">
+</a>
+
+<a href="./issues/new?template=submit-marker.yml">
+  <img src="https://img.shields.io/badge/📝_Submit_via_Issue-Open_Form-2563eb?style=for-the-badge" alt="Submit via Issue">
+</a>
+
+<a href="./tree/main/data">
+  <img src="https://img.shields.io/badge/📂_Browse_Data-View_Files-059669?style=for-the-badge" alt="Browse Data">
+</a>
+
+### How it works
+
+**1. Click "Submit Marker"** → fills out the form in GitHub Actions
+
+**2. Workflow creates a PR** → YAML file added to `data/` automatically
+
+**3. Maintainer merges** → data deploys to the API. You get credit on your GitHub profile.
+
+No forks, no Git commands, no manual YAML editing needed.
 
 Contributors submit markers via the web form or by editing YAML files directly. Every submission becomes a **pull request** on the [iskipintro-data](https://github.com/anomalyco/iskipintro-data) repository.
 

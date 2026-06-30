@@ -1,0 +1,87 @@
+name: Submit Marker
+description: Submit playback markers (intro, recap, credits, etc.) for a series or movie
+title: "Markers: [SERIES] S[##]E[##]"
+labels: [marker-submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Fill out the form below and a maintainer will convert your submission into a YAML file and merge it.
+
+  - type: dropdown
+    id: source_type
+    attributes:
+      label: Type
+      description: Is this a TV series/anime or a movie?
+      options:
+        - TV Series / Anime
+        - Movie
+    validations:
+      required: true
+
+  - type: input
+    id: series
+    attributes:
+      label: Series name
+      description: Name of the TV series or anime
+      placeholder: e.g. Breaking Bad
+    validations:
+      required: true
+
+  - type: input
+    id: season
+    attributes:
+      label: Season number
+      placeholder: "1"
+    validations:
+      required: true
+
+  - type: input
+    id: episode
+    attributes:
+      label: Episode number
+      placeholder: "1"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: marker_type
+    attributes:
+      label: Marker type
+      description: What kind of marker is this?
+      options:
+        - INTRO
+        - RECAP
+        - OPENING
+        - ENDING
+        - CREDITS
+        - POST_CREDIT
+        - LOGO
+        - OTHER
+    validations:
+      required: true
+
+  - type: input
+    id: start
+    attributes:
+      label: Start time (seconds)
+      description: When does this segment begin?
+      placeholder: e.g. 42.1
+    validations:
+      required: true
+
+  - type: input
+    id: end
+    attributes:
+      label: End time (seconds)
+      description: When does this segment end?
+      placeholder: e.g. 131.8
+    validations:
+      required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comment (optional)
+      description: Any additional context
+      placeholder: e.g. Cold open starts after the recap
