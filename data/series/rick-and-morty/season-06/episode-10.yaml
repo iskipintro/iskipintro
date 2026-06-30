@@ -1,0 +1,21 @@
+series: Rick and Morty
+season: 6
+episode: 10
+tmdb_id: 60625
+imdb_id: tt2861424
+markers:
+  - type: RECAP
+    start: 0
+    end: 46
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 46
+    end: 105
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1269
+    end: 1334
+    confidence: 0.95
+    source: manual

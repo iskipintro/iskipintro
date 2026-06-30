@@ -1,0 +1,21 @@
+series: The Mandalorian
+season: 3
+episode: 4
+tmdb_id: 82856
+imdb_id: tt8111088
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 92
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1338
+    end: 1403
+    confidence: 0.95
+    source: manual

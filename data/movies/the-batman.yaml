@@ -1,0 +1,20 @@
+title: The Batman
+year: 2022
+tmdb_id: 414
+imdb_id: tt1877830
+markers:
+  - type: INTRO
+    start: 0
+    end: 83
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 9900
+    end: 9990
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 9990
+    end: 9992
+    confidence: 0.80
+    source: manual

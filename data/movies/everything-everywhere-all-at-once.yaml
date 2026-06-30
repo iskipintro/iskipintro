@@ -1,0 +1,20 @@
+title: Everything Everywhere All at Once
+year: 2022
+tmdb_id: 545611
+imdb_id: tt6710474
+markers:
+  - type: INTRO
+    start: 0
+    end: 75
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 8340
+    end: 8430
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 8430
+    end: 8449
+    confidence: 0.80
+    source: manual

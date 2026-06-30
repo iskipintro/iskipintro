@@ -1,0 +1,20 @@
+title: Joker
+year: 2019
+tmdb_id: 475557
+imdb_id: tt7286456
+markers:
+  - type: INTRO
+    start: 0
+    end: 89
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7320
+    end: 7410
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7410
+    end: 7439
+    confidence: 0.80
+    source: manual

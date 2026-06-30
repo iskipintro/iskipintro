@@ -1,0 +1,21 @@
+series: Better Call Saul
+season: 6
+episode: 11
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 107
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1389
+    end: 1454
+    confidence: 0.95
+    source: manual

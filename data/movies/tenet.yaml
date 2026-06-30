@@ -1,0 +1,20 @@
+title: Tenet
+year: 2020
+tmdb_id: 577922
+imdb_id: tt6723592
+markers:
+  - type: INTRO
+    start: 0
+    end: 122
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 9000
+    end: 9090
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 9090
+    end: 9101
+    confidence: 0.80
+    source: manual

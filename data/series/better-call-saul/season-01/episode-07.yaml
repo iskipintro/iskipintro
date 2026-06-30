@@ -1,0 +1,21 @@
+series: Better Call Saul
+season: 1
+episode: 7
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 115
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1379
+    end: 1444
+    confidence: 0.95
+    source: manual

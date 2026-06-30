@@ -1,0 +1,21 @@
+series: Better Call Saul
+season: 2
+episode: 9
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 54
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 54
+    end: 107
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1261
+    end: 1326
+    confidence: 0.95
+    source: manual

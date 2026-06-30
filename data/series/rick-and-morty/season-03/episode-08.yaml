@@ -1,0 +1,21 @@
+series: Rick and Morty
+season: 3
+episode: 8
+tmdb_id: 60625
+imdb_id: tt2861424
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 89
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1332
+    end: 1397
+    confidence: 0.95
+    source: manual

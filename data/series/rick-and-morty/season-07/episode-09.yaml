@@ -1,0 +1,21 @@
+series: Rick and Morty
+season: 7
+episode: 9
+tmdb_id: 60625
+imdb_id: tt2861424
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 88
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1216
+    end: 1281
+    confidence: 0.95
+    source: manual

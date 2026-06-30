@@ -1,0 +1,21 @@
+series: Prison Break
+season: 2
+episode: 2
+tmdb_id: 2287
+imdb_id: tt0455275
+markers:
+  - type: RECAP
+    start: 0
+    end: 62
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 62
+    end: 108
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1206
+    end: 1271
+    confidence: 0.95
+    source: manual

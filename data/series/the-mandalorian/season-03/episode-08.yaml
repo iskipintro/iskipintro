@@ -1,0 +1,21 @@
+series: The Mandalorian
+season: 3
+episode: 8
+tmdb_id: 82856
+imdb_id: tt8111088
+markers:
+  - type: RECAP
+    start: 0
+    end: 39
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 39
+    end: 83
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1269
+    end: 1334
+    confidence: 0.95
+    source: manual

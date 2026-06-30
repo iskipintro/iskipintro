@@ -1,0 +1,21 @@
+series: Money Heist
+season: 1
+episode: 3
+tmdb_id: 71446
+imdb_id: tt6468322
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55
+    end: 98
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1292
+    end: 1357
+    confidence: 0.95
+    source: manual

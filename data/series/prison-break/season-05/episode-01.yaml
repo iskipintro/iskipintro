@@ -1,0 +1,21 @@
+series: Prison Break
+season: 5
+episode: 1
+tmdb_id: 2287
+imdb_id: tt0455275
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 114
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1209
+    end: 1274
+    confidence: 0.95
+    source: manual

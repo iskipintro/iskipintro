@@ -1,0 +1,21 @@
+series: Rick and Morty
+season: 6
+episode: 4
+tmdb_id: 60625
+imdb_id: tt2861424
+markers:
+  - type: RECAP
+    start: 0
+    end: 51
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 51
+    end: 109
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1245
+    end: 1310
+    confidence: 0.95
+    source: manual

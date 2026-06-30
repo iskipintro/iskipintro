@@ -1,0 +1,20 @@
+title: The Lion King
+year: 1994
+tmdb_id: 8587
+imdb_id: tt0110357
+markers:
+  - type: INTRO
+    start: 0
+    end: 80
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 5220
+    end: 5310
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 5310
+    end: 5336
+    confidence: 0.80
+    source: manual

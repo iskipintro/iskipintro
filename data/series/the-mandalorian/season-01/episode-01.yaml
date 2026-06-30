@@ -1,0 +1,22 @@
+series: The Mandalorian
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 82856
+imdb_id: tt8111088
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1398
+    end: 1463
+    confidence: 0.95
+    source: manual

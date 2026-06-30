@@ -1,0 +1,21 @@
+series: Rick and Morty
+season: 5
+episode: 4
+tmdb_id: 60625
+imdb_id: tt2861424
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 84
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1308
+    end: 1373
+    confidence: 0.95
+    source: manual

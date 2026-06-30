@@ -1,0 +1,21 @@
+series: Better Call Saul
+season: 4
+episode: 6
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 60
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 60
+    end: 116
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1319
+    end: 1384
+    confidence: 0.95
+    source: manual

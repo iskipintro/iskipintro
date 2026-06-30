@@ -1,0 +1,20 @@
+title: Toy Story
+year: 1995
+tmdb_id: 862
+imdb_id: tt0114709
+markers:
+  - type: INTRO
+    start: 0
+    end: 76
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 4860
+    end: 4950
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 4950
+    end: 4965
+    confidence: 0.80
+    source: manual

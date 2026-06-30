@@ -1,0 +1,22 @@
+series: Better Call Saul
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 119
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1385
+    end: 1450
+    confidence: 0.95
+    source: manual

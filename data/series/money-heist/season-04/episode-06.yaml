@@ -1,0 +1,21 @@
+series: Money Heist
+season: 4
+episode: 6
+tmdb_id: 71446
+imdb_id: tt6468322
+markers:
+  - type: RECAP
+    start: 0
+    end: 61
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 61
+    end: 102
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1229
+    end: 1294
+    confidence: 0.95
+    source: manual

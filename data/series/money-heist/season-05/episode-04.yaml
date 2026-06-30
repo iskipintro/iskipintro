@@ -1,0 +1,21 @@
+series: Money Heist
+season: 5
+episode: 4
+tmdb_id: 71446
+imdb_id: tt6468322
+markers:
+  - type: RECAP
+    start: 0
+    end: 54
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 54
+    end: 112
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1336
+    end: 1401
+    confidence: 0.95
+    source: manual

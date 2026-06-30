@@ -1,0 +1,21 @@
+series: Squid Game
+season: 1
+episode: 9
+tmdb_id: 93405
+imdb_id: tt10919420
+markers:
+  - type: RECAP
+    start: 0
+    end: 57
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 57
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1250
+    end: 1315
+    confidence: 0.95
+    source: manual

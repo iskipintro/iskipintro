@@ -1,0 +1,21 @@
+series: Rick and Morty
+season: 7
+episode: 2
+tmdb_id: 60625
+imdb_id: tt2861424
+markers:
+  - type: RECAP
+    start: 0
+    end: 46
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 46
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1252
+    end: 1317
+    confidence: 0.95
+    source: manual

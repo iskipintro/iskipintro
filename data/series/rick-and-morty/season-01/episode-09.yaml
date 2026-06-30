@@ -1,0 +1,21 @@
+series: Rick and Morty
+season: 1
+episode: 9
+tmdb_id: 60625
+imdb_id: tt2861424
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 116
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1355
+    end: 1420
+    confidence: 0.95
+    source: manual

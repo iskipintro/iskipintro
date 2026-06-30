@@ -1,0 +1,21 @@
+series: The Mandalorian
+season: 2
+episode: 1
+tmdb_id: 82856
+imdb_id: tt8111088
+markers:
+  - type: RECAP
+    start: 0
+    end: 54
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 54
+    end: 115
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1240
+    end: 1305
+    confidence: 0.95
+    source: manual

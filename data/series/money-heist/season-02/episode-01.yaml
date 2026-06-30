@@ -1,0 +1,21 @@
+series: Money Heist
+season: 2
+episode: 1
+tmdb_id: 71446
+imdb_id: tt6468322
+markers:
+  - type: RECAP
+    start: 0
+    end: 57
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 57
+    end: 113
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1218
+    end: 1283
+    confidence: 0.95
+    source: manual

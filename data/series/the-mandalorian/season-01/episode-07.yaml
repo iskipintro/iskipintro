@@ -1,0 +1,21 @@
+series: The Mandalorian
+season: 1
+episode: 7
+tmdb_id: 82856
+imdb_id: tt8111088
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 106
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1335
+    end: 1400
+    confidence: 0.95
+    source: manual

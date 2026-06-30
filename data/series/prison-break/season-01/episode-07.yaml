@@ -1,0 +1,21 @@
+series: Prison Break
+season: 1
+episode: 7
+tmdb_id: 2287
+imdb_id: tt0455275
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 112
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1224
+    end: 1289
+    confidence: 0.95
+    source: manual

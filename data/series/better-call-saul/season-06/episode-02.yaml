@@ -1,0 +1,21 @@
+series: Better Call Saul
+season: 6
+episode: 2
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 53
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 53
+    end: 101
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1279
+    end: 1344
+    confidence: 0.95
+    source: manual

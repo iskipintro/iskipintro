@@ -1,0 +1,21 @@
+series: Prison Break
+season: 4
+episode: 17
+tmdb_id: 2287
+imdb_id: tt0455275
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 97
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1295
+    end: 1360
+    confidence: 0.95
+    source: manual

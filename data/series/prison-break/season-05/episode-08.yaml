@@ -1,0 +1,21 @@
+series: Prison Break
+season: 5
+episode: 8
+tmdb_id: 2287
+imdb_id: tt0455275
+markers:
+  - type: RECAP
+    start: 0
+    end: 44
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 44
+    end: 96
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1306
+    end: 1371
+    confidence: 0.95
+    source: manual

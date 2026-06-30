@@ -1,0 +1,21 @@
+series: Better Call Saul
+season: 1
+episode: 3
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 35
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 35
+    end: 92
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1289
+    end: 1354
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Rick and Morty
+season: 7
+episode: 3
+tmdb_id: 60625
+imdb_id: tt2861424
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 109
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1320
+    end: 1385
+    confidence: 0.95
+    source: manual

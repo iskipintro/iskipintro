@@ -1,0 +1,21 @@
+series: Better Call Saul
+season: 4
+episode: 8
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 49
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 49
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1206
+    end: 1271
+    confidence: 0.95
+    source: manual

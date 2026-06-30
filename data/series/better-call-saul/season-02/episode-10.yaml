@@ -1,0 +1,21 @@
+series: Better Call Saul
+season: 2
+episode: 10
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 90
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1308
+    end: 1373
+    confidence: 0.95
+    source: manual

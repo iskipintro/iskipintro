@@ -1,0 +1,22 @@
+series: Squid Game
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 93405
+imdb_id: tt10919420
+markers:
+  - type: RECAP
+    start: 0
+    end: 41
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 41
+    end: 83
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1200
+    end: 1265
+    confidence: 0.95
+    source: manual

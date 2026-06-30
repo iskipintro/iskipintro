@@ -1,0 +1,21 @@
+series: Prison Break
+season: 1
+episode: 13
+tmdb_id: 2287
+imdb_id: tt0455275
+markers:
+  - type: RECAP
+    start: 0
+    end: 39
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 39
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1397
+    end: 1462
+    confidence: 0.95
+    source: manual

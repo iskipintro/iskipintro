@@ -1,0 +1,20 @@
+title: Oppenheimer
+year: 2023
+tmdb_id: 872585
+imdb_id: tt15398776
+markers:
+  - type: INTRO
+    start: 0
+    end: 63
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 10800
+    end: 10890
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 10890
+    end: 10897
+    confidence: 0.80
+    source: manual

@@ -1,0 +1,22 @@
+series: Money Heist
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 71446
+imdb_id: tt6468322
+markers:
+  - type: RECAP
+    start: 0
+    end: 57
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 57
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1227
+    end: 1292
+    confidence: 0.95
+    source: manual

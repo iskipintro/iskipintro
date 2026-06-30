@@ -1,0 +1,20 @@
+title: Finding Nemo
+year: 2003
+tmdb_id: 12
+imdb_id: tt0266543
+markers:
+  - type: INTRO
+    start: 0
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 5400
+    end: 5490
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 5490
+    end: 5493
+    confidence: 0.80
+    source: manual

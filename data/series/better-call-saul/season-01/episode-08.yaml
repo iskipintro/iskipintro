@@ -1,0 +1,21 @@
+series: Better Call Saul
+season: 1
+episode: 8
+tmdb_id: 60059
+imdb_id: tt3032476
+markers:
+  - type: RECAP
+    start: 0
+    end: 64
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 64
+    end: 107
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1398
+    end: 1463
+    confidence: 0.95
+    source: manual
