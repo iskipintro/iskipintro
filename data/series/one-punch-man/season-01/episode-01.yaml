@@ -1,0 +1,22 @@
+series: One Punch Man
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 64196
+imdb_id: tt4508902
+markers:
+  - type: RECAP
+    start: 0
+    end: 51
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 51
+    end: 106
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1303
+    end: 1368
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Family Guy
+season: 4
+episode: 13
+tmdb_id: 770
+imdb_id: tt0182576
+markers:
+  - type: RECAP
+    start: 0
+    end: 32
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 32
+    end: 75
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1257
+    end: 1322
+    confidence: 0.95
+    source: manual

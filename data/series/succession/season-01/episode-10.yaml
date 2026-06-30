@@ -1,0 +1,21 @@
+series: Succession
+season: 1
+episode: 10
+tmdb_id: 76331
+imdb_id: tt7660850
+markers:
+  - type: RECAP
+    start: 0
+    end: 36
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 36
+    end: 98
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1247
+    end: 1312
+    confidence: 0.95
+    source: manual

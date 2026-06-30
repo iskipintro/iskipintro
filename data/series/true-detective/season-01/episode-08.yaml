@@ -1,0 +1,21 @@
+series: True Detective
+season: 1
+episode: 8
+tmdb_id: 46648
+imdb_id: tt2356777
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 114
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1191
+    end: 1256
+    confidence: 0.95
+    source: manual

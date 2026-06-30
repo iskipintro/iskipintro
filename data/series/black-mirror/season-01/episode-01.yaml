@@ -1,0 +1,22 @@
+series: Black Mirror
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 42009
+imdb_id: tt2085059
+markers:
+  - type: RECAP
+    start: 0
+    end: 31
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 31
+    end: 69
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1202
+    end: 1267
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 3
+episode: 18
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 31
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 31
+    end: 72
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1267
+    end: 1332
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Attack on Titan
+season: 2
+episode: 10
+tmdb_id: 1429
+imdb_id: tt2560140
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 101
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1328
+    end: 1393
+    confidence: 0.95
+    source: manual

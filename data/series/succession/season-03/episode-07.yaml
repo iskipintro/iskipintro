@@ -1,0 +1,21 @@
+series: Succession
+season: 3
+episode: 7
+tmdb_id: 76331
+imdb_id: tt7660850
+markers:
+  - type: RECAP
+    start: 0
+    end: 31
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 31
+    end: 83
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1218
+    end: 1283
+    confidence: 0.95
+    source: manual

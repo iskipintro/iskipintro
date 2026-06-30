@@ -1,0 +1,21 @@
+series: Attack on Titan
+season: 1
+episode: 14
+tmdb_id: 1429
+imdb_id: tt2560140
+markers:
+  - type: RECAP
+    start: 0
+    end: 32
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 32
+    end: 91
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1192
+    end: 1257
+    confidence: 0.95
+    source: manual

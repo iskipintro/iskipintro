@@ -1,0 +1,21 @@
+series: South Park
+season: 5
+episode: 7
+tmdb_id: 2198
+imdb_id: tt0121955
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 97
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1178
+    end: 1243
+    confidence: 0.95
+    source: manual

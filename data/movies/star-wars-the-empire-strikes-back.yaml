@@ -1,0 +1,20 @@
+title: "Star Wars: The Empire Strikes Back"
+year: 1980
+tmdb_id: 1891
+imdb_id: tt0080684
+markers:
+  - type: INTRO
+    start: 0
+    end: 130
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7440
+    end: 7530
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7530
+    end: 7552
+    confidence: 0.80
+    source: manual

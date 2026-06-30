@@ -1,0 +1,20 @@
+title: Blade Runner 2049
+year: 2017
+tmdb_id: 335984
+imdb_id: tt1856101
+markers:
+  - type: INTRO
+    start: 0
+    end: 82
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 9840
+    end: 9930
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 9930
+    end: 9955
+    confidence: 0.80
+    source: manual

@@ -1,0 +1,21 @@
+series: The Crown
+season: 4
+episode: 6
+tmdb_id: 73107
+imdb_id: tt4786824
+markers:
+  - type: RECAP
+    start: 0
+    end: 34
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 34
+    end: 87
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1215
+    end: 1280
+    confidence: 0.95
+    source: manual

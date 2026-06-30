@@ -1,0 +1,21 @@
+series: Family Guy
+season: 2
+episode: 3
+tmdb_id: 770
+imdb_id: tt0182576
+markers:
+  - type: RECAP
+    start: 0
+    end: 54
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 54
+    end: 112
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1328
+    end: 1393
+    confidence: 0.95
+    source: manual

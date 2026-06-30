@@ -1,0 +1,21 @@
+series: The Boys
+season: 1
+episode: 2
+tmdb_id: 76479
+imdb_id: tt1190634
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 106
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1174
+    end: 1239
+    confidence: 0.95
+    source: manual

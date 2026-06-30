@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 2
+episode: 16
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 90
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1178
+    end: 1243
+    confidence: 0.95
+    source: manual

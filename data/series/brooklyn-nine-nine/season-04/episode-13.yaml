@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 4
+episode: 13
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1172
+    end: 1237
+    confidence: 0.95
+    source: manual

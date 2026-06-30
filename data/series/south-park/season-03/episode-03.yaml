@@ -1,0 +1,21 @@
+series: South Park
+season: 3
+episode: 3
+tmdb_id: 2198
+imdb_id: tt0121955
+markers:
+  - type: RECAP
+    start: 0
+    end: 38
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 38
+    end: 98
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1204
+    end: 1269
+    confidence: 0.95
+    source: manual

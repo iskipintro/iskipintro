@@ -1,0 +1,21 @@
+series: The Crown
+season: 3
+episode: 1
+tmdb_id: 73107
+imdb_id: tt4786824
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 97
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1307
+    end: 1372
+    confidence: 0.95
+    source: manual

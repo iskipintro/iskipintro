@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 1
+episode: 12
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 46
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 46
+    end: 85
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1221
+    end: 1286
+    confidence: 0.95
+    source: manual

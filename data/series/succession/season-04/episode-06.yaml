@@ -1,0 +1,21 @@
+series: Succession
+season: 4
+episode: 6
+tmdb_id: 76331
+imdb_id: tt7660850
+markers:
+  - type: RECAP
+    start: 0
+    end: 53
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 53
+    end: 106
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1230
+    end: 1295
+    confidence: 0.95
+    source: manual

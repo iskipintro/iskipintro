@@ -1,0 +1,21 @@
+series: Attack on Titan
+season: 3
+episode: 21
+tmdb_id: 1429
+imdb_id: tt2560140
+markers:
+  - type: RECAP
+    start: 0
+    end: 30
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 30
+    end: 74
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1287
+    end: 1352
+    confidence: 0.95
+    source: manual

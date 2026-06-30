@@ -1,0 +1,21 @@
+series: Black Mirror
+season: 2
+episode: 4
+tmdb_id: 42009
+imdb_id: tt2085059
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 97
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1292
+    end: 1357
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: "Fullmetal Alchemist: Brotherhood"
+season: 1
+episode: 52
+tmdb_id: 19885
+imdb_id: tt1355642
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1188
+    end: 1253
+    confidence: 0.95
+    source: manual

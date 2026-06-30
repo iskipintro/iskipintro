@@ -1,0 +1,20 @@
+title: Back to the Future
+year: 1985
+tmdb_id: 105
+imdb_id: tt0088763
+markers:
+  - type: INTRO
+    start: 0
+    end: 92
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6960
+    end: 7050
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7050
+    end: 7062
+    confidence: 0.80
+    source: manual

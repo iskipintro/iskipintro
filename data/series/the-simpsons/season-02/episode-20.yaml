@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 2
+episode: 20
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 53
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 53
+    end: 113
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1328
+    end: 1393
+    confidence: 0.95
+    source: manual

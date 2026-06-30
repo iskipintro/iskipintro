@@ -1,0 +1,21 @@
+series: Narcos
+season: 1
+episode: 2
+tmdb_id: 63351
+imdb_id: tt2707408
+markers:
+  - type: RECAP
+    start: 0
+    end: 49
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 49
+    end: 98
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1220
+    end: 1285
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 2
+episode: 7
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 32
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 32
+    end: 77
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1250
+    end: 1315
+    confidence: 0.95
+    source: manual

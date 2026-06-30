@@ -1,0 +1,21 @@
+series: Family Guy
+season: 2
+episode: 2
+tmdb_id: 770
+imdb_id: tt0182576
+markers:
+  - type: RECAP
+    start: 0
+    end: 35
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 35
+    end: 90
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1246
+    end: 1311
+    confidence: 0.95
+    source: manual

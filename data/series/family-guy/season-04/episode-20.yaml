@@ -1,0 +1,21 @@
+series: Family Guy
+season: 4
+episode: 20
+tmdb_id: 770
+imdb_id: tt0182576
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 101
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1232
+    end: 1297
+    confidence: 0.95
+    source: manual

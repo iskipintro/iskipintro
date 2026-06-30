@@ -1,0 +1,20 @@
+title: The Silence of the Lambs
+year: 1991
+tmdb_id: 274
+imdb_id: tt0102926
+markers:
+  - type: INTRO
+    start: 0
+    end: 141
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7080
+    end: 7170
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7170
+    end: 7181
+    confidence: 0.80
+    source: manual

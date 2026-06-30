@@ -1,0 +1,21 @@
+series: Attack on Titan
+season: 4
+episode: 24
+tmdb_id: 1429
+imdb_id: tt2560140
+markers:
+  - type: RECAP
+    start: 0
+    end: 45
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 45
+    end: 86
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1296
+    end: 1361
+    confidence: 0.95
+    source: manual

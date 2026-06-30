@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 2
+episode: 11
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 32
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 32
+    end: 92
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1196
+    end: 1261
+    confidence: 0.95
+    source: manual

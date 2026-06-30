@@ -1,0 +1,21 @@
+series: The Crown
+season: 6
+episode: 7
+tmdb_id: 73107
+imdb_id: tt4786824
+markers:
+  - type: RECAP
+    start: 0
+    end: 33
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 33
+    end: 84
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1284
+    end: 1349
+    confidence: 0.95
+    source: manual

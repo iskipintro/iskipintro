@@ -1,0 +1,21 @@
+series: Peaky Blinders
+season: 1
+episode: 6
+tmdb_id: 60574
+imdb_id: tt2442560
+markers:
+  - type: RECAP
+    start: 0
+    end: 30
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 30
+    end: 89
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1284
+    end: 1349
+    confidence: 0.95
+    source: manual

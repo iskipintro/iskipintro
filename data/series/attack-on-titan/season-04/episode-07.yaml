@@ -1,0 +1,21 @@
+series: Attack on Titan
+season: 4
+episode: 7
+tmdb_id: 1429
+imdb_id: tt2560140
+markers:
+  - type: RECAP
+    start: 0
+    end: 46
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 46
+    end: 92
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1151
+    end: 1216
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: South Park
+season: 1
+episode: 13
+tmdb_id: 2198
+imdb_id: tt0121955
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 82
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1306
+    end: 1371
+    confidence: 0.95
+    source: manual

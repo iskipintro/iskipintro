@@ -1,0 +1,21 @@
+series: Black Mirror
+season: 4
+episode: 3
+tmdb_id: 42009
+imdb_id: tt2085059
+markers:
+  - type: RECAP
+    start: 0
+    end: 49
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 49
+    end: 106
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1314
+    end: 1379
+    confidence: 0.95
+    source: manual

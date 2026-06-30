@@ -1,0 +1,20 @@
+title: Jurassic Park
+year: 1993
+tmdb_id: 329
+imdb_id: tt0107290
+markers:
+  - type: INTRO
+    start: 0
+    end: 68
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7620
+    end: 7710
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7710
+    end: 7738
+    confidence: 0.80
+    source: manual

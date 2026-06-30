@@ -1,0 +1,20 @@
+title: The Shining
+year: 1980
+tmdb_id: 694
+imdb_id: tt0081505
+markers:
+  - type: INTRO
+    start: 0
+    end: 142
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 8760
+    end: 8850
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 8850
+    end: 8874
+    confidence: 0.80
+    source: manual

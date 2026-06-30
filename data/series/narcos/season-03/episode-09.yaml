@@ -1,0 +1,21 @@
+series: Narcos
+season: 3
+episode: 9
+tmdb_id: 63351
+imdb_id: tt2707408
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 112
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1196
+    end: 1261
+    confidence: 0.95
+    source: manual

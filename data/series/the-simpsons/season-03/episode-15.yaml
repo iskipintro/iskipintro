@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 3
+episode: 15
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 51
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 51
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1230
+    end: 1295
+    confidence: 0.95
+    source: manual

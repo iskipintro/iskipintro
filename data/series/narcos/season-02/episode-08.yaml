@@ -1,0 +1,21 @@
+series: Narcos
+season: 2
+episode: 8
+tmdb_id: 63351
+imdb_id: tt2707408
+markers:
+  - type: RECAP
+    start: 0
+    end: 33
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 33
+    end: 86
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1299
+    end: 1364
+    confidence: 0.95
+    source: manual

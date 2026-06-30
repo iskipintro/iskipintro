@@ -1,0 +1,21 @@
+series: The Witcher
+season: 2
+episode: 4
+tmdb_id: 71912
+imdb_id: tt5180504
+markers:
+  - type: RECAP
+    start: 0
+    end: 33
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 33
+    end: 81
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1327
+    end: 1392
+    confidence: 0.95
+    source: manual

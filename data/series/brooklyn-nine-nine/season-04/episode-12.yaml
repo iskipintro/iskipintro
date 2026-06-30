@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 4
+episode: 12
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 98
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1291
+    end: 1356
+    confidence: 0.95
+    source: manual

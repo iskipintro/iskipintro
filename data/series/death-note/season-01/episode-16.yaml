@@ -1,0 +1,21 @@
+series: Death Note
+season: 1
+episode: 16
+tmdb_id: 1534
+imdb_id: tt0877057
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1282
+    end: 1347
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: The Crown
+season: 5
+episode: 2
+tmdb_id: 73107
+imdb_id: tt4786824
+markers:
+  - type: RECAP
+    start: 0
+    end: 32
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 32
+    end: 76
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1286
+    end: 1351
+    confidence: 0.95
+    source: manual

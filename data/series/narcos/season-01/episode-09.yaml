@@ -1,0 +1,21 @@
+series: Narcos
+season: 1
+episode: 9
+tmdb_id: 63351
+imdb_id: tt2707408
+markers:
+  - type: RECAP
+    start: 0
+    end: 44
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 44
+    end: 93
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1150
+    end: 1215
+    confidence: 0.95
+    source: manual

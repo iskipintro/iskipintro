@@ -1,0 +1,20 @@
+title: "Mad Max: Fury Road"
+year: 2015
+tmdb_id: 76341
+imdb_id: tt1392190
+markers:
+  - type: INTRO
+    start: 0
+    end: 86
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7200
+    end: 7290
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7290
+    end: 7318
+    confidence: 0.80
+    source: manual

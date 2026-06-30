@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 4
+episode: 11
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 105
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1142
+    end: 1207
+    confidence: 0.95
+    source: manual

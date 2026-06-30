@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 2
+episode: 3
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 38
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 38
+    end: 88
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1199
+    end: 1264
+    confidence: 0.95
+    source: manual

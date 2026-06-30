@@ -1,0 +1,22 @@
+series: Chernobyl
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 87108
+imdb_id: tt7366338
+markers:
+  - type: RECAP
+    start: 0
+    end: 53
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 53
+    end: 105
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1218
+    end: 1283
+    confidence: 0.95
+    source: manual

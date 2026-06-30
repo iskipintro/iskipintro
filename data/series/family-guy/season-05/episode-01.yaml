@@ -1,0 +1,21 @@
+series: Family Guy
+season: 5
+episode: 1
+tmdb_id: 770
+imdb_id: tt0182576
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 110
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1189
+    end: 1254
+    confidence: 0.95
+    source: manual

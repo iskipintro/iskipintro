@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 2
+episode: 19
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 30
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 30
+    end: 76
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1209
+    end: 1274
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: South Park
+season: 2
+episode: 18
+tmdb_id: 2198
+imdb_id: tt0121955
+markers:
+  - type: RECAP
+    start: 0
+    end: 31
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 31
+    end: 90
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1185
+    end: 1250
+    confidence: 0.95
+    source: manual

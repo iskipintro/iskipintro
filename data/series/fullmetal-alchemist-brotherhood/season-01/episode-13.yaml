@@ -1,0 +1,21 @@
+series: "Fullmetal Alchemist: Brotherhood"
+season: 1
+episode: 13
+tmdb_id: 19885
+imdb_id: tt1355642
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 102
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1214
+    end: 1279
+    confidence: 0.95
+    source: manual

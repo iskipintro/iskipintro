@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 3
+episode: 9
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 31
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 31
+    end: 74
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1289
+    end: 1354
+    confidence: 0.95
+    source: manual

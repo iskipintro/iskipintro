@@ -1,0 +1,21 @@
+series: Peaky Blinders
+season: 5
+episode: 4
+tmdb_id: 60574
+imdb_id: tt2442560
+markers:
+  - type: RECAP
+    start: 0
+    end: 54
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 54
+    end: 95
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1142
+    end: 1207
+    confidence: 0.95
+    source: manual

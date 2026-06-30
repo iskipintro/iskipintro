@@ -1,0 +1,20 @@
+title: The Departed
+year: 2006
+tmdb_id: 1422
+imdb_id: tt0407887
+markers:
+  - type: INTRO
+    start: 0
+    end: 66
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 9060
+    end: 9150
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 9150
+    end: 9166
+    confidence: 0.80
+    source: manual

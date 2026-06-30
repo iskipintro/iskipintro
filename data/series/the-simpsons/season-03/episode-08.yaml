@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 3
+episode: 8
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1331
+    end: 1396
+    confidence: 0.95
+    source: manual

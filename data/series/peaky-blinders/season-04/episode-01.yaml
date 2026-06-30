@@ -1,0 +1,21 @@
+series: Peaky Blinders
+season: 4
+episode: 1
+tmdb_id: 60574
+imdb_id: tt2442560
+markers:
+  - type: RECAP
+    start: 0
+    end: 52
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 52
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1312
+    end: 1377
+    confidence: 0.95
+    source: manual

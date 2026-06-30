@@ -1,0 +1,21 @@
+series: Family Guy
+season: 3
+episode: 17
+tmdb_id: 770
+imdb_id: tt0182576
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 95
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1322
+    end: 1387
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Succession
+season: 2
+episode: 9
+tmdb_id: 76331
+imdb_id: tt7660850
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 91
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1316
+    end: 1381
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: South Park
+season: 5
+episode: 5
+tmdb_id: 2198
+imdb_id: tt0121955
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 108
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1168
+    end: 1233
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: One Punch Man
+season: 2
+episode: 9
+tmdb_id: 64196
+imdb_id: tt4508902
+markers:
+  - type: RECAP
+    start: 0
+    end: 45
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 45
+    end: 96
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1150
+    end: 1215
+    confidence: 0.95
+    source: manual

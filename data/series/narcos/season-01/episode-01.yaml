@@ -1,0 +1,22 @@
+series: Narcos
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 63351
+imdb_id: tt2707408
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 93
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1282
+    end: 1347
+    confidence: 0.95
+    source: manual

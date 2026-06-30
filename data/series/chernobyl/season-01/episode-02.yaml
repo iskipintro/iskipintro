@@ -1,0 +1,21 @@
+series: Chernobyl
+season: 1
+episode: 2
+tmdb_id: 87108
+imdb_id: tt7366338
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 116
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1252
+    end: 1317
+    confidence: 0.95
+    source: manual

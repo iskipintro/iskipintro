@@ -1,0 +1,21 @@
+series: The Boys
+season: 1
+episode: 7
+tmdb_id: 76479
+imdb_id: tt1190634
+markers:
+  - type: RECAP
+    start: 0
+    end: 31
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 31
+    end: 78
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1213
+    end: 1278
+    confidence: 0.95
+    source: manual

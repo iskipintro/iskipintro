@@ -1,0 +1,21 @@
+series: Black Mirror
+season: 6
+episode: 1
+tmdb_id: 42009
+imdb_id: tt2085059
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55
+    end: 94
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1228
+    end: 1293
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 1
+episode: 9
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 33
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 33
+    end: 88
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1314
+    end: 1379
+    confidence: 0.95
+    source: manual

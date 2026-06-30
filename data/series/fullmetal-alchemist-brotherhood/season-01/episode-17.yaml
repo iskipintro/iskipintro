@@ -1,0 +1,21 @@
+series: "Fullmetal Alchemist: Brotherhood"
+season: 1
+episode: 17
+tmdb_id: 19885
+imdb_id: tt1355642
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 96
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1326
+    end: 1391
+    confidence: 0.95
+    source: manual

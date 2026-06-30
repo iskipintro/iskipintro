@@ -1,0 +1,21 @@
+series: True Detective
+season: 1
+episode: 3
+tmdb_id: 46648
+imdb_id: tt2356777
+markers:
+  - type: RECAP
+    start: 0
+    end: 46
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 46
+    end: 88
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1194
+    end: 1259
+    confidence: 0.95
+    source: manual

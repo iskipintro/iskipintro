@@ -1,0 +1,21 @@
+series: The Crown
+season: 4
+episode: 9
+tmdb_id: 73107
+imdb_id: tt4786824
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 95
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1168
+    end: 1233
+    confidence: 0.95
+    source: manual

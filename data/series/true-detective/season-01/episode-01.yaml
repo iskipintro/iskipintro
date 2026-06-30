@@ -1,0 +1,22 @@
+series: True Detective
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 46648
+imdb_id: tt2356777
+markers:
+  - type: RECAP
+    start: 0
+    end: 51
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 51
+    end: 104
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1223
+    end: 1288
+    confidence: 0.95
+    source: manual

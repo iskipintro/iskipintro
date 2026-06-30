@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 1
+episode: 9
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1175
+    end: 1240
+    confidence: 0.95
+    source: manual

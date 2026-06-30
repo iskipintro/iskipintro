@@ -1,0 +1,21 @@
+series: South Park
+season: 2
+episode: 3
+tmdb_id: 2198
+imdb_id: tt0121955
+markers:
+  - type: RECAP
+    start: 0
+    end: 38
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 38
+    end: 82
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1275
+    end: 1340
+    confidence: 0.95
+    source: manual

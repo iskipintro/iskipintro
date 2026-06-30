@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 3
+episode: 17
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 32
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 32
+    end: 92
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1252
+    end: 1317
+    confidence: 0.95
+    source: manual

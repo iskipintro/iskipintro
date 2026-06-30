@@ -1,0 +1,21 @@
+series: Chernobyl
+season: 1
+episode: 4
+tmdb_id: 87108
+imdb_id: tt7366338
+markers:
+  - type: RECAP
+    start: 0
+    end: 54
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 54
+    end: 104
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1270
+    end: 1335
+    confidence: 0.95
+    source: manual

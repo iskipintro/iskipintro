@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 7
+episode: 9
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 30
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 30
+    end: 75
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1231
+    end: 1296
+    confidence: 0.95
+    source: manual

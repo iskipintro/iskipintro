@@ -1,0 +1,21 @@
+series: One Punch Man
+season: 2
+episode: 12
+tmdb_id: 64196
+imdb_id: tt4508902
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 93
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1175
+    end: 1240
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Peaky Blinders
+season: 3
+episode: 1
+tmdb_id: 60574
+imdb_id: tt2442560
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 108
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1164
+    end: 1229
+    confidence: 0.95
+    source: manual

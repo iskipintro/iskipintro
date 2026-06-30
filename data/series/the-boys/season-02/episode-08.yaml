@@ -1,0 +1,21 @@
+series: The Boys
+season: 2
+episode: 8
+tmdb_id: 76479
+imdb_id: tt1190634
+markers:
+  - type: RECAP
+    start: 0
+    end: 36
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 36
+    end: 77
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1306
+    end: 1371
+    confidence: 0.95
+    source: manual

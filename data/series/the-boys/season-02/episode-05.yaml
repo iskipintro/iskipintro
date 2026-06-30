@@ -1,0 +1,21 @@
+series: The Boys
+season: 2
+episode: 5
+tmdb_id: 76479
+imdb_id: tt1190634
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1179
+    end: 1244
+    confidence: 0.95
+    source: manual

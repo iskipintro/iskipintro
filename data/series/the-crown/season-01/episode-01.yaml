@@ -1,0 +1,22 @@
+series: The Crown
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 73107
+imdb_id: tt4786824
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 84
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1277
+    end: 1342
+    confidence: 0.95
+    source: manual

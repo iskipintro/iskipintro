@@ -1,0 +1,21 @@
+series: South Park
+season: 4
+episode: 12
+tmdb_id: 2198
+imdb_id: tt0121955
+markers:
+  - type: RECAP
+    start: 0
+    end: 31
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 31
+    end: 93
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1259
+    end: 1324
+    confidence: 0.95
+    source: manual

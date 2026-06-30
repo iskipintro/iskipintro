@@ -1,0 +1,21 @@
+series: True Detective
+season: 2
+episode: 7
+tmdb_id: 46648
+imdb_id: tt2356777
+markers:
+  - type: RECAP
+    start: 0
+    end: 33
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 33
+    end: 93
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1176
+    end: 1241
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Family Guy
+season: 3
+episode: 20
+tmdb_id: 770
+imdb_id: tt0182576
+markers:
+  - type: RECAP
+    start: 0
+    end: 40
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 40
+    end: 80
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1272
+    end: 1337
+    confidence: 0.95
+    source: manual

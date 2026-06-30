@@ -1,0 +1,20 @@
+title: "Star Wars: Return of the Jedi"
+year: 1983
+tmdb_id: 1892
+imdb_id: tt0086190
+markers:
+  - type: INTRO
+    start: 0
+    end: 77
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7860
+    end: 7950
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7950
+    end: 7966
+    confidence: 0.80
+    source: manual

@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 5
+episode: 16
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55
+    end: 102
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1326
+    end: 1391
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: "Fullmetal Alchemist: Brotherhood"
+season: 1
+episode: 24
+tmdb_id: 19885
+imdb_id: tt1355642
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 111
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1305
+    end: 1370
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: The Crown
+season: 2
+episode: 4
+tmdb_id: 73107
+imdb_id: tt4786824
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55
+    end: 110
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1263
+    end: 1328
+    confidence: 0.95
+    source: manual

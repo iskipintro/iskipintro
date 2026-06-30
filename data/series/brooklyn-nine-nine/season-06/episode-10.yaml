@@ -1,0 +1,21 @@
+series: Brooklyn Nine-Nine
+season: 6
+episode: 10
+tmdb_id: 48891
+imdb_id: tt2467372
+markers:
+  - type: RECAP
+    start: 0
+    end: 34
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 34
+    end: 79
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1332
+    end: 1397
+    confidence: 0.95
+    source: manual

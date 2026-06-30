@@ -1,0 +1,21 @@
+series: South Park
+season: 2
+episode: 8
+tmdb_id: 2198
+imdb_id: tt0121955
+markers:
+  - type: RECAP
+    start: 0
+    end: 34
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 34
+    end: 84
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1309
+    end: 1374
+    confidence: 0.95
+    source: manual

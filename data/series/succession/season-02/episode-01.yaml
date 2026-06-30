@@ -1,0 +1,21 @@
+series: Succession
+season: 2
+episode: 1
+tmdb_id: 76331
+imdb_id: tt7660850
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 98
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1327
+    end: 1392
+    confidence: 0.95
+    source: manual

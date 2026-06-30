@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 4
+episode: 10
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 97
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1318
+    end: 1383
+    confidence: 0.95
+    source: manual

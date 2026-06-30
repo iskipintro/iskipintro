@@ -1,0 +1,21 @@
+series: The Crown
+season: 2
+episode: 6
+tmdb_id: 73107
+imdb_id: tt4786824
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 114
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1267
+    end: 1332
+    confidence: 0.95
+    source: manual

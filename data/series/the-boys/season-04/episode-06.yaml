@@ -1,0 +1,21 @@
+series: The Boys
+season: 4
+episode: 6
+tmdb_id: 76479
+imdb_id: tt1190634
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 109
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1290
+    end: 1355
+    confidence: 0.95
+    source: manual

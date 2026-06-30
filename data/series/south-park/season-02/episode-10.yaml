@@ -1,0 +1,21 @@
+series: South Park
+season: 2
+episode: 10
+tmdb_id: 2198
+imdb_id: tt0121955
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 94
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1173
+    end: 1238
+    confidence: 0.95
+    source: manual

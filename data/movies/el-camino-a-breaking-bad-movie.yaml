@@ -1,0 +1,20 @@
+title: "El Camino: A Breaking Bad Movie"
+year: 2019
+tmdb_id: 559969
+imdb_id: tt9243946
+markers:
+  - type: INTRO
+    start: 0
+    end: 123
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7320
+    end: 7410
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7410
+    end: 7411
+    confidence: 0.80
+    source: manual

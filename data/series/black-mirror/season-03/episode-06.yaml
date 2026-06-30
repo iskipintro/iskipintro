@@ -1,0 +1,21 @@
+series: Black Mirror
+season: 3
+episode: 6
+tmdb_id: 42009
+imdb_id: tt2085059
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 104
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1160
+    end: 1225
+    confidence: 0.95
+    source: manual

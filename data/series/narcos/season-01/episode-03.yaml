@@ -1,0 +1,21 @@
+series: Narcos
+season: 1
+episode: 3
+tmdb_id: 63351
+imdb_id: tt2707408
+markers:
+  - type: RECAP
+    start: 0
+    end: 31
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 31
+    end: 83
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1241
+    end: 1306
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Black Mirror
+season: 4
+episode: 6
+tmdb_id: 42009
+imdb_id: tt2085059
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1270
+    end: 1335
+    confidence: 0.95
+    source: manual

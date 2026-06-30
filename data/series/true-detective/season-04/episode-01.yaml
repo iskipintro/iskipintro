@@ -1,0 +1,21 @@
+series: True Detective
+season: 4
+episode: 1
+tmdb_id: 46648
+imdb_id: tt2356777
+markers:
+  - type: RECAP
+    start: 0
+    end: 37
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 37
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1162
+    end: 1227
+    confidence: 0.95
+    source: manual

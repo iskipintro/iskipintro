@@ -1,0 +1,20 @@
+title: Gladiator
+year: 2000
+tmdb_id: 98
+imdb_id: tt0172495
+markers:
+  - type: INTRO
+    start: 0
+    end: 93
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 9300
+    end: 9390
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 9390
+    end: 9408
+    confidence: 0.80
+    source: manual

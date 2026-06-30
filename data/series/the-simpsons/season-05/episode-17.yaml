@@ -1,0 +1,21 @@
+series: The Simpsons
+season: 5
+episode: 17
+tmdb_id: 456
+imdb_id: tt0096697
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 105
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1297
+    end: 1362
+    confidence: 0.95
+    source: manual

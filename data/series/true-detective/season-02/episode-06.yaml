@@ -1,0 +1,21 @@
+series: True Detective
+season: 2
+episode: 6
+tmdb_id: 46648
+imdb_id: tt2356777
+markers:
+  - type: RECAP
+    start: 0
+    end: 45
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 45
+    end: 83
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1246
+    end: 1311
+    confidence: 0.95
+    source: manual

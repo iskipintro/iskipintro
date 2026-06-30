@@ -1,0 +1,21 @@
+series: The Witcher
+season: 1
+episode: 7
+tmdb_id: 71912
+imdb_id: tt5180504
+markers:
+  - type: RECAP
+    start: 0
+    end: 53
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 53
+    end: 98
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1155
+    end: 1220
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Black Mirror
+season: 4
+episode: 5
+tmdb_id: 42009
+imdb_id: tt2085059
+markers:
+  - type: RECAP
+    start: 0
+    end: 33
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 33
+    end: 95
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1265
+    end: 1330
+    confidence: 0.95
+    source: manual

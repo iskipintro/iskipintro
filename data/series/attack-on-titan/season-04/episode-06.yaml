@@ -1,0 +1,21 @@
+series: Attack on Titan
+season: 4
+episode: 6
+tmdb_id: 1429
+imdb_id: tt2560140
+markers:
+  - type: RECAP
+    start: 0
+    end: 33
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 33
+    end: 80
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1168
+    end: 1233
+    confidence: 0.95
+    source: manual

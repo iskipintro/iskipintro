@@ -1,0 +1,20 @@
+title: No Country for Old Men
+year: 2007
+tmdb_id: 6977
+imdb_id: tt0477348
+markers:
+  - type: INTRO
+    start: 0
+    end: 129
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7320
+    end: 7410
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7410
+    end: 7439
+    confidence: 0.80
+    source: manual

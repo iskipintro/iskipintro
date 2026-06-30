@@ -1,0 +1,21 @@
+series: True Detective
+season: 2
+episode: 5
+tmdb_id: 46648
+imdb_id: tt2356777
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 108
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1186
+    end: 1251
+    confidence: 0.95
+    source: manual

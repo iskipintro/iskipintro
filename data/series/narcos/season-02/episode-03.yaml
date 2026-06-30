@@ -1,0 +1,21 @@
+series: Narcos
+season: 2
+episode: 3
+tmdb_id: 63351
+imdb_id: tt2707408
+markers:
+  - type: RECAP
+    start: 0
+    end: 44
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 44
+    end: 102
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1144
+    end: 1209
+    confidence: 0.95
+    source: manual
