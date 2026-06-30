@@ -8,6 +8,7 @@ export const movies = sqliteTable("movies", {
   anilistId: integer("anilist_id").unique(),
   kitsuId: integer("kitsu_id").unique(),
   title: text("title").notNull(),
+  slug: text("slug").unique(),
   year: integer("year"),
   poster: text("poster"),
   backdrop: text("backdrop"),
@@ -22,6 +23,7 @@ export const series = sqliteTable("series", {
   anilistId: integer("anilist_id").unique(),
   kitsuId: integer("kitsu_id").unique(),
   title: text("title").notNull(),
+  slug: text("slug").unique(),
   poster: text("poster"),
   backdrop: text("backdrop"),
   createdAt: text("created_at").notNull().default("CURRENT_TIMESTAMP"),
@@ -61,6 +63,7 @@ export const markers = sqliteTable("markers", {
   endTime: real("end_time").notNull(),
   confidence: real("confidence").default(1.0),
   verified: integer("verified", { mode: "boolean" }).default(false),
+  source: text("source").notNull().default("manual"),
   createdAt: text("created_at").notNull().default("CURRENT_TIMESTAMP"),
   updatedAt: text("updated_at").notNull().default("CURRENT_TIMESTAMP"),
 });
