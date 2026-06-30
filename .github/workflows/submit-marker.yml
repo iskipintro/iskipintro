@@ -3,17 +3,17 @@ on:
   workflow_dispatch:
     inputs:
       series:
-        description: "Series name"
+        description: "Series name (e.g. Breaking Bad)"
         required: true
         type: string
       season:
         description: "Season number"
         required: true
-        type: number
+        type: string
       episode:
         description: "Episode number"
         required: true
-        type: number
+        type: string
       marker_type:
         description: "Marker type"
         required: true
@@ -28,16 +28,12 @@ on:
           - LOGO
           - OTHER
       start_time:
-        description: "Start time (seconds, e.g. 42.1)"
+        description: "Start time in seconds (e.g. 42.1)"
         required: true
         type: string
       end_time:
-        description: "End time (seconds, e.g. 131.8)"
+        description: "End time in seconds (e.g. 131.8)"
         required: true
-        type: string
-      comment:
-        description: "Comment / source (optional)"
-        required: false
         type: string
 
 permissions:
@@ -58,17 +54,18 @@ jobs:
             | sed 's/[^a-z0-9]/-/g' \
             | sed 's/--*/-/g' \
             | sed 's/^-//;s/-$//')
-          echo "slug=$SLUG" >> $GITHUB_OUTPUT
+          echo "slug=$SLUG" >> "$GITHUB_OUTPUT"
 
-      - name: Create YAML file
+      - name: Generate YAML
         run: |
           SLUG="${{ steps.slug.outputs.slug }}"
-          DIR="data/series/$SLUG/season-$(printf '%02d' ${{ inputs.season }})"
-          FILE="$DIR/episode-$(printf '%02d' ${{ inputs.episode }}).yaml"
+          SEASON=$(printf '%02d' ${{ inputs.season }})
+          EPISODE=$(printf '%02d' ${{ inputs.episode }})
+          DIR="data/series/$SLUG/season-$SEASON"
+          FILE="$DIR/episode-$EPISODE.yaml"
 
           mkdir -p "$DIR"
 
-          # If file already exists, append; otherwise create new
           if [ -f "$FILE" ]; then
             echo "  - type: ${{ inputs.marker_type }}" >> "$FILE"
             echo "    start: ${{ inputs.start_time }}" >> "$FILE"
@@ -76,20 +73,20 @@ jobs:
             echo "    confidence: 0.95" >> "$FILE"
             echo "    source: manual" >> "$FILE"
           else
-            cat > "$FILE" << 'YAMLEOF'
-series: ${{ inputs.series }}
-season: ${{ inputs.season }}
-episode: ${{ inputs.episode }}
-markers:
-  - type: ${{ inputs.marker_type }}
-    start: ${{ inputs.start_time }}
-    end: ${{ inputs.end_time }}
-    confidence: 0.95
-    source: manual
-YAMLEOF
+            {
+              echo "series: ${{ inputs.series }}"
+              echo "season: ${{ inputs.season }}"
+              echo "episode: ${{ inputs.episode }}"
+              echo "markers:"
+              echo "  - type: ${{ inputs.marker_type }}"
+              echo "    start: ${{ inputs.start_time }}"
+              echo "    end: ${{ inputs.end_time }}"
+              echo "    confidence: 0.95"
+              echo "    source: manual"
+            } > "$FILE"
           fi
 
-          echo "Created $FILE"
+          echo "Created/updated $FILE"
           cat "$FILE"
 
       - name: Create Pull Request
@@ -106,8 +103,6 @@ YAMLEOF
             **Type:** ${{ inputs.marker_type }}
             **Start:** ${{ inputs.start_time }}s
             **End:** ${{ inputs.end_time }}s
-
-            ${{ inputs.comment && format('**Comment:** {0}', inputs.comment) || '' }}
 
             ---
             _Created automatically by the Submit Marker workflow_
