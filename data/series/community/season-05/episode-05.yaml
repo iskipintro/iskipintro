@@ -1,0 +1,23 @@
+series: Community
+season: 5
+episode: 5
+title: Geothermal Escapism
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.8
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 83.4
+    end: 129.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1204.4
+    end: 1320
+    confidence: 0.94
+    source: manual

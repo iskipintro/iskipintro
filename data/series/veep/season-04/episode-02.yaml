@@ -1,0 +1,23 @@
+series: Veep
+season: 4
+episode: 2
+title: Episode 2
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 80
+    end: 139.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1583
+    end: 1680
+    confidence: 0.98
+    source: manual

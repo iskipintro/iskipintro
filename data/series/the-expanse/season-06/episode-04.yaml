@@ -1,0 +1,23 @@
+series: The Expanse
+season: 6
+episode: 4
+title: Redoubt
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 105.7
+    end: 187.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2609.2
+    end: 2700
+    confidence: 0.95
+    source: manual

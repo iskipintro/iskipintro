@@ -1,0 +1,23 @@
+series: Hannibal
+season: 2
+episode: 11
+title: Kō no mono
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 98.2
+    end: 194.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2558.7
+    end: 2640
+    confidence: 0.97
+    source: manual

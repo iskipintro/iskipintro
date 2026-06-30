@@ -1,0 +1,23 @@
+series: The Queen's Gambit
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 93474
+imdb_id: tt10048342
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.5
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 97.1
+    end: 169.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2893.1
+    end: 3000
+    confidence: 0.94
+    source: manual

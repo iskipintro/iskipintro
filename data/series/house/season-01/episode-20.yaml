@@ -1,0 +1,23 @@
+series: House M.D.
+season: 1
+episode: 20
+title: Episode 20
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 58.1
+    end: 149.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2571.6
+    end: 2640
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.7
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 95.2
+    end: 147.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3189.9
+    end: 3300
+    confidence: 0.99
+    source: manual

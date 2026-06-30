@@ -1,0 +1,23 @@
+series: Penny Dreadful
+season: 3
+episode: 5
+title: Episode 5
+tmdb_id: 56724
+imdb_id: tt2628232
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 91
+    end: 176.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2899.3
+    end: 3000
+    confidence: 0.94
+    source: manual

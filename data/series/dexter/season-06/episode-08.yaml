@@ -1,0 +1,23 @@
+series: Dexter
+season: 6
+episode: 8
+title: Episode 8
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 43.2
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 61.6
+    end: 159.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3082.5
+    end: 3180
+    confidence: 0.97
+    source: manual

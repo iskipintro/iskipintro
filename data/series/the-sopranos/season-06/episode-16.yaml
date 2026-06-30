@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 6
+episode: 16
+title: Walk Like a Man
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 73.2
+    end: 170.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3182
+    end: 3300
+    confidence: 0.95
+    source: manual

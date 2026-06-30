@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 11
+title: Defeat an Upper Rank Demon
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.1
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 111.5
+    end: 183.1
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1371.1
+    end: 1440
+    confidence: 0.93
+    source: manual

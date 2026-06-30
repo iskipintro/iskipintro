@@ -1,0 +1,23 @@
+series: Westworld
+season: 3
+episode: 3
+title: The Absence of Field
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.8
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 122.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3521.5
+    end: 3600
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: The Bear
+season: 1
+episode: 4
+title: Dogs
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 76.4
+    end: 159.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1686.3
+    end: 1800
+    confidence: 0.94
+    source: manual

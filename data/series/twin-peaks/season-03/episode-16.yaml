@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 3
+episode: 16
+title: Episode 16
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 83.1
+    end: 183
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2761.4
+    end: 2880
+    confidence: 0.97
+    source: manual

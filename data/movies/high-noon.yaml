@@ -1,0 +1,15 @@
+title: High Noon
+year: 1952
+tmdb_id: 288
+imdb_id: tt0044706
+markers:
+  - type: INTRO
+    start: 0
+    end: 165.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 4910.5
+    end: 5100
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: Veep
+season: 4
+episode: 8
+title: Episode 8
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 91.2
+    end: 178.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1592.7
+    end: 1680
+    confidence: 0.98
+    source: manual

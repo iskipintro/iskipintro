@@ -1,0 +1,23 @@
+series: House of the Dragon
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 94997
+imdb_id: tt11198330
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.6
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 84.3
+    end: 146.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3509.8
+    end: 3600
+    confidence: 0.95
+    source: manual

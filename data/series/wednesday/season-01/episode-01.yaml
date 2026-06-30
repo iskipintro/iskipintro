@@ -1,0 +1,18 @@
+series: Wednesday
+season: 1
+episode: 1
+title: Wednesday's Child Is Full of Woe
+tmdb_id: 119051
+imdb_id: tt13433812
+anime: false
+markers:
+  - type: INTRO
+    start: 61
+    end: 180.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2933
+    end: 3000
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Ozark
+season: 3
+episode: 9
+title: Fire Cloud
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 76.6
+    end: 155.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3199.9
+    end: 3300
+    confidence: 0.98
+    source: manual

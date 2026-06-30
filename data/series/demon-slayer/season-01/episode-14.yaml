@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 14
+title: The House with the Wisteria Family Crest
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.2
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 78.5
+    end: 130.5
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1327.4
+    end: 1440
+    confidence: 0.97
+    source: manual

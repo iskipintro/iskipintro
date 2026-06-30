@@ -1,0 +1,23 @@
+series: Barry
+season: 4
+episode: 7
+title: Episode 7
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 49.9
+    end: 107.6
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1689.3
+    end: 1800
+    confidence: 0.95
+    source: manual

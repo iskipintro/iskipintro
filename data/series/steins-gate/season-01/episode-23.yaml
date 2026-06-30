@@ -1,0 +1,23 @@
+series: Steins;Gate
+season: 1
+episode: 23
+title: Open the Steins Gate
+tmdb_id: 46532
+imdb_id: tt1910272
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.6
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 88.3
+    end: 177.3
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1321.7
+    end: 1440
+    confidence: 0.95
+    source: manual

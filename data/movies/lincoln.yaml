@@ -1,0 +1,20 @@
+title: Lincoln
+year: 2012
+tmdb_id: 72976
+imdb_id: tt0443272
+markers:
+  - type: INTRO
+    start: 0
+    end: 125.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8828.1
+    end: 9000
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 9018.3
+    end: 9109.9
+    confidence: 0.84
+    source: manual

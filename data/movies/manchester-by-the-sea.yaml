@@ -1,0 +1,15 @@
+title: Manchester by the Sea
+year: 2016
+tmdb_id: 472838
+imdb_id: tt4034228
+markers:
+  - type: INTRO
+    start: 0
+    end: 82.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 8089.6
+    end: 8220
+    confidence: 0.94
+    source: manual

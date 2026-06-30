@@ -1,0 +1,23 @@
+series: Rome
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 463
+imdb_id: tt0384766
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.1
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 90.3
+    end: 154.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2929.6
+    end: 3000
+    confidence: 0.98
+    source: manual

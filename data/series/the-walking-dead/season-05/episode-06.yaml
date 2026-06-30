@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 5
+episode: 6
+title: Consumed
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 86.4
+    end: 180.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2636.3
+    end: 2700
+    confidence: 0.96
+    source: manual

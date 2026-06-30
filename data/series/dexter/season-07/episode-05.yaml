@@ -1,0 +1,23 @@
+series: Dexter
+season: 7
+episode: 5
+title: Episode 5
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 67.3
+    end: 165.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3080.6
+    end: 3180
+    confidence: 0.99
+    source: manual

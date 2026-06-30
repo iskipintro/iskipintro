@@ -1,0 +1,23 @@
+series: Ozark
+season: 3
+episode: 8
+title: BFF
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.4
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 77.8
+    end: 125.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3222.6
+    end: 3300
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: Community
+season: 4
+episode: 7
+title: Economics of Marine Biology
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 106.8
+    end: 187.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1239.6
+    end: 1320
+    confidence: 0.95
+    source: manual

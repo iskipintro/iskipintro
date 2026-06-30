@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 54.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 82.3
+    end: 161.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3239
+    end: 3300
+    confidence: 0.98
+    source: manual

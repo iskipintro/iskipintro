@@ -1,0 +1,23 @@
+series: Ozark
+season: 4
+episode: 3
+title: City on the Make
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.9
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 81.1
+    end: 138.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3204.3
+    end: 3300
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Community
+season: 3
+episode: 22
+title: The Last Chang Dynasty
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 91.5
+    end: 179
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1202
+    end: 1320
+    confidence: 0.99
+    source: manual

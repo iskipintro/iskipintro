@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 15
+title: Mount Natagumo
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.1
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 100
+    end: 172.7
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1358.6
+    end: 1440
+    confidence: 0.97
+    source: manual

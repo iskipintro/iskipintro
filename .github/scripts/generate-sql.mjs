@@ -38,8 +38,9 @@ function parseFile(file) {
       .replace(/[^a-z0-9]+/g, "-")
       .replace(/^-|-$/g, "");
 
+    const anime = doc.anime == null ? 0 : Number(doc.anime);
     sql.push(
-      `INSERT OR IGNORE INTO series (title, slug, tmdb_id, imdb_id, mal_id, anilist_id, kitsu_id) VALUES (${title}, '${slug}', ${esc(doc.tmdb_id)}, ${esc(doc.imdb_id)}, ${esc(doc.mal_id)}, ${esc(doc.anilist_id)}, ${esc(doc.kitsu_id)});\n`
+      `INSERT OR IGNORE INTO series (title, slug, tmdb_id, imdb_id, mal_id, anilist_id, kitsu_id, anime) VALUES (${title}, '${slug}', ${esc(doc.tmdb_id)}, ${esc(doc.imdb_id)}, ${esc(doc.mal_id)}, ${esc(doc.anilist_id)}, ${esc(doc.kitsu_id)}, ${anime});\n`
     );
     sql.push(
       `INSERT OR IGNORE INTO seasons (series_id, season_number) SELECT id, ${doc.season} FROM series WHERE title = ${title};\n`

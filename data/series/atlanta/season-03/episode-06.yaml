@@ -1,0 +1,23 @@
+series: Atlanta
+season: 3
+episode: 6
+title: Episode 6
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 87.6
+    end: 154.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1697.5
+    end: 1800
+    confidence: 0.93
+    source: manual

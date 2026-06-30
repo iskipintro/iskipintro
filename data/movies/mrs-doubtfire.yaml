@@ -1,0 +1,15 @@
+title: Mrs. Doubtfire
+year: 1993
+tmdb_id: 768
+imdb_id: tt0107614
+markers:
+  - type: INTRO
+    start: 0
+    end: 109.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7313.2
+    end: 7500
+    confidence: 0.98
+    source: manual

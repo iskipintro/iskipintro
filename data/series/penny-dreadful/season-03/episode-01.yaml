@@ -1,0 +1,18 @@
+series: Penny Dreadful
+season: 3
+episode: 1
+title: Episode 1
+tmdb_id: 56724
+imdb_id: tt2628232
+anime: false
+markers:
+  - type: INTRO
+    start: 62.6
+    end: 157.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2882.3
+    end: 3000
+    confidence: 0.96
+    source: manual

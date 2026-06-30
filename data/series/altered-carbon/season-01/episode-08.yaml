@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 76.4
+    end: 161.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2898.2
+    end: 3000
+    confidence: 0.94
+    source: manual

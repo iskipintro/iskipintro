@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 1
+episode: 4
+title: Curse Womb Must Die
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.3
+    confidence: 0.94
+    source: manual
+  - type: OPENING
+    start: 95.9
+    end: 159.9
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1357.1
+    end: 1440
+    confidence: 0.93
+    source: manual

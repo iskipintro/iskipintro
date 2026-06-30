@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 6
+episode: 6
+title: The Kidney Stays in the Picture
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 89.6
+    end: 171.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1433.3
+    end: 1500
+    confidence: 0.94
+    source: manual

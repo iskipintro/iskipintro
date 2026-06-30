@@ -1,0 +1,20 @@
+title: Ferris Bueller's Day Off
+year: 1986
+tmdb_id: 9377
+imdb_id: tt0091042
+markers:
+  - type: INTRO
+    start: 0
+    end: 64.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6034.8
+    end: 6180
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 6197.2
+    end: 6227.7
+    confidence: 0.78
+    source: manual

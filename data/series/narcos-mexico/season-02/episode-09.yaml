@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.4
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 66.3
+    end: 163.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2902.5
+    end: 3000
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 17
+title: Mushroom Samba
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.2
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 111.9
+    end: 185
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1360.6
+    end: 1440
+    confidence: 0.95
+    source: manual

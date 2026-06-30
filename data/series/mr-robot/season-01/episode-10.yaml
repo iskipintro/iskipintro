@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 95.3
+    end: 159
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2632.5
+    end: 2700
+    confidence: 0.96
+    source: manual

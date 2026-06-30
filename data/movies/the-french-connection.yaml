@@ -1,0 +1,20 @@
+title: The French Connection
+year: 1971
+tmdb_id: 1051
+imdb_id: tt0067116
+markers:
+  - type: INTRO
+    start: 0
+    end: 157.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6041.3
+    end: 6240
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 6248.4
+    end: 6302.299999999999
+    confidence: 0.81
+    source: manual

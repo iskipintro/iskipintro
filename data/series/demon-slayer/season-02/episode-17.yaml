@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 17
+title: The Battle of the Gods
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.8
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 97.1
+    end: 157.7
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1367
+    end: 1440
+    confidence: 0.94
+    source: manual

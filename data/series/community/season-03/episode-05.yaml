@@ -1,0 +1,23 @@
+series: Community
+season: 3
+episode: 5
+title: Advanced Gay
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 74.2
+    end: 170.6
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1231.3
+    end: 1320
+    confidence: 0.95
+    source: manual

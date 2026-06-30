@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 1
+episode: 2
+title: Canvassing
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.7
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 92.7
+    end: 155.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1213.1
+    end: 1320
+    confidence: 0.97
+    source: manual

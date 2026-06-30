@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 16
+title: Winning or Losing
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.1
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 86.3
+    end: 175.3
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1328
+    end: 1440
+    confidence: 0.98
+    source: manual

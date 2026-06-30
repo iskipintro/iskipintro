@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 4
+episode: 9
+title: The Trial of Leslie Knope
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.9
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 76.4
+    end: 157.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1211.2
+    end: 1320
+    confidence: 0.93
+    source: manual

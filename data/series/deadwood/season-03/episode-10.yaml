@@ -1,0 +1,23 @@
+series: Deadwood
+season: 3
+episode: 10
+title: Episode 10
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 97.5
+    end: 194.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3194.4
+    end: 3300
+    confidence: 0.96
+    source: manual

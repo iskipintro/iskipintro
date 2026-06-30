@@ -1,0 +1,23 @@
+series: Community
+season: 2
+episode: 5
+title: Messianic Myths and Ancient Peoples
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 76.8
+    end: 151.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1236.7
+    end: 1320
+    confidence: 0.94
+    source: manual

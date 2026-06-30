@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 6
+episode: 17
+title: Leslie's Book
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 90.2
+    end: 144.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1224.9
+    end: 1320
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,18 @@
+series: Mad Men
+season: 4
+episode: 1
+title: Episode 1
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: INTRO
+    start: 55.5
+    end: 157
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2778.3
+    end: 2880
+    confidence: 0.97
+    source: manual

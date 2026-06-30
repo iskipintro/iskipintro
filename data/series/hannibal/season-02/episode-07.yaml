@@ -1,0 +1,23 @@
+series: Hannibal
+season: 2
+episode: 7
+title: Yakimono
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 96.2
+    end: 178.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2572
+    end: 2640
+    confidence: 0.98
+    source: manual

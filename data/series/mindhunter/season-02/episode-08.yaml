@@ -1,0 +1,23 @@
+series: Mindhunter
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 67744
+imdb_id: tt5290382
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.5
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 75
+    end: 143.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2916.5
+    end: 3000
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 1
+episode: 7
+title: Down Neck
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.5
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 84.5
+    end: 140.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3239
+    end: 3300
+    confidence: 0.93
+    source: manual

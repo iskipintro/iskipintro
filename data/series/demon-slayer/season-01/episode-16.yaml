@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 16
+title: Letting Someone Else Continue
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.3
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 91.1
+    end: 147
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1331.2
+    end: 1440
+    confidence: 0.96
+    source: manual

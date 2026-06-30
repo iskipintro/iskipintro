@@ -1,0 +1,15 @@
+title: Spotlight
+year: 2015
+tmdb_id: 314365
+imdb_id: tt1895587
+markers:
+  - type: INTRO
+    start: 0
+    end: 139.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7478.2
+    end: 7680
+    confidence: 0.96
+    source: manual

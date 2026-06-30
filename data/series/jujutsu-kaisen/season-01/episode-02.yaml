@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 1
+episode: 2
+title: For Myself
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 43.6
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 73.1
+    end: 145.9
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1379.4
+    end: 1440
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: Band of Brothers
+season: 1
+episode: 5
+title: Crossroads
+tmdb_id: 4612
+imdb_id: tt0185906
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 89.1
+    end: 151.3
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3535.3
+    end: 3600
+    confidence: 0.97
+    source: manual

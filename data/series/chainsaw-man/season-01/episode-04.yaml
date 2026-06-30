@@ -1,0 +1,23 @@
+series: Chainsaw Man
+season: 1
+episode: 4
+title: Rescue
+tmdb_id: 127646
+imdb_id: tt13616990
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.1
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 105.4
+    end: 165.1
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1353.9
+    end: 1440
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 1
+episode: 4
+title: For the Children
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 108.3
+    end: 183.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1686
+    end: 1800
+    confidence: 0.93
+    source: manual

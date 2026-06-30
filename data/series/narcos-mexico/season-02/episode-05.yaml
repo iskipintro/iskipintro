@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 2
+episode: 5
+title: Episode 5
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.4
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 90.1
+    end: 184.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2900.9
+    end: 3000
+    confidence: 0.97
+    source: manual

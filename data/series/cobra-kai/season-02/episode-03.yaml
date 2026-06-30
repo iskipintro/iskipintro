@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 2
+episode: 3
+title: Episode 3
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 94.7
+    end: 185.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1727.6
+    end: 1800
+    confidence: 0.95
+    source: manual

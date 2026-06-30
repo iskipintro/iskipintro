@@ -1,0 +1,23 @@
+series: Arcane
+season: 2
+episode: 4
+title: Paint the Town Blue
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.7
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 105
+    end: 177.9
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 2299.1
+    end: 2400
+    confidence: 0.94
+    source: manual

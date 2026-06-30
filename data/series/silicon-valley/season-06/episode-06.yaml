@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 6
+episode: 6
+title: Episode 6
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.6
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 88.8
+    end: 152.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1576.7
+    end: 1680
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,20 @@
+title: Black Hawk Down
+year: 2001
+tmdb_id: 855
+imdb_id: tt0265086
+markers:
+  - type: INTRO
+    start: 0
+    end: 117.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8427.1
+    end: 8640
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 8664.7
+    end: 8781.300000000001
+    confidence: 0.8
+    source: manual

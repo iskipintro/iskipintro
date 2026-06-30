@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 14
+title: The Flower of Happiness
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.3
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 70
+    end: 124.9
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1323.2
+    end: 1440
+    confidence: 0.96
+    source: manual

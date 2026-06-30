@@ -1,0 +1,23 @@
+series: The Fall of the House of Usher
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 154385
+imdb_id: tt15518840
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 72.2
+    end: 153.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3212.1
+    end: 3300
+    confidence: 0.94
+    source: manual

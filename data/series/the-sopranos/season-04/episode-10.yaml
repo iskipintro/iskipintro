@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 4
+episode: 10
+title: The Strong, Silent Type
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 66.9
+    end: 166.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3221.2
+    end: 3300
+    confidence: 0.97
+    source: manual

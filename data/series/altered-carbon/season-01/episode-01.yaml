@@ -1,0 +1,18 @@
+series: Altered Carbon
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: INTRO
+    start: 57.4
+    end: 157.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2939.9
+    end: 3000
+    confidence: 0.93
+    source: manual

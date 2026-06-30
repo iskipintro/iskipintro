@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 1
+episode: 3
+title: The Reporter
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.8
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 83.3
+    end: 167.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1256.4
+    end: 1320
+    confidence: 0.96
+    source: manual

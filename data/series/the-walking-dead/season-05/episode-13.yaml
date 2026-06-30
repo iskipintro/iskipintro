@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 5
+episode: 13
+title: Forget
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.1
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 62.3
+    end: 126
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2610.3
+    end: 2700
+    confidence: 0.95
+    source: manual

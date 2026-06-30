@@ -1,0 +1,23 @@
+series: House of the Dragon
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 94997
+imdb_id: tt11198330
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.6
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 92.9
+    end: 182.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3492
+    end: 3600
+    confidence: 0.96
+    source: manual

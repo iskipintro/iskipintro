@@ -1,0 +1,18 @@
+series: Ozark
+season: 3
+episode: 1
+title: War Time
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: INTRO
+    start: 66.7
+    end: 143.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3218
+    end: 3300
+    confidence: 0.98
+    source: manual

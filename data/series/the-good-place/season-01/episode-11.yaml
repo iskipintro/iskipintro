@@ -1,0 +1,23 @@
+series: The Good Place
+season: 1
+episode: 11
+title: What's My Motivation
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.6
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 81.9
+    end: 130.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1236.8
+    end: 1320
+    confidence: 0.94
+    source: manual

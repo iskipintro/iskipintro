@@ -1,0 +1,23 @@
+series: The Bear
+season: 3
+episode: 7
+title: Legacy
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 63.1
+    end: 113.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1733.5
+    end: 1800
+    confidence: 0.93
+    source: manual

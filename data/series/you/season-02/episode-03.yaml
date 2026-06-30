@@ -1,0 +1,23 @@
+series: You
+season: 2
+episode: 3
+title: Episode 3
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 70.7
+    end: 145.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2585.5
+    end: 2700
+    confidence: 0.98
+    source: manual

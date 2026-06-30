@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.3
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 67.5
+    end: 114.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2930
+    end: 3000
+    confidence: 0.96
+    source: manual

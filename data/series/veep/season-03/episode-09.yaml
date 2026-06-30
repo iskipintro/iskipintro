@@ -1,0 +1,23 @@
+series: Veep
+season: 3
+episode: 9
+title: Episode 9
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.8
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 69
+    end: 146.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1589
+    end: 1680
+    confidence: 0.93
+    source: manual

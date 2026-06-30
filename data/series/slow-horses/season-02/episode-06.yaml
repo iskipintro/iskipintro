@@ -1,0 +1,23 @@
+series: Slow Horses
+season: 2
+episode: 6
+title: Episode 6
+tmdb_id: 95480
+imdb_id: tt5875444
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 98.4
+    end: 173.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2801
+    end: 2880
+    confidence: 0.95
+    source: manual

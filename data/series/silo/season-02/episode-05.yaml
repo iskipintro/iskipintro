@@ -1,0 +1,23 @@
+series: Silo
+season: 2
+episode: 5
+title: Episode 5
+tmdb_id: 125988
+imdb_id: tt14688458
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 67.7
+    end: 162
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2880.7
+    end: 3000
+    confidence: 0.96
+    source: manual

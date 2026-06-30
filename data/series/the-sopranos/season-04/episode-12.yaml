@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 4
+episode: 12
+title: Eloise
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.3
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 85.9
+    end: 145.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3187.4
+    end: 3300
+    confidence: 0.94
+    source: manual

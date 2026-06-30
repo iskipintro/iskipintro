@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 4
+episode: 13
+title: Alone
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 58.4
+    end: 121.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2596.1
+    end: 2700
+    confidence: 0.96
+    source: manual

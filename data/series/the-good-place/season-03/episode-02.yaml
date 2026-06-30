@@ -1,0 +1,23 @@
+series: The Good Place
+season: 3
+episode: 2
+title: The Brainy Bunch
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 86.9
+    end: 171.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1235
+    end: 1320
+    confidence: 0.96
+    source: manual

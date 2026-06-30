@@ -1,0 +1,23 @@
+series: Wednesday
+season: 2
+episode: 3
+title: Echoes of Evil
+tmdb_id: 119051
+imdb_id: tt13433812
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.4
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 105.1
+    end: 203.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2931.8
+    end: 3000
+    confidence: 0.94
+    source: manual

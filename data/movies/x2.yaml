@@ -1,0 +1,15 @@
+title: "X2: X-Men United"
+year: 2003
+tmdb_id: 36658
+imdb_id: tt0290334
+markers:
+  - type: INTRO
+    start: 0
+    end: 136.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7884.9
+    end: 8040
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 2
+episode: 6
+title: Episode 6
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.7
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 67.1
+    end: 130
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2936.8
+    end: 3000
+    confidence: 0.96
+    source: manual

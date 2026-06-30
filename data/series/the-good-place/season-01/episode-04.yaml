@@ -1,0 +1,23 @@
+series: The Good Place
+season: 1
+episode: 4
+title: Jason Mendoza
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 91.6
+    end: 151
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1249.8
+    end: 1320
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,15 @@
+title: Batman
+year: 1989
+tmdb_id: 268
+imdb_id: tt0096895
+markers:
+  - type: INTRO
+    start: 0
+    end: 68.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7395.4
+    end: 7560
+    confidence: 0.94
+    source: manual

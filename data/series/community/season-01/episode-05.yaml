@@ -1,0 +1,23 @@
+series: Community
+season: 1
+episode: 5
+title: Advanced Criminal Law
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 102.8
+    end: 164.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1220.3
+    end: 1320
+    confidence: 0.99
+    source: manual

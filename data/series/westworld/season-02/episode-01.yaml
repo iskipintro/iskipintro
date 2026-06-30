@@ -1,0 +1,18 @@
+series: Westworld
+season: 2
+episode: 1
+title: Journey into Night
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: INTRO
+    start: 83.8
+    end: 185.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3511.7
+    end: 3600
+    confidence: 0.97
+    source: manual

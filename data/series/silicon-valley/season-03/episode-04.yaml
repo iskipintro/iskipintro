@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 3
+episode: 4
+title: Episode 4
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 92.5
+    end: 152.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1566.4
+    end: 1680
+    confidence: 0.96
+    source: manual

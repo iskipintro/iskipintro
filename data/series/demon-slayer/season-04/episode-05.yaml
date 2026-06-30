@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 4
+episode: 5
+title: The Wind Hashira's Unyielding Resolve
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 84
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 95.6
+    end: 189.2
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1326.7
+    end: 1440
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: Severance
+season: 1
+episode: 4
+title: The You You Are
+tmdb_id: 95396
+imdb_id: tt11280740
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 95.7
+    end: 141.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2936.4
+    end: 3000
+    confidence: 0.93
+    source: manual

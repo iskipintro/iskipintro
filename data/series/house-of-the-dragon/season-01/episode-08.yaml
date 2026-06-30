@@ -1,0 +1,23 @@
+series: House of the Dragon
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 94997
+imdb_id: tt11198330
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 70
+    end: 146.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3491.4
+    end: 3600
+    confidence: 0.99
+    source: manual

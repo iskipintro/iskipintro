@@ -1,0 +1,23 @@
+series: The Good Place
+season: 2
+episode: 5
+title: The Trolley Problem
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 51.3
+    end: 116
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1222.7
+    end: 1320
+    confidence: 0.95
+    source: manual

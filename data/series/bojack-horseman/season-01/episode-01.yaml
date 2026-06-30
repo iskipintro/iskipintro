@@ -1,0 +1,18 @@
+series: BoJack Horseman
+season: 1
+episode: 1
+title: "BoJack Horseman: The BoJack Horseman Story, Chapter One"
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: INTRO
+    start: 39.5
+    end: 130.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1401.8
+    end: 1500
+    confidence: 0.96
+    source: manual

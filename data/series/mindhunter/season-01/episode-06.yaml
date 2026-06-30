@@ -1,0 +1,23 @@
+series: Mindhunter
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 67744
+imdb_id: tt5290382
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.5
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 111.5
+    end: 176.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2892.5
+    end: 3000
+    confidence: 0.93
+    source: manual

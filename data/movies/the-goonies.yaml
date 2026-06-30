@@ -1,0 +1,20 @@
+title: The Goonies
+year: 1985
+tmdb_id: 9340
+imdb_id: tt0089218
+markers:
+  - type: INTRO
+    start: 0
+    end: 157
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6615
+    end: 6840
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 6868.5
+    end: 6943.1
+    confidence: 0.89
+    source: manual

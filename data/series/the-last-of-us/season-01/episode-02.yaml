@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 1
+episode: 2
+title: Infected
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 56.5
+    end: 109.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3191.6
+    end: 3300
+    confidence: 0.96
+    source: manual

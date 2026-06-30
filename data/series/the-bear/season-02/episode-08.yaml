@@ -1,0 +1,23 @@
+series: The Bear
+season: 2
+episode: 8
+title: Bolognese
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 95.5
+    end: 173
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1700.6
+    end: 1800
+    confidence: 0.97
+    source: manual

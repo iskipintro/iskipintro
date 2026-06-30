@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 12
+title: The Boar Bares Its Fangs, Zenitsu Sleeps
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 40
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 61.5
+    end: 133
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1335.8
+    end: 1440
+    confidence: 0.98
+    source: manual

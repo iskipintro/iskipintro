@@ -1,0 +1,15 @@
+title: Miller's Crossing
+year: 1990
+tmdb_id: 8848
+imdb_id: tt0102456
+markers:
+  - type: INTRO
+    start: 0
+    end: 133
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6260.9
+    end: 6420
+    confidence: 0.97
+    source: manual

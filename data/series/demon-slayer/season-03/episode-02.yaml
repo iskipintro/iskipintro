@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 3
+episode: 2
+title: Yoriichi Type Zero
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 53
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 66.3
+    end: 153.1
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1356.4
+    end: 1440
+    confidence: 0.97
+    source: manual

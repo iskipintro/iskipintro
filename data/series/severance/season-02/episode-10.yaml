@@ -1,0 +1,23 @@
+series: Severance
+season: 2
+episode: 10
+title: The We We Are Again
+tmdb_id: 95396
+imdb_id: tt11280740
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.6
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 101.8
+    end: 178.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2939.5
+    end: 3000
+    confidence: 0.93
+    source: manual

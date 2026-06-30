@@ -1,0 +1,23 @@
+series: Ozark
+season: 2
+episode: 5
+title: Game Day
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.7
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 66.8
+    end: 165.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3228
+    end: 3300
+    confidence: 0.97
+    source: manual

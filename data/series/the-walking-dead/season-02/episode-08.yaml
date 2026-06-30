@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 2
+episode: 8
+title: Nebraska
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.4
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 71.3
+    end: 144.3
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2612.8
+    end: 2700
+    confidence: 0.99
+    source: manual

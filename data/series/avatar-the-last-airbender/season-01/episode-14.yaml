@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 14
+title: The Fortuneteller
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.5
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 85.9
+    end: 160.4
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1316.7
+    end: 1380
+    confidence: 0.98
+    source: manual

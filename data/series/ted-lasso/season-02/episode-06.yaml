@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 2
+episode: 6
+title: The Signal
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.1
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 96.2
+    end: 167.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1694
+    end: 1800
+    confidence: 0.96
+    source: manual

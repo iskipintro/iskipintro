@@ -1,0 +1,23 @@
+series: The Americans
+season: 2
+episode: 12
+title: Episode 12
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66.2
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 86.2
+    end: 132.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2576
+    end: 2640
+    confidence: 0.94
+    source: manual

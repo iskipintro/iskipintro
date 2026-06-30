@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 8
+title: "The Spirit World: Winter Solstice Part 2"
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.2
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 86.4
+    end: 151.5
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1308.7
+    end: 1380
+    confidence: 0.96
+    source: manual

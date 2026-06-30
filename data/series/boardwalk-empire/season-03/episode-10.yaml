@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 3
+episode: 10
+title: Episode 10
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 97.7
+    end: 151.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3225
+    end: 3300
+    confidence: 0.95
+    source: manual

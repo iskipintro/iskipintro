@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 77.9
+    end: 174.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2614.8
+    end: 2700
+    confidence: 0.98
+    source: manual

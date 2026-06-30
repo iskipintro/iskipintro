@@ -1,0 +1,23 @@
+series: Severance
+season: 2
+episode: 2
+title: Goodbye, Mrs. Selvig
+tmdb_id: 95396
+imdb_id: tt11280740
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.9
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 89.5
+    end: 187.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2904.5
+    end: 3000
+    confidence: 0.96
+    source: manual

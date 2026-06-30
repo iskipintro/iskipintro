@@ -1,0 +1,18 @@
+series: Deadwood
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: INTRO
+    start: 34.2
+    end: 132.10000000000002
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3231.2
+    end: 3300
+    confidence: 0.96
+    source: manual

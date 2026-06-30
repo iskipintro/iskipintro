@@ -1,0 +1,23 @@
+series: Silo
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 125988
+imdb_id: tt14688458
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 84.5
+    end: 151.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2880.9
+    end: 3000
+    confidence: 0.95
+    source: manual

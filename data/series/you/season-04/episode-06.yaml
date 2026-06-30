@@ -1,0 +1,23 @@
+series: You
+season: 4
+episode: 6
+title: Episode 6
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.5
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 73.5
+    end: 163
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2590.1
+    end: 2700
+    confidence: 0.94
+    source: manual

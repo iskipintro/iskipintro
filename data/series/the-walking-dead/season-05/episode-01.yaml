@@ -1,0 +1,18 @@
+series: The Walking Dead
+season: 5
+episode: 1
+title: No Sanctuary
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: INTRO
+    start: 66.2
+    end: 134.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2633.4
+    end: 2700
+    confidence: 0.98
+    source: manual

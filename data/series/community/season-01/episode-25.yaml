@@ -1,0 +1,23 @@
+series: Community
+season: 1
+episode: 25
+title: Pascal's Triangle Revisited
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 108.9
+    end: 177.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1231.8
+    end: 1320
+    confidence: 0.93
+    source: manual

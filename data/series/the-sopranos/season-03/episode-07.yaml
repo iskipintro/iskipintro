@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 3
+episode: 7
+title: Second Opinion
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 82.5
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 96.8
+    end: 162
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3218.6
+    end: 3300
+    confidence: 0.95
+    source: manual

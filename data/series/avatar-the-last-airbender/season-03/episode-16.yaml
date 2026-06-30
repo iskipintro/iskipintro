@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 16
+title: The Southern Raiders
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.2
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 60.3
+    end: 110.1
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1282
+    end: 1380
+    confidence: 0.96
+    source: manual

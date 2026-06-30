@@ -1,0 +1,18 @@
+series: The Punisher
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 67177
+imdb_id: tt7468410
+anime: false
+markers:
+  - type: INTRO
+    start: 45.2
+    end: 110.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2894.8
+    end: 3000
+    confidence: 0.96
+    source: manual

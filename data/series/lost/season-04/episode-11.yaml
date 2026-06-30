@@ -1,0 +1,23 @@
+series: Lost
+season: 4
+episode: 11
+title: Episode 11
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 96.2
+    end: 165.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2471.4
+    end: 2580
+    confidence: 0.97
+    source: manual

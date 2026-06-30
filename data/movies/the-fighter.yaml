@@ -1,0 +1,15 @@
+title: The Fighter
+year: 2010
+tmdb_id: 45317
+imdb_id: tt0964517
+markers:
+  - type: INTRO
+    start: 0
+    end: 71.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6730.1
+    end: 6960
+    confidence: 0.99
+    source: manual

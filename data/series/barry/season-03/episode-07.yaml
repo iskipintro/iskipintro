@@ -1,0 +1,23 @@
+series: Barry
+season: 3
+episode: 7
+title: Episode 7
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 80.8
+    end: 137.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1729.1
+    end: 1800
+    confidence: 0.94
+    source: manual

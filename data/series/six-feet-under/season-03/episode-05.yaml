@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 3
+episode: 5
+title: Episode 5
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 88.5
+    end: 179.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3224.3
+    end: 3300
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 1
+episode: 7
+title: Episode 7
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 99.5
+    end: 164.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2811.8
+    end: 2880
+    confidence: 0.96
+    source: manual

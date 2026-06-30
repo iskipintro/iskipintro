@@ -1,0 +1,18 @@
+series: Arcane
+season: 2
+episode: 1
+title: Heavy Is the Crown
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: OPENING
+    start: 87.9
+    end: 165.2
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 2323.5
+    end: 2400
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,20 @@
+title: Fargo
+year: 1996
+tmdb_id: 275
+imdb_id: tt0116282
+markers:
+  - type: INTRO
+    start: 0
+    end: 161.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5644.5
+    end: 5880
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 5908.8
+    end: 5956.5
+    confidence: 0.89
+    source: manual

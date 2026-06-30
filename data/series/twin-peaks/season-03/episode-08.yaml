@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 107
+    end: 180.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2808.7
+    end: 2880
+    confidence: 0.94
+    source: manual

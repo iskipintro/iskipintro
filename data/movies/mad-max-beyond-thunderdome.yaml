@@ -1,0 +1,20 @@
+title: Mad Max Beyond Thunderdome
+year: 1985
+tmdb_id: 9567
+imdb_id: tt0089530
+markers:
+  - type: INTRO
+    start: 0
+    end: 70.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6259.3
+    end: 6420
+    confidence: 0.99
+    source: manual
+  - type: POST_CREDIT
+    start: 6445.9
+    end: 6523.9
+    confidence: 0.9
+    source: manual

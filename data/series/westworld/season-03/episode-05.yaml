@@ -1,0 +1,23 @@
+series: Westworld
+season: 3
+episode: 5
+title: Genre
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 101.4
+    end: 192.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3528.6
+    end: 3600
+    confidence: 0.97
+    source: manual

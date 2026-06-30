@@ -1,0 +1,23 @@
+series: Atlanta
+season: 4
+episode: 4
+title: Episode 4
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 53.4
+    end: 133.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1710.4
+    end: 1800
+    confidence: 0.98
+    source: manual

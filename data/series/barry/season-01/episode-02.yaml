@@ -1,0 +1,23 @@
+series: Barry
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.7
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 80.8
+    end: 150.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1718.6
+    end: 1800
+    confidence: 0.93
+    source: manual

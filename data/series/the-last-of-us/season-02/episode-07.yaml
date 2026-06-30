@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 2
+episode: 7
+title: The Sacrifice
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 97.3
+    end: 164.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3217.3
+    end: 3300
+    confidence: 0.99
+    source: manual

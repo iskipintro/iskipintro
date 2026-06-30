@@ -1,0 +1,23 @@
+series: House M.D.
+season: 7
+episode: 12
+title: Episode 12
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 86.6
+    end: 149.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2535.5
+    end: 2640
+    confidence: 0.94
+    source: manual

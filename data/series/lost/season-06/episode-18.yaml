@@ -1,0 +1,23 @@
+series: Lost
+season: 6
+episode: 18
+title: Episode 18
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 110.4
+    end: 204.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2505.6
+    end: 2580
+    confidence: 0.95
+    source: manual

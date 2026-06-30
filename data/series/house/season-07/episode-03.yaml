@@ -1,0 +1,23 @@
+series: House M.D.
+season: 7
+episode: 3
+title: Episode 3
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 78.9
+    end: 146.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2567.6
+    end: 2640
+    confidence: 0.97
+    source: manual

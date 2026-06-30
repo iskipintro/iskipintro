@@ -1,0 +1,23 @@
+series: Atlanta
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.6
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 93.2
+    end: 171.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1710.4
+    end: 1800
+    confidence: 0.96
+    source: manual

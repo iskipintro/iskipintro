@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 2
+episode: 7
+title: Headspace
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 92.6
+    end: 175.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1705.3
+    end: 1800
+    confidence: 0.97
+    source: manual

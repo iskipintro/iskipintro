@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 5
+episode: 12
+title: The Stopped Show
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 53.5
+    end: 132.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1392.3
+    end: 1500
+    confidence: 0.94
+    source: manual

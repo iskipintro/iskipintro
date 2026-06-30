@@ -1,0 +1,20 @@
+title: The Philadelphia Story
+year: 1940
+tmdb_id: 333
+imdb_id: tt0032904
+markers:
+  - type: INTRO
+    start: 0
+    end: 115.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6568.2
+    end: 6720
+    confidence: 0.96
+    source: manual
+  - type: POST_CREDIT
+    start: 6748.9
+    end: 6850
+    confidence: 0.87
+    source: manual

@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 25
+title: The Rengoku Residence
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.8
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 58.9
+    end: 115.8
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1361.4
+    end: 1440
+    confidence: 0.94
+    source: manual

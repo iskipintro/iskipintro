@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 21
+title: "Sozin's Comet Part 4: Avatar Aang"
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.8
+    confidence: 0.99
+    source: manual
+  - type: OPENING
+    start: 79.5
+    end: 134.6
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1291.3
+    end: 1380
+    confidence: 0.95
+    source: manual

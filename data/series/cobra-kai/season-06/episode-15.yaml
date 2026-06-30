@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 6
+episode: 15
+title: Episode 15
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 63.2
+    end: 154.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1697.3
+    end: 1800
+    confidence: 0.97
+    source: manual

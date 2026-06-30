@@ -1,0 +1,15 @@
+title: Charlie and the Chocolate Factory
+year: 2005
+tmdb_id: 118
+imdb_id: tt0367594
+markers:
+  - type: INTRO
+    start: 0
+    end: 92.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 6746.8
+    end: 6900
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 11
+title: The Great Divide
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.2
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 78.4
+    end: 163.2
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1308.2
+    end: 1380
+    confidence: 0.94
+    source: manual

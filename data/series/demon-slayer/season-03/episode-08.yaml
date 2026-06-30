@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 3
+episode: 8
+title: Mist Hashira Muichiro Tokito
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.8
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 80.7
+    end: 139.3
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1359.1
+    end: 1440
+    confidence: 0.94
+    source: manual

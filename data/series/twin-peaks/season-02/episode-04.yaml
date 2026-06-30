@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 99.3
+    end: 179.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2808.3
+    end: 2880
+    confidence: 0.98
+    source: manual

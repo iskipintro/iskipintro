@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 2
+episode: 3
+title: Beautiful Colours
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 73.2
+    end: 152.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1259.9
+    end: 1320
+    confidence: 0.95
+    source: manual

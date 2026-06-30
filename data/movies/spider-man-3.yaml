@@ -1,0 +1,20 @@
+title: Spider-Man 3
+year: 2007
+tmdb_id: 559
+imdb_id: tt0413300
+markers:
+  - type: INTRO
+    start: 0
+    end: 68.3
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 8199.6
+    end: 8340
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 8347.8
+    end: 8398.3
+    confidence: 0.82
+    source: manual

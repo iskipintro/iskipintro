@@ -1,0 +1,23 @@
+series: Community
+season: 2
+episode: 7
+title: Aerodynamics of Gender
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.5
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 49.7
+    end: 124.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1208.7
+    end: 1320
+    confidence: 0.98
+    source: manual

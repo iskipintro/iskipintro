@@ -1,0 +1,20 @@
+title: "1917"
+year: 2019
+tmdb_id: 530915
+imdb_id: tt8579674
+markers:
+  - type: INTRO
+    start: 0
+    end: 149.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7007.7
+    end: 7140
+    confidence: 0.99
+    source: manual
+  - type: POST_CREDIT
+    start: 7160.4
+    end: 7222.9
+    confidence: 0.86
+    source: manual

@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 1
+episode: 6
+title: Our A-Story Is a 'D' Story
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.4
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 76.5
+    end: 135.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1383.9
+    end: 1500
+    confidence: 0.96
+    source: manual

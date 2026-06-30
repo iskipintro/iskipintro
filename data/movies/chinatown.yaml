@@ -1,0 +1,20 @@
+title: Chinatown
+year: 1974
+tmdb_id: 829
+imdb_id: tt0071315
+markers:
+  - type: INTRO
+    start: 0
+    end: 154
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7590.7
+    end: 7800
+    confidence: 0.94
+    source: manual
+  - type: POST_CREDIT
+    start: 7825
+    end: 7888.6
+    confidence: 0.89
+    source: manual

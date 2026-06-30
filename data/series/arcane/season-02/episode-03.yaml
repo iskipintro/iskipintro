@@ -1,0 +1,23 @@
+series: Arcane
+season: 2
+episode: 3
+title: Finally Got the Name Right
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.7
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 66.1
+    end: 147.8
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 2321.2
+    end: 2400
+    confidence: 0.98
+    source: manual

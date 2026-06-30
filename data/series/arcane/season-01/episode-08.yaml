@@ -1,0 +1,23 @@
+series: Arcane
+season: 1
+episode: 8
+title: Oil and Water
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.3
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 109.7
+    end: 174.3
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 2329.1
+    end: 2400
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,23 @@
+series: The Wire
+season: 5
+episode: 2
+title: Episode 2
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 114.1
+    end: 162.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3510
+    end: 3600
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,23 @@
+series: The Good Place
+season: 1
+episode: 10
+title: Chidi's Choice
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 56.3
+    end: 144.1
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1236.2
+    end: 1320
+    confidence: 0.98
+    source: manual

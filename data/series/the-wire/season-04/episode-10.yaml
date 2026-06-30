@@ -1,0 +1,23 @@
+series: The Wire
+season: 4
+episode: 10
+title: Episode 10
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.2
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 68.4
+    end: 137.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3485.8
+    end: 3600
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,15 @@
+title: The Princess Bride
+year: 1987
+tmdb_id: 2493
+imdb_id: tt0093779
+markers:
+  - type: INTRO
+    start: 0
+    end: 89.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 5667.1
+    end: 5880
+    confidence: 0.98
+    source: manual

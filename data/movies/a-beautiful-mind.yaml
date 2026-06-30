@@ -1,0 +1,15 @@
+title: A Beautiful Mind
+year: 2001
+tmdb_id: 453
+imdb_id: tt0268978
+markers:
+  - type: INTRO
+    start: 0
+    end: 123.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7862.8
+    end: 8100
+    confidence: 0.96
+    source: manual

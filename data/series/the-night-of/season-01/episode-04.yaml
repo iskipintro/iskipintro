@@ -1,0 +1,23 @@
+series: The Night Of
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 69990
+imdb_id: tt2401256
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 65.7
+    end: 125.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3513
+    end: 3600
+    confidence: 0.98
+    source: manual

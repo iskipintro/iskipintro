@@ -1,0 +1,23 @@
+series: Lost
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 63.9
+    end: 119
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2491.9
+    end: 2580
+    confidence: 0.95
+    source: manual

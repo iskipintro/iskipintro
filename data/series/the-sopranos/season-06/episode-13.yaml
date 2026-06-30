@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 6
+episode: 13
+title: Stage 5
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.2
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 103.7
+    end: 173.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3202.6
+    end: 3300
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,23 @@
+series: Wednesday
+season: 2
+episode: 8
+title: The End of Nevermore
+tmdb_id: 119051
+imdb_id: tt13433812
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.2
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 74.8
+    end: 162.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2911
+    end: 3000
+    confidence: 0.95
+    source: manual

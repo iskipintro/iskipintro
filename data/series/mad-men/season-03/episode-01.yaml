@@ -1,0 +1,18 @@
+series: Mad Men
+season: 3
+episode: 1
+title: Episode 1
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: INTRO
+    start: 53.7
+    end: 134.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2768.4
+    end: 2880
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,23 @@
+series: The Leftovers
+season: 3
+episode: 4
+title: Episode 4
+tmdb_id: 62051
+imdb_id: tt2699128
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 81.8
+    end: 156.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3209
+    end: 3300
+    confidence: 0.96
+    source: manual

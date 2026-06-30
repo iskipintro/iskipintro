@@ -1,0 +1,23 @@
+series: The Last Kingdom
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 83.7
+    end: 139.6
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2905.3
+    end: 3000
+    confidence: 0.96
+    source: manual

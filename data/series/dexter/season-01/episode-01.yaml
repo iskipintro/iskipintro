@@ -1,0 +1,18 @@
+series: Dexter
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: INTRO
+    start: 30.6
+    end: 124.19999999999999
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3085.8
+    end: 3180
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,23 @@
+series: The Expanse
+season: 5
+episode: 8
+title: Hard Vacuum
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 74.3
+    end: 155
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2635.9
+    end: 2700
+    confidence: 0.98
+    source: manual

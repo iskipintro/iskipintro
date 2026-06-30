@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 6
+episode: 14
+title: Episode 14
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 66.1
+    end: 135.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1401.4
+    end: 1500
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Dexter
+season: 5
+episode: 9
+title: Episode 9
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.9
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 94.6
+    end: 165.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3108.8
+    end: 3180
+    confidence: 0.99
+    source: manual

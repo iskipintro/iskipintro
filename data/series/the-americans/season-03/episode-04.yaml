@@ -1,0 +1,23 @@
+series: The Americans
+season: 3
+episode: 4
+title: Episode 4
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.4
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 76.7
+    end: 148.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2570.6
+    end: 2640
+    confidence: 0.96
+    source: manual

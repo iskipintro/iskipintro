@@ -1,0 +1,23 @@
+series: The Fall of the House of Usher
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 154385
+imdb_id: tt15518840
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.2
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 97.8
+    end: 155.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3204.8
+    end: 3300
+    confidence: 0.95
+    source: manual

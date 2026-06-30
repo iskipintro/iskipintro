@@ -1,0 +1,23 @@
+series: Penny Dreadful
+season: 3
+episode: 2
+title: Episode 2
+tmdb_id: 56724
+imdb_id: tt2628232
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.2
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 90.3
+    end: 146.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2902.7
+    end: 3000
+    confidence: 0.94
+    source: manual

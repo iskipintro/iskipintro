@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 1
+episode: 7
+title: Episode 7
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.3
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 63.6
+    end: 126.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2899.6
+    end: 3000
+    confidence: 0.98
+    source: manual

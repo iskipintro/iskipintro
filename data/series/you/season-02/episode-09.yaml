@@ -1,0 +1,23 @@
+series: You
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.2
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 72.9
+    end: 170.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2609.2
+    end: 2700
+    confidence: 0.97
+    source: manual

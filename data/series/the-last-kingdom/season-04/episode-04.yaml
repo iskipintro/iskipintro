@@ -1,0 +1,23 @@
+series: The Last Kingdom
+season: 4
+episode: 4
+title: Episode 4
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.2
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 113.2
+    end: 208.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2899.4
+    end: 3000
+    confidence: 0.96
+    source: manual

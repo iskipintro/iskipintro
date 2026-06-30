@@ -1,0 +1,23 @@
+series: Dexter
+season: 6
+episode: 7
+title: Episode 7
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.7
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 68.1
+    end: 119.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3095.3
+    end: 3180
+    confidence: 0.93
+    source: manual

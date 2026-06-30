@@ -1,0 +1,18 @@
+series: The Night Of
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 69990
+imdb_id: tt2401256
+anime: false
+markers:
+  - type: INTRO
+    start: 59.5
+    end: 172
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3512.1
+    end: 3600
+    confidence: 0.94
+    source: manual

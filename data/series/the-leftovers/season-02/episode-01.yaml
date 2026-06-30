@@ -1,0 +1,18 @@
+series: The Leftovers
+season: 2
+episode: 1
+title: Episode 1
+tmdb_id: 62051
+imdb_id: tt2699128
+anime: false
+markers:
+  - type: INTRO
+    start: 67.3
+    end: 158.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3194.9
+    end: 3300
+    confidence: 0.95
+    source: manual

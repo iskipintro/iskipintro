@@ -1,0 +1,15 @@
+title: Alien
+year: 1979
+tmdb_id: 348
+imdb_id: tt0078748
+markers:
+  - type: INTRO
+    start: 0
+    end: 147.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6813.6
+    end: 7020
+    confidence: 0.96
+    source: manual

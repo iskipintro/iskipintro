@@ -1,0 +1,15 @@
+title: Eyes Wide Shut
+year: 1999
+tmdb_id: 219
+imdb_id: tt0120663
+markers:
+  - type: INTRO
+    start: 0
+    end: 122.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 9308.5
+    end: 9540
+    confidence: 0.98
+    source: manual

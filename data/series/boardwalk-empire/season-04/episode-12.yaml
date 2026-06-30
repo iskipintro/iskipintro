@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 4
+episode: 12
+title: Episode 12
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 112.9
+    end: 166.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3210.1
+    end: 3300
+    confidence: 0.97
+    source: manual

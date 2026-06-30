@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 6
+episode: 20
+title: Made in America
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.5
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 75
+    end: 166.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3189.4
+    end: 3300
+    confidence: 0.94
+    source: manual

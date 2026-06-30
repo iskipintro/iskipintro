@@ -1,0 +1,15 @@
+title: The Conjuring
+year: 2013
+tmdb_id: 138843
+imdb_id: tt1457767
+markers:
+  - type: INTRO
+    start: 0
+    end: 80.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6506.6
+    end: 6720
+    confidence: 0.99
+    source: manual

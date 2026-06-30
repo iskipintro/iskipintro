@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 2
+episode: 18
+title: Shibuya Incident XIII
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.4
+    confidence: 0.99
+    source: manual
+  - type: OPENING
+    start: 107.9
+    end: 180.5
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1345.4
+    end: 1440
+    confidence: 0.94
+    source: manual

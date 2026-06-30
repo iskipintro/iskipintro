@@ -1,0 +1,23 @@
+series: Community
+season: 4
+episode: 11
+title: Basic Human Anatomy
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.1
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 65.8
+    end: 129.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1256.6
+    end: 1320
+    confidence: 0.94
+    source: manual

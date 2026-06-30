@@ -1,0 +1,23 @@
+series: Wednesday
+season: 1
+episode: 4
+title: Woe What a Night
+tmdb_id: 119051
+imdb_id: tt13433812
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 98
+    end: 159.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2894.4
+    end: 3000
+    confidence: 0.95
+    source: manual

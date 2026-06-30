@@ -1,0 +1,23 @@
+series: Arcane
+season: 1
+episode: 7
+title: The Boy Savior
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 69
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 96.4
+    end: 189
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 2337.5
+    end: 2400
+    confidence: 0.96
+    source: manual

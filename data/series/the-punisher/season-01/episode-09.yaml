@@ -1,0 +1,23 @@
+series: The Punisher
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 67177
+imdb_id: tt7468410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 115.1
+    end: 170.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2885.4
+    end: 3000
+    confidence: 0.94
+    source: manual

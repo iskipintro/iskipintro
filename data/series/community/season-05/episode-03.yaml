@@ -1,0 +1,23 @@
+series: Community
+season: 5
+episode: 3
+title: Basic Intergluteal Numismatics
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 80.4
+    end: 178.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1220.9
+    end: 1320
+    confidence: 0.98
+    source: manual

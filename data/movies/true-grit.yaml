@@ -1,0 +1,15 @@
+title: True Grit
+year: 2010
+tmdb_id: 44214
+imdb_id: tt1403865
+markers:
+  - type: INTRO
+    start: 0
+    end: 148.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6428.5
+    end: 6600
+    confidence: 0.95
+    source: manual

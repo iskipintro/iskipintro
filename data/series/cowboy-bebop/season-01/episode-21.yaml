@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 21
+title: Boogie Woogie Feng Shui
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 54.8
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 68.8
+    end: 150.8
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1337.7
+    end: 1440
+    confidence: 0.94
+    source: manual

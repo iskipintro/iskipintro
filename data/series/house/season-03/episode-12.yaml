@@ -1,0 +1,23 @@
+series: House M.D.
+season: 3
+episode: 12
+title: Episode 12
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 114.3
+    end: 188.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2534
+    end: 2640
+    confidence: 0.98
+    source: manual

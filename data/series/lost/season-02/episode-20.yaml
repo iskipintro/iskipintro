@@ -1,0 +1,23 @@
+series: Lost
+season: 2
+episode: 20
+title: Episode 20
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 85.4
+    end: 160.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2501.3
+    end: 2580
+    confidence: 0.95
+    source: manual

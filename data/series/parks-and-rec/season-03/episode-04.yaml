@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 3
+episode: 4
+title: Road Trip
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 84.3
+    end: 174.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1223.9
+    end: 1320
+    confidence: 0.98
+    source: manual

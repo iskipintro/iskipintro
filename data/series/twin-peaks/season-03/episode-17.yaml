@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 3
+episode: 17
+title: Episode 17
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 110.3
+    end: 195.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2797.7
+    end: 2880
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: Ozark
+season: 3
+episode: 2
+title: Civil Union
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 88.6
+    end: 176.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3181.8
+    end: 3300
+    confidence: 0.98
+    source: manual

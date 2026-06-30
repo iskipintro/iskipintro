@@ -1,0 +1,15 @@
+title: Indiana Jones and the Temple of Doom
+year: 1984
+tmdb_id: 87
+imdb_id: tt0087469
+markers:
+  - type: INTRO
+    start: 0
+    end: 178.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6840.1
+    end: 7080
+    confidence: 0.93
+    source: manual

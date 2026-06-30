@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 5
+episode: 7
+title: In Camelot
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 86.4
+    end: 180.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3208.3
+    end: 3300
+    confidence: 0.96
+    source: manual

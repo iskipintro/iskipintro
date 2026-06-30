@@ -1,0 +1,15 @@
+title: Training Day
+year: 2001
+tmdb_id: 2034
+imdb_id: tt0139654
+markers:
+  - type: INTRO
+    start: 0
+    end: 99.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7123.9
+    end: 7320
+    confidence: 0.97
+    source: manual

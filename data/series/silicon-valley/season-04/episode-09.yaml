@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 4
+episode: 9
+title: Episode 9
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 57.4
+    end: 107.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1580.7
+    end: 1680
+    confidence: 0.97
+    source: manual

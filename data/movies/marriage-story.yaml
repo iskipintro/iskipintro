@@ -1,0 +1,15 @@
+title: Marriage Story
+year: 2019
+tmdb_id: 492188
+imdb_id: tt7653254
+markers:
+  - type: INTRO
+    start: 0
+    end: 139.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8095
+    end: 8220
+    confidence: 0.95
+    source: manual

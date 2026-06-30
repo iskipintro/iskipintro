@@ -1,0 +1,23 @@
+series: Band of Brothers
+season: 1
+episode: 4
+title: Replacements
+tmdb_id: 4612
+imdb_id: tt0185906
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 81.7
+    end: 162.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3484
+    end: 3600
+    confidence: 0.93
+    source: manual

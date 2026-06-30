@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 3
+episode: 9
+title: The La Locker Room Aux Folles
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 101.8
+    end: 154.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1710
+    end: 1800
+    confidence: 0.96
+    source: manual

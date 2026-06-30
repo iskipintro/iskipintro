@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 5
+episode: 19
+title: Two Funerals
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 73.7
+    end: 156.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1229.4
+    end: 1320
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,18 @@
+series: Andor
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 121361
+imdb_id: tt9253284
+anime: false
+markers:
+  - type: INTRO
+    start: 50.2
+    end: 131.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2295.5
+    end: 2400
+    confidence: 0.98
+    source: manual

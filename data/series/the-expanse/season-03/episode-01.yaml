@@ -1,0 +1,18 @@
+series: The Expanse
+season: 3
+episode: 1
+title: Fight or Flight
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: INTRO
+    start: 50.4
+    end: 134.1
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2581.7
+    end: 2700
+    confidence: 0.97
+    source: manual

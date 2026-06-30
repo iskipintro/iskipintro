@@ -1,0 +1,15 @@
+title: The Rock
+year: 1996
+tmdb_id: 9802
+imdb_id: tt0117500
+markers:
+  - type: INTRO
+    start: 0
+    end: 161
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8030.3
+    end: 8160
+    confidence: 0.98
+    source: manual

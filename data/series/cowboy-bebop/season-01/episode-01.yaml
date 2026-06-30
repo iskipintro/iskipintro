@@ -1,0 +1,18 @@
+series: Cowboy Bebop
+season: 1
+episode: 1
+title: Asteroid Blues
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: OPENING
+    start: 41.6
+    end: 147.3
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1338.7
+    end: 1440
+    confidence: 0.96
+    source: manual

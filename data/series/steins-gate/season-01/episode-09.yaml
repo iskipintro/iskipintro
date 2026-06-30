@@ -1,0 +1,23 @@
+series: Steins;Gate
+season: 1
+episode: 9
+title: Chaos Theory Homeostasis III
+tmdb_id: 46532
+imdb_id: tt1910272
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.8
+    confidence: 0.99
+    source: manual
+  - type: OPENING
+    start: 64.3
+    end: 145.1
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1364.5
+    end: 1440
+    confidence: 0.96
+    source: manual

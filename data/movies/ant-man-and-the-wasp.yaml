@@ -1,0 +1,15 @@
+title: Ant-Man and the Wasp
+year: 2018
+tmdb_id: 363088
+imdb_id: tt5095030
+markers:
+  - type: INTRO
+    start: 0
+    end: 84
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6878.3
+    end: 7080
+    confidence: 0.94
+    source: manual

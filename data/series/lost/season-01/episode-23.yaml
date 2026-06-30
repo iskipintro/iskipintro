@@ -1,0 +1,23 @@
+series: Lost
+season: 1
+episode: 23
+title: Episode 23
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.5
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 105.8
+    end: 175.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2492.9
+    end: 2580
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: The Leftovers
+season: 2
+episode: 5
+title: Episode 5
+tmdb_id: 62051
+imdb_id: tt2699128
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 80.1
+    end: 173.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3225.7
+    end: 3300
+    confidence: 0.95
+    source: manual

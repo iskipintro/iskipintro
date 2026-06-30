@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 87.6
+    end: 134.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2612.7
+    end: 2700
+    confidence: 0.94
+    source: manual

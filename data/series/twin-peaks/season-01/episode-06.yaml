@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 91.3
+    end: 184.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2813.9
+    end: 2880
+    confidence: 0.96
+    source: manual

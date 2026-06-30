@@ -1,0 +1,15 @@
+title: The Apartment
+year: 1960
+tmdb_id: 284
+imdb_id: tt0053604
+markers:
+  - type: INTRO
+    start: 0
+    end: 156.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7360.2
+    end: 7500
+    confidence: 0.98
+    source: manual

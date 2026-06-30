@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 10
+title: Episode 10
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 82.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 89.8
+    end: 185.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2769.5
+    end: 2880
+    confidence: 0.95
+    source: manual

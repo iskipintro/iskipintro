@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 4
+episode: 6
+title: Episode 6
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 64
+    end: 135
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1584.6
+    end: 1680
+    confidence: 0.96
+    source: manual

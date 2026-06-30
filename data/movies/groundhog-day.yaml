@@ -1,0 +1,20 @@
+title: Groundhog Day
+year: 1993
+tmdb_id: 137
+imdb_id: tt0107048
+markers:
+  - type: INTRO
+    start: 0
+    end: 105.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5904.8
+    end: 6060
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 6078.4
+    end: 6124.599999999999
+    confidence: 0.76
+    source: manual

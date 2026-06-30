@@ -1,0 +1,23 @@
+series: The Expanse
+season: 1
+episode: 7
+title: Windmills
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.5
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 87.7
+    end: 133.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2629.9
+    end: 2700
+    confidence: 0.96
+    source: manual

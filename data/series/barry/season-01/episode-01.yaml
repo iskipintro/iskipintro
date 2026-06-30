@@ -1,0 +1,18 @@
+series: Barry
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: INTRO
+    start: 73.3
+    end: 139.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1704.4
+    end: 1800
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,20 @@
+title: The Incredibles
+year: 2004
+tmdb_id: 9806
+imdb_id: tt0317705
+markers:
+  - type: INTRO
+    start: 0
+    end: 121.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6660.4
+    end: 6900
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 6915.5
+    end: 7018.9
+    confidence: 0.84
+    source: manual

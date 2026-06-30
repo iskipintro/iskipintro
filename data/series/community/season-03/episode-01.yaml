@@ -1,0 +1,18 @@
+series: Community
+season: 3
+episode: 1
+title: Biology 101
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: INTRO
+    start: 39.7
+    end: 153.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1207.1
+    end: 1320
+    confidence: 0.98
+    source: manual

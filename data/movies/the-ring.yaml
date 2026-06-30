@@ -1,0 +1,15 @@
+title: The Ring
+year: 2002
+tmdb_id: 565
+imdb_id: tt0298130
+markers:
+  - type: INTRO
+    start: 0
+    end: 138.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6676.1
+    end: 6900
+    confidence: 0.98
+    source: manual

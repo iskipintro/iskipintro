@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 2
+episode: 4
+title: The Swamp
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.3
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 87.1
+    end: 140.9
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1292.1
+    end: 1380
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Hannibal
+season: 3
+episode: 8
+title: The Great Red Dragon
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.8
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 88.6
+    end: 166.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2529.8
+    end: 2640
+    confidence: 0.95
+    source: manual

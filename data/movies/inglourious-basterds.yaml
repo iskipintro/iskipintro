@@ -1,0 +1,20 @@
+title: Inglourious Basterds
+year: 2009
+tmdb_id: 168
+imdb_id: tt0361748
+markers:
+  - type: INTRO
+    start: 0
+    end: 171.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 8995.6
+    end: 9180
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 9203.3
+    end: 9290.8
+    confidence: 0.78
+    source: manual

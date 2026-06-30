@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 1
+episode: 11
+title: Episode 11
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 54.7
+    end: 118.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3230.7
+    end: 3300
+    confidence: 0.99
+    source: manual

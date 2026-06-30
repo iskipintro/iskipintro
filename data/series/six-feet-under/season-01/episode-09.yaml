@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.5
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 72.9
+    end: 142.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3209.1
+    end: 3300
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Slow Horses
+season: 4
+episode: 6
+title: Episode 6
+tmdb_id: 95480
+imdb_id: tt5875444
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.8
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 58.6
+    end: 120.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2764.6
+    end: 2880
+    confidence: 0.97
+    source: manual

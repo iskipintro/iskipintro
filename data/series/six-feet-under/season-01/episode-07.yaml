@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 1
+episode: 7
+title: Episode 7
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.4
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 100.6
+    end: 199.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3231.5
+    end: 3300
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 2
+title: Deep Sleep
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 82.5
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 105.8
+    end: 186.4
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1361.8
+    end: 1440
+    confidence: 0.98
+    source: manual

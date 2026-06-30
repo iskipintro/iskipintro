@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 3
+episode: 18
+title: Episode 18
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 92.4
+    end: 186.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2783
+    end: 2880
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 22
+title: Mansion of the Demon
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 78
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 104.3
+    end: 168.7
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1377
+    end: 1440
+    confidence: 0.93
+    source: manual

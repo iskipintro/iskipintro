@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 60.4
+    end: 112.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2918.2
+    end: 3000
+    confidence: 0.95
+    source: manual

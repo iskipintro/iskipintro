@@ -1,0 +1,15 @@
+title: Thor
+year: 2011
+tmdb_id: 10195
+imdb_id: tt0800369
+markers:
+  - type: INTRO
+    start: 0
+    end: 115.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6664.4
+    end: 6900
+    confidence: 0.94
+    source: manual

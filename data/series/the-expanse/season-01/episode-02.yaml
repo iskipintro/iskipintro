@@ -1,0 +1,23 @@
+series: The Expanse
+season: 1
+episode: 2
+title: The Big Empty
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 90.3
+    end: 173.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2632.5
+    end: 2700
+    confidence: 0.94
+    source: manual

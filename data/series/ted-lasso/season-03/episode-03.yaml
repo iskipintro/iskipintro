@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 3
+episode: 3
+title: "4-5-1"
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 72.7
+    end: 140.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1704.6
+    end: 1800
+    confidence: 0.96
+    source: manual

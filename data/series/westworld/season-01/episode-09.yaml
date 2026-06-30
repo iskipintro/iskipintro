@@ -1,0 +1,23 @@
+series: Westworld
+season: 1
+episode: 9
+title: The Well-Tempered Clavier
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.9
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 91.2
+    end: 188.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3489.7
+    end: 3600
+    confidence: 0.96
+    source: manual

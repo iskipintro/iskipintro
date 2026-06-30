@@ -1,0 +1,23 @@
+series: Hannibal
+season: 3
+episode: 3
+title: Secondo
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.2
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 96.1
+    end: 148.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2572.1
+    end: 2640
+    confidence: 0.95
+    source: manual

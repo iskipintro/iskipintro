@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 1
+episode: 23
+title: The Final Hit
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.7
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 65.9
+    end: 158.6
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1334.2
+    end: 1440
+    confidence: 0.93
+    source: manual

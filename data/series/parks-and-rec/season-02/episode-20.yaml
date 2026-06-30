@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 2
+episode: 20
+title: Summer Catalog
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 103.6
+    end: 188.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1250
+    end: 1320
+    confidence: 0.95
+    source: manual

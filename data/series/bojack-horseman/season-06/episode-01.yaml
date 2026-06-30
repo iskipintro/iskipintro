@@ -1,0 +1,18 @@
+series: BoJack Horseman
+season: 6
+episode: 1
+title: A Horse Walks into a Rehab
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: INTRO
+    start: 31.6
+    end: 112.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1397.1
+    end: 1500
+    confidence: 0.93
+    source: manual

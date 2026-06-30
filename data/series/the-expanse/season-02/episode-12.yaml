@@ -1,0 +1,23 @@
+series: The Expanse
+season: 2
+episode: 12
+title: The Monster and the Rocket
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.4
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 66.4
+    end: 157.1
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2580.3
+    end: 2700
+    confidence: 0.93
+    source: manual

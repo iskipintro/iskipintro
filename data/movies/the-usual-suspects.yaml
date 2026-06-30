@@ -1,0 +1,15 @@
+title: The Usual Suspects
+year: 1995
+tmdb_id: 629
+imdb_id: tt0114814
+markers:
+  - type: INTRO
+    start: 0
+    end: 91.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6232.7
+    end: 6360
+    confidence: 0.95
+    source: manual

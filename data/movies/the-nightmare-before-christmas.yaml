@@ -1,0 +1,15 @@
+title: The Nightmare Before Christmas
+year: 1993
+tmdb_id: 9479
+imdb_id: tt0107688
+markers:
+  - type: INTRO
+    start: 0
+    end: 150.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 4425.6
+    end: 4560
+    confidence: 0.97
+    source: manual

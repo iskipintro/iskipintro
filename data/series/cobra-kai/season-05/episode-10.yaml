@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 5
+episode: 10
+title: Episode 10
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.4
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 46.6
+    end: 99.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1707.7
+    end: 1800
+    confidence: 0.93
+    source: manual

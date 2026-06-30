@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 2
+episode: 11
+title: Midnight Train to Royston
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 84.1
+    end: 176.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1700.2
+    end: 1800
+    confidence: 0.96
+    source: manual

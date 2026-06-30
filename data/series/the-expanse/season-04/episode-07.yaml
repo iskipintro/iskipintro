@@ -1,0 +1,23 @@
+series: The Expanse
+season: 4
+episode: 7
+title: A Shot Heard Round the System
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 91
+    end: 185.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2588.6
+    end: 2700
+    confidence: 0.95
+    source: manual

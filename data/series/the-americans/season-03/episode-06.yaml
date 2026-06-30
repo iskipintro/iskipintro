@@ -1,0 +1,23 @@
+series: The Americans
+season: 3
+episode: 6
+title: Episode 6
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 47.8
+    end: 124.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2542.3
+    end: 2640
+    confidence: 0.96
+    source: manual

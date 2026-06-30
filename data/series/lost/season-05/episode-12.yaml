@@ -1,0 +1,23 @@
+series: Lost
+season: 5
+episode: 12
+title: Episode 12
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 84
+    end: 151.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2491.3
+    end: 2580
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: Westworld
+season: 1
+episode: 3
+title: The Stray
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.2
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 86.5
+    end: 159
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3514.1
+    end: 3600
+    confidence: 0.96
+    source: manual

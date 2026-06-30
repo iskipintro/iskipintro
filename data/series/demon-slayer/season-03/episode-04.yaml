@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 3
+episode: 4
+title: Thank You, Tokito
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.5
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 73.1
+    end: 151.2
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1331
+    end: 1440
+    confidence: 0.96
+    source: manual

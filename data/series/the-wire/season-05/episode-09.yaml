@@ -1,0 +1,23 @@
+series: The Wire
+season: 5
+episode: 9
+title: Episode 9
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 90.3
+    end: 150.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3481.2
+    end: 3600
+    confidence: 0.96
+    source: manual

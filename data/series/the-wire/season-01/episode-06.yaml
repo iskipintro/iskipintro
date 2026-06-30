@@ -1,0 +1,23 @@
+series: The Wire
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.6
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 71.3
+    end: 126.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3483.5
+    end: 3600
+    confidence: 0.96
+    source: manual

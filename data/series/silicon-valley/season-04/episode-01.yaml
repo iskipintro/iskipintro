@@ -1,0 +1,18 @@
+series: Silicon Valley
+season: 4
+episode: 1
+title: Episode 1
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: INTRO
+    start: 55.2
+    end: 148.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1603.2
+    end: 1680
+    confidence: 0.93
+    source: manual

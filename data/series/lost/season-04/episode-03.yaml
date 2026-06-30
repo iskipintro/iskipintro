@@ -1,0 +1,23 @@
+series: Lost
+season: 4
+episode: 3
+title: Episode 3
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.2
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 71.4
+    end: 132.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2511.6
+    end: 2580
+    confidence: 0.97
+    source: manual

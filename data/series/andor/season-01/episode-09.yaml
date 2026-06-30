@@ -1,0 +1,23 @@
+series: Andor
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 121361
+imdb_id: tt9253284
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.8
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 101
+    end: 197.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2290.6
+    end: 2400
+    confidence: 0.97
+    source: manual

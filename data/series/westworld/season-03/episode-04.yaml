@@ -1,0 +1,23 @@
+series: Westworld
+season: 3
+episode: 4
+title: The Mother of Exiles
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.8
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 76.4
+    end: 157.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3514
+    end: 3600
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: The Good Place
+season: 3
+episode: 8
+title: Don't Let the Good Life Pass You By
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 92.4
+    end: 153.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1249.3
+    end: 1320
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,15 @@
+title: Full Metal Jacket
+year: 1987
+tmdb_id: 600
+imdb_id: tt0093058
+markers:
+  - type: INTRO
+    start: 0
+    end: 163.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6778.5
+    end: 6960
+    confidence: 0.97
+    source: manual

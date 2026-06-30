@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 43.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 62.5
+    end: 119.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3205.7
+    end: 3300
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,18 @@
+series: The Fall of the House of Usher
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 154385
+imdb_id: tt15518840
+anime: false
+markers:
+  - type: INTRO
+    start: 78
+    end: 164
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3189.4
+    end: 3300
+    confidence: 0.96
+    source: manual

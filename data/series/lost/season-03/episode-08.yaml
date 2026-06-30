@@ -1,0 +1,23 @@
+series: Lost
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 81.9
+    end: 135.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2514.1
+    end: 2580
+    confidence: 0.98
+    source: manual

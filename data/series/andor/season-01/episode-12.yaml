@@ -1,0 +1,23 @@
+series: Andor
+season: 1
+episode: 12
+title: Episode 12
+tmdb_id: 121361
+imdb_id: tt9253284
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.9
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 63.1
+    end: 145.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2281.2
+    end: 2400
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 10
+title: "The Day of Black Sun Part 1: The Invasion"
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.4
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 111.1
+    end: 204.1
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1296.6
+    end: 1380
+    confidence: 0.98
+    source: manual

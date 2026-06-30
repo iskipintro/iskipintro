@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 5
+episode: 8
+title: Episode 8
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 73.5
+    end: 127.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1563.3
+    end: 1680
+    confidence: 0.97
+    source: manual

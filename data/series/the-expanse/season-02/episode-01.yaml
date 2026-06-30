@@ -1,0 +1,18 @@
+series: The Expanse
+season: 2
+episode: 1
+title: Safe
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: INTRO
+    start: 67.1
+    end: 179.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2626.5
+    end: 2700
+    confidence: 0.95
+    source: manual

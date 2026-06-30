@@ -1,0 +1,23 @@
+series: Slow Horses
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 95480
+imdb_id: tt5875444
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.9
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 115.2
+    end: 199.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2817.9
+    end: 2880
+    confidence: 0.96
+    source: manual

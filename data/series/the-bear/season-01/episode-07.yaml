@@ -1,0 +1,23 @@
+series: The Bear
+season: 1
+episode: 7
+title: Review
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 79
+    end: 166.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1687.7
+    end: 1800
+    confidence: 0.93
+    source: manual

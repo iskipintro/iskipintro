@@ -1,0 +1,23 @@
+series: The Good Place
+season: 4
+episode: 6
+title: A Chip Off the Old Block
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.3
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 73
+    end: 166.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1223.3
+    end: 1320
+    confidence: 0.96
+    source: manual

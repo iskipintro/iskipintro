@@ -1,0 +1,15 @@
+title: The Exorcist
+year: 1973
+tmdb_id: 9552
+imdb_id: tt0070047
+markers:
+  - type: INTRO
+    start: 0
+    end: 91.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7153.2
+    end: 7320
+    confidence: 0.97
+    source: manual

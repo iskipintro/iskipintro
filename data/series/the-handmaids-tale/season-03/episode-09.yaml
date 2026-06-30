@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 3
+episode: 9
+title: Episode 9
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 92
+    end: 151.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2897.7
+    end: 3000
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,18 @@
+series: The Bear
+season: 3
+episode: 1
+title: Tomorrow
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: INTRO
+    start: 42.6
+    end: 157.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1716.6
+    end: 1800
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,20 @@
+title: North by Northwest
+year: 1959
+tmdb_id: 213
+imdb_id: tt0053125
+markers:
+  - type: INTRO
+    start: 0
+    end: 61.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 8034.4
+    end: 8160
+    confidence: 0.96
+    source: manual
+  - type: POST_CREDIT
+    start: 8187.4
+    end: 8250
+    confidence: 0.87
+    source: manual

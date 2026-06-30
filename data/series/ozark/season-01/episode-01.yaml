@@ -1,0 +1,18 @@
+series: Ozark
+season: 1
+episode: 1
+title: Sugarwood
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: INTRO
+    start: 76.3
+    end: 164.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3231.5
+    end: 3300
+    confidence: 0.98
+    source: manual

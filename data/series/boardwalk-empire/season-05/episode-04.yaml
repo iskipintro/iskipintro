@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 5
+episode: 4
+title: Episode 4
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 68.7
+    end: 160.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3236
+    end: 3300
+    confidence: 0.95
+    source: manual

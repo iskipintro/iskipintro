@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 5
+episode: 11
+title: Test Dream
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 91.2
+    end: 176
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3225.9
+    end: 3300
+    confidence: 0.94
+    source: manual

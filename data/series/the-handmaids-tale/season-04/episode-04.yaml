@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 4
+episode: 4
+title: Episode 4
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 101.2
+    end: 178.3
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2886.6
+    end: 3000
+    confidence: 0.95
+    source: manual

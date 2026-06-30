@@ -1,0 +1,20 @@
+title: The Hangover
+year: 2009
+tmdb_id: 18785
+imdb_id: tt1119646
+markers:
+  - type: INTRO
+    start: 0
+    end: 171.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 5807.2
+    end: 6000
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 6016.1
+    end: 6126.8
+    confidence: 0.71
+    source: manual

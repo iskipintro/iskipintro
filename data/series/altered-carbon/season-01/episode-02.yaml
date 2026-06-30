@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 86.7
+    end: 179.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2919.1
+    end: 3000
+    confidence: 0.98
+    source: manual

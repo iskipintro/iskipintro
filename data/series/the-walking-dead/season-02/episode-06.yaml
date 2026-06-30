@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 2
+episode: 6
+title: Secrets
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 43.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 58.1
+    end: 133.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2612.1
+    end: 2700
+    confidence: 0.93
+    source: manual

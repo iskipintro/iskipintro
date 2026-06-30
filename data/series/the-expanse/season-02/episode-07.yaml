@@ -1,0 +1,23 @@
+series: The Expanse
+season: 2
+episode: 7
+title: The Seventh Man
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 77
+    end: 158.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2621
+    end: 2700
+    confidence: 0.93
+    source: manual

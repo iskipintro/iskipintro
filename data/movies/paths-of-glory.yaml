@@ -1,0 +1,15 @@
+title: Paths of Glory
+year: 1957
+tmdb_id: 975
+imdb_id: tt0050825
+markers:
+  - type: INTRO
+    start: 0
+    end: 153.6
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 5115.4
+    end: 5280
+    confidence: 0.99
+    source: manual

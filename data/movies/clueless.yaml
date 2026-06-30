@@ -1,0 +1,20 @@
+title: Clueless
+year: 1995
+tmdb_id: 9603
+imdb_id: tt0112697
+markers:
+  - type: INTRO
+    start: 0
+    end: 119.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5622.8
+    end: 5820
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 5848.3
+    end: 5961.3
+    confidence: 0.9
+    source: manual

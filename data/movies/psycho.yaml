@@ -1,0 +1,15 @@
+title: Psycho
+year: 1960
+tmdb_id: 539
+imdb_id: tt0054215
+markers:
+  - type: INTRO
+    start: 0
+    end: 88.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6301.3
+    end: 6540
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Deadwood
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 82.3
+    end: 145.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3234.1
+    end: 3300
+    confidence: 0.95
+    source: manual

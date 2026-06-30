@@ -1,0 +1,15 @@
+title: "X-Men: First Class"
+year: 2011
+tmdb_id: 49538
+imdb_id: tt1270798
+markers:
+  - type: INTRO
+    start: 0
+    end: 137.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 7771.8
+    end: 7920
+    confidence: 0.99
+    source: manual

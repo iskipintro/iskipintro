@@ -1,0 +1,15 @@
+title: Jerry Maguire
+year: 1996
+tmdb_id: 10773
+imdb_id: tt0116695
+markers:
+  - type: INTRO
+    start: 0
+    end: 68
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 8155
+    end: 8340
+    confidence: 0.97
+    source: manual

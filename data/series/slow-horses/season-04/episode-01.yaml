@@ -1,0 +1,18 @@
+series: Slow Horses
+season: 4
+episode: 1
+title: Episode 1
+tmdb_id: 95480
+imdb_id: tt5875444
+anime: false
+markers:
+  - type: INTRO
+    start: 45.4
+    end: 152.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2806.9
+    end: 2880
+    confidence: 0.93
+    source: manual

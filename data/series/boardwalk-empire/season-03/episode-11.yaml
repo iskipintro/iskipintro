@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 3
+episode: 11
+title: Episode 11
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 84.7
+    end: 134.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3204.8
+    end: 3300
+    confidence: 0.95
+    source: manual

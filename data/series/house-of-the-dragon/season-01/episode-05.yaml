@@ -1,0 +1,23 @@
+series: House of the Dragon
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 94997
+imdb_id: tt11198330
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 141.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3518.7
+    end: 3600
+    confidence: 0.96
+    source: manual

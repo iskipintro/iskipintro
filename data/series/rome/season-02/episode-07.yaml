@@ -1,0 +1,23 @@
+series: Rome
+season: 2
+episode: 7
+title: Episode 7
+tmdb_id: 463
+imdb_id: tt0384766
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 106.9
+    end: 166.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2903.6
+    end: 3000
+    confidence: 0.96
+    source: manual

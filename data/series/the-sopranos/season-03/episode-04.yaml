@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 3
+episode: 4
+title: Employee of the Month
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 72.5
+    end: 145.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3207.7
+    end: 3300
+    confidence: 0.97
+    source: manual

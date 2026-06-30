@@ -1,0 +1,23 @@
+series: House M.D.
+season: 7
+episode: 15
+title: Episode 15
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 77.1
+    end: 138
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2573.5
+    end: 2640
+    confidence: 0.98
+    source: manual

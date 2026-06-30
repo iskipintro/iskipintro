@@ -1,0 +1,20 @@
+title: Ghostbusters
+year: 1984
+tmdb_id: 620
+imdb_id: tt0087332
+markers:
+  - type: INTRO
+    start: 0
+    end: 96.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6153.6
+    end: 6300
+    confidence: 0.96
+    source: manual
+  - type: POST_CREDIT
+    start: 6310.4
+    end: 6394.7
+    confidence: 0.84
+    source: manual

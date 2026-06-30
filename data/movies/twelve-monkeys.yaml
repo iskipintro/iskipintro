@@ -1,0 +1,15 @@
+title: "12 Monkeys"
+year: 1995
+tmdb_id: 63
+imdb_id: tt0114746
+markers:
+  - type: INTRO
+    start: 0
+    end: 73.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7508.3
+    end: 7740
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 23
+title: The Hashira Meeting
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.2
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 78.6
+    end: 138.5
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1339.6
+    end: 1440
+    confidence: 0.96
+    source: manual

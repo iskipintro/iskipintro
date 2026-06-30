@@ -1,0 +1,23 @@
+series: Invincible
+season: 1
+episode: 3
+title: Who You Calling Ugly?
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.5
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 60.5
+    end: 157.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2809.5
+    end: 2880
+    confidence: 0.97
+    source: manual

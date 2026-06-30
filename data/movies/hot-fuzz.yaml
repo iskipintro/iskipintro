@@ -1,0 +1,15 @@
+title: Hot Fuzz
+year: 2007
+tmdb_id: 4638
+imdb_id: tt0425112
+markers:
+  - type: INTRO
+    start: 0
+    end: 121.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7057.3
+    end: 7260
+    confidence: 0.95
+    source: manual

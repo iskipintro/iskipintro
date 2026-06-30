@@ -1,0 +1,23 @@
+series: Steins;Gate
+season: 1
+episode: 10
+title: Chaos Theory Homeostasis IV
+tmdb_id: 46532
+imdb_id: tt1910272
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.2
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 83.4
+    end: 137.9
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1364.4
+    end: 1440
+    confidence: 0.98
+    source: manual

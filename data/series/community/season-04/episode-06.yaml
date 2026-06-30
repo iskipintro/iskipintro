@@ -1,0 +1,23 @@
+series: Community
+season: 4
+episode: 6
+title: Advanced Documentary Filmmaking
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 82.3
+    end: 176.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1203.9
+    end: 1320
+    confidence: 0.95
+    source: manual

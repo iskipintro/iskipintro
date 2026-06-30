@@ -1,0 +1,15 @@
+title: Logan
+year: 2017
+tmdb_id: 263115
+imdb_id: tt3315342
+markers:
+  - type: INTRO
+    start: 0
+    end: 124.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 8050.7
+    end: 8220
+    confidence: 0.95
+    source: manual

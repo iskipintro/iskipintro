@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 6
+episode: 16
+title: The Summit
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.2
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 103
+    end: 151.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1229.3
+    end: 1320
+    confidence: 0.95
+    source: manual

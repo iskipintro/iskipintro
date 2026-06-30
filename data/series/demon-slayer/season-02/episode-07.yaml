@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 7
+title: Set Your Heart Ablaze
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.6
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 91.1
+    end: 175.1
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1368.7
+    end: 1440
+    confidence: 0.97
+    source: manual

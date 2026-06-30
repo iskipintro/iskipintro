@@ -1,0 +1,23 @@
+series: Veep
+season: 3
+episode: 5
+title: Episode 5
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 59.6
+    end: 123.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1587.7
+    end: 1680
+    confidence: 0.95
+    source: manual

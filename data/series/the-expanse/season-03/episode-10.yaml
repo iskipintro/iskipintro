@@ -1,0 +1,23 @@
+series: The Expanse
+season: 3
+episode: 10
+title: Dandelion Sky
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.3
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 65.2
+    end: 112.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2587.6
+    end: 2700
+    confidence: 0.95
+    source: manual

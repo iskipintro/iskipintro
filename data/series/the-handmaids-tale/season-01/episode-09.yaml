@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.4
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 110.5
+    end: 197.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2912.3
+    end: 3000
+    confidence: 0.97
+    source: manual

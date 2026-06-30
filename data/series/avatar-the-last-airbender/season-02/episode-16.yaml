@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 2
+episode: 16
+title: Appa's Lost Days
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 40
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 68.4
+    end: 115.6
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1278.4
+    end: 1380
+    confidence: 0.95
+    source: manual

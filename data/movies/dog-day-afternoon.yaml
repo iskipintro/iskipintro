@@ -1,0 +1,20 @@
+title: Dog Day Afternoon
+year: 1975
+tmdb_id: 968
+imdb_id: tt0072890
+markers:
+  - type: INTRO
+    start: 0
+    end: 79
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7284.8
+    end: 7500
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7523.6
+    end: 7623.5
+    confidence: 0.8
+    source: manual

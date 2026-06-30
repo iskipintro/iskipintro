@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 2
+episode: 3
+title: The Cost of Living
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.1
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 83.1
+    end: 174.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3191.3
+    end: 3300
+    confidence: 0.94
+    source: manual

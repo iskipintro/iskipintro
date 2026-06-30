@@ -1,0 +1,23 @@
+series: Hannibal
+season: 1
+episode: 12
+title: Relevés
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 101
+    end: 182.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2565.5
+    end: 2640
+    confidence: 0.99
+    source: manual

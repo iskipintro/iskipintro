@@ -1,0 +1,23 @@
+series: Ozark
+season: 1
+episode: 10
+title: The Toll
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.7
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 112.1
+    end: 189.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3206.1
+    end: 3300
+    confidence: 0.98
+    source: manual

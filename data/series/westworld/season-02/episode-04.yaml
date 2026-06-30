@@ -1,0 +1,23 @@
+series: Westworld
+season: 2
+episode: 4
+title: The Riddle of the Sphinx
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.1
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 91.8
+    end: 155.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3521.8
+    end: 3600
+    confidence: 0.93
+    source: manual

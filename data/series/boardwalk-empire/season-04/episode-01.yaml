@@ -1,0 +1,18 @@
+series: Boardwalk Empire
+season: 4
+episode: 1
+title: Episode 1
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: INTRO
+    start: 30.7
+    end: 127.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3239.8
+    end: 3300
+    confidence: 0.99
+    source: manual

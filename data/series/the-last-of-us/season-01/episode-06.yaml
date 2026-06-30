@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 1
+episode: 6
+title: Kin
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 93.8
+    end: 145.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3225
+    end: 3300
+    confidence: 0.94
+    source: manual

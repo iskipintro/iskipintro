@@ -1,0 +1,15 @@
+title: Cinema Paradiso
+year: 1988
+tmdb_id: 11203
+imdb_id: tt0095765
+markers:
+  - type: INTRO
+    start: 0
+    end: 77.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7299.9
+    end: 7440
+    confidence: 0.97
+    source: manual

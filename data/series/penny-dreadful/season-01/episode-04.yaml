@@ -1,0 +1,23 @@
+series: Penny Dreadful
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 56724
+imdb_id: tt2628232
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 90
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 96.8
+    end: 194.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2924
+    end: 3000
+    confidence: 0.94
+    source: manual

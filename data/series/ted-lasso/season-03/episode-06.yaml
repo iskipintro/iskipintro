@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 3
+episode: 6
+title: Sunflowers
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.8
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 73.1
+    end: 118.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1735.8
+    end: 1800
+    confidence: 0.96
+    source: manual

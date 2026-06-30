@@ -1,0 +1,23 @@
+series: Invincible
+season: 2
+episode: 4
+title: I'm Not Going Anywhere
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.9
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55.1
+    end: 103.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2811.6
+    end: 2880
+    confidence: 0.98
+    source: manual

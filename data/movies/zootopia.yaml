@@ -1,0 +1,15 @@
+title: Zootopia
+year: 2016
+tmdb_id: 269149
+imdb_id: tt2948356
+markers:
+  - type: INTRO
+    start: 0
+    end: 62.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6278.2
+    end: 6480
+    confidence: 0.98
+    source: manual

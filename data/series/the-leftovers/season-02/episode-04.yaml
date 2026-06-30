@@ -1,0 +1,23 @@
+series: The Leftovers
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 62051
+imdb_id: tt2699128
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 80.4
+    end: 133.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3195.7
+    end: 3300
+    confidence: 0.94
+    source: manual

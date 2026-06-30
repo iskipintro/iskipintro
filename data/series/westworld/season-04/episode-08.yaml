@@ -1,0 +1,23 @@
+series: Westworld
+season: 4
+episode: 8
+title: Que Será, Será
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 75.7
+    end: 128.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3481.1
+    end: 3600
+    confidence: 0.96
+    source: manual

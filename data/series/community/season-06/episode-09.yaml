@@ -1,0 +1,23 @@
+series: Community
+season: 6
+episode: 9
+title: Grifting 101
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 57.2
+    end: 153.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1203.2
+    end: 1320
+    confidence: 0.93
+    source: manual

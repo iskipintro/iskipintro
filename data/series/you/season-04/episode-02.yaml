@@ -1,0 +1,23 @@
+series: You
+season: 4
+episode: 2
+title: Episode 2
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 96.7
+    end: 190
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2624.4
+    end: 2700
+    confidence: 0.98
+    source: manual

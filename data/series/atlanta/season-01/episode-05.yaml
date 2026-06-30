@@ -1,0 +1,23 @@
+series: Atlanta
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 75.4
+    end: 164.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1689.4
+    end: 1800
+    confidence: 0.97
+    source: manual

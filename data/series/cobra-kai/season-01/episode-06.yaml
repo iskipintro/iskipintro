@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.4
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 121.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1712.7
+    end: 1800
+    confidence: 0.96
+    source: manual

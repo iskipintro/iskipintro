@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 6
+episode: 14
+title: The Pawnee-Eagleton Tip Off Part 4
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 57.3
+    end: 144.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1253.2
+    end: 1320
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,15 @@
+title: "Captain America: Civil War"
+year: 2016
+tmdb_id: 271110
+imdb_id: tt3498820
+markers:
+  - type: INTRO
+    start: 0
+    end: 141.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 8668.6
+    end: 8820
+    confidence: 0.95
+    source: manual

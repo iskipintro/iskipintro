@@ -1,0 +1,23 @@
+series: Lost
+season: 3
+episode: 17
+title: Episode 17
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 92.7
+    end: 176
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2463.9
+    end: 2580
+    confidence: 0.94
+    source: manual

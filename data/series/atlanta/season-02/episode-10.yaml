@@ -1,0 +1,23 @@
+series: Atlanta
+season: 2
+episode: 10
+title: Episode 10
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.8
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 92
+    end: 139.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1686.8
+    end: 1800
+    confidence: 0.93
+    source: manual

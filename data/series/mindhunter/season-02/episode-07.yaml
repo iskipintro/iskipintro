@@ -1,0 +1,23 @@
+series: Mindhunter
+season: 2
+episode: 7
+title: Episode 7
+tmdb_id: 67744
+imdb_id: tt5290382
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.8
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 104.3
+    end: 178.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2929.6
+    end: 3000
+    confidence: 0.94
+    source: manual

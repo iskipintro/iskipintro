@@ -1,0 +1,23 @@
+series: The Americans
+season: 5
+episode: 11
+title: Episode 11
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 81.5
+    end: 151.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2555.9
+    end: 2640
+    confidence: 0.97
+    source: manual

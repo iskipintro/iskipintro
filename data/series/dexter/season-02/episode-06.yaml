@@ -1,0 +1,23 @@
+series: Dexter
+season: 2
+episode: 6
+title: Episode 6
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 101.6
+    end: 189
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3068.6
+    end: 3180
+    confidence: 0.93
+    source: manual

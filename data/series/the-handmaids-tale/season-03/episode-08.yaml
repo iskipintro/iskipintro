@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 103.9
+    end: 177.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2886.9
+    end: 3000
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 2
+episode: 5
+title: Episode 5
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 76.8
+    end: 150.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2912.3
+    end: 3000
+    confidence: 0.94
+    source: manual

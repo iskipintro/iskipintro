@@ -1,0 +1,23 @@
+series: Fallout
+season: 1
+episode: 4
+title: The Ghouls
+tmdb_id: 206471
+imdb_id: tt12637874
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 89.9
+    end: 154.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3224.6
+    end: 3300
+    confidence: 0.98
+    source: manual

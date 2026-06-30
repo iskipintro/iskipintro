@@ -1,0 +1,20 @@
+title: The Father
+year: 2020
+tmdb_id: 600354
+imdb_id: tt10272386
+markers:
+  - type: INTRO
+    start: 0
+    end: 160.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 5606.6
+    end: 5820
+    confidence: 0.94
+    source: manual
+  - type: POST_CREDIT
+    start: 5825.7
+    end: 5928.2
+    confidence: 0.72
+    source: manual

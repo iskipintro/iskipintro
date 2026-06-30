@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 1
+episode: 21
+title: The Secret of the Immortal
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.7
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 74.4
+    end: 133.6
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1360.1
+    end: 1440
+    confidence: 0.97
+    source: manual

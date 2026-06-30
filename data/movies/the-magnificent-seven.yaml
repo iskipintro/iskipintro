@@ -1,0 +1,15 @@
+title: The Magnificent Seven
+year: 1960
+tmdb_id: 334
+imdb_id: tt0054047
+markers:
+  - type: INTRO
+    start: 0
+    end: 160.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7489
+    end: 7680
+    confidence: 0.96
+    source: manual

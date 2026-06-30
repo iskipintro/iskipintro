@@ -1,0 +1,23 @@
+series: Community
+season: 2
+episode: 24
+title: For a Few Paintballs More
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.5
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 62.5
+    end: 128.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1233.8
+    end: 1320
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,15 @@
+title: A Serious Man
+year: 2009
+tmdb_id: 12569
+imdb_id: tt1019452
+markers:
+  - type: INTRO
+    start: 0
+    end: 135.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6172.7
+    end: 6360
+    confidence: 0.95
+    source: manual

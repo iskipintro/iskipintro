@@ -1,0 +1,23 @@
+series: The Punisher
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 67177
+imdb_id: tt7468410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.7
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 73.7
+    end: 163.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2903.7
+    end: 3000
+    confidence: 0.97
+    source: manual

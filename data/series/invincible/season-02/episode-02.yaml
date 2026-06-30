@@ -1,0 +1,23 @@
+series: Invincible
+season: 2
+episode: 2
+title: In About Six Hours, I Lose My Virginity to a Fish
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.7
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 73.6
+    end: 139
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2780.7
+    end: 2880
+    confidence: 0.96
+    source: manual

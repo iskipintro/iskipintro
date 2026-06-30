@@ -1,0 +1,23 @@
+series: Chainsaw Man
+season: 1
+episode: 6
+title: Kill Denji
+tmdb_id: 127646
+imdb_id: tt13616990
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.4
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 91.6
+    end: 141.8
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1341.5
+    end: 1440
+    confidence: 0.97
+    source: manual

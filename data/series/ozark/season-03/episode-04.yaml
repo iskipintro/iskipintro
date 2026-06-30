@@ -1,0 +1,23 @@
+series: Ozark
+season: 3
+episode: 4
+title: Boss Fight
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.5
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 81.4
+    end: 148.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3239.3
+    end: 3300
+    confidence: 0.95
+    source: manual

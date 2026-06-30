@@ -1,0 +1,23 @@
+series: Ozark
+season: 4
+episode: 14
+title: A Hard Way to Go
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.2
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 91.9
+    end: 143.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3237.5
+    end: 3300
+    confidence: 0.96
+    source: manual

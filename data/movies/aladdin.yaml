@@ -1,0 +1,15 @@
+title: Aladdin
+year: 1992
+tmdb_id: 812
+imdb_id: tt0103639
+markers:
+  - type: INTRO
+    start: 0
+    end: 101.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5262.4
+    end: 5400
+    confidence: 0.94
+    source: manual

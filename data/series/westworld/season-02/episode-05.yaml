@@ -1,0 +1,23 @@
+series: Westworld
+season: 2
+episode: 5
+title: Akane no Mai
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 117.8
+    end: 166.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3490.5
+    end: 3600
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Community
+season: 1
+episode: 13
+title: Investigative Journalism
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.9
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 72.1
+    end: 128.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1242.6
+    end: 1320
+    confidence: 0.96
+    source: manual

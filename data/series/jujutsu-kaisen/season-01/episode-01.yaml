@@ -1,0 +1,18 @@
+series: Jujutsu Kaisen
+season: 1
+episode: 1
+title: Ryomen Sukuna
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: OPENING
+    start: 52.6
+    end: 116
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1321.7
+    end: 1440
+    confidence: 0.94
+    source: manual

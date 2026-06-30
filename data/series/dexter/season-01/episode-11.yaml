@@ -1,0 +1,23 @@
+series: Dexter
+season: 1
+episode: 11
+title: Episode 11
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 75.8
+    end: 123.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3084.7
+    end: 3180
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,20 @@
+title: Blade
+year: 1998
+tmdb_id: 36648
+imdb_id: tt0120611
+markers:
+  - type: INTRO
+    start: 0
+    end: 140.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7006.1
+    end: 7200
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 7217
+    end: 7251.5
+    confidence: 0.73
+    source: manual

@@ -1,0 +1,23 @@
+series: Mindhunter
+season: 2
+episode: 2
+title: Episode 2
+tmdb_id: 67744
+imdb_id: tt5290382
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 98.6
+    end: 182.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2911.4
+    end: 3000
+    confidence: 0.95
+    source: manual

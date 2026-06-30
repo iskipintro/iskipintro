@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 6
+episode: 13
+title: Episode 13
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.7
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 86.9
+    end: 146
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1734.9
+    end: 1800
+    confidence: 0.97
+    source: manual

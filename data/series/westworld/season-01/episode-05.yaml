@@ -1,0 +1,23 @@
+series: Westworld
+season: 1
+episode: 5
+title: Contrapasso
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 96.1
+    end: 185
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3508.7
+    end: 3600
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 17
+title: Episode 17
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 67.7
+    end: 121.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2791.5
+    end: 2880
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 1
+episode: 8
+title: When We Are in Need
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 84.3
+    end: 163.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3199.3
+    end: 3300
+    confidence: 0.97
+    source: manual

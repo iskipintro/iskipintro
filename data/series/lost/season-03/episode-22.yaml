@@ -1,0 +1,23 @@
+series: Lost
+season: 3
+episode: 22
+title: Episode 22
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 104.9
+    end: 178
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2517.6
+    end: 2580
+    confidence: 0.97
+    source: manual

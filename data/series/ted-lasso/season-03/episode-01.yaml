@@ -1,0 +1,18 @@
+series: Ted Lasso
+season: 3
+episode: 1
+title: Smells Like Mean Spirit
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: INTRO
+    start: 53.1
+    end: 134.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1707
+    end: 1800
+    confidence: 0.94
+    source: manual

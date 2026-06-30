@@ -1,0 +1,23 @@
+series: The Last Kingdom
+season: 3
+episode: 5
+title: Episode 5
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.9
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 73.2
+    end: 137.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2932.6
+    end: 3000
+    confidence: 0.95
+    source: manual

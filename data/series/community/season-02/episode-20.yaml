@@ -1,0 +1,23 @@
+series: Community
+season: 2
+episode: 20
+title: Custody Law and Eastern European Diplomacy
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 77.1
+    end: 130.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1236.9
+    end: 1320
+    confidence: 0.94
+    source: manual

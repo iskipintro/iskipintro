@@ -1,0 +1,20 @@
+title: American Gangster
+year: 2007
+tmdb_id: 4982
+imdb_id: tt0765429
+markers:
+  - type: INTRO
+    start: 0
+    end: 139.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 9266.3
+    end: 9420
+    confidence: 0.93
+    source: manual
+  - type: POST_CREDIT
+    start: 9426.7
+    end: 9495.6
+    confidence: 0.77
+    source: manual

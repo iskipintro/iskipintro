@@ -1,0 +1,15 @@
+title: "Kill Bill: Vol. 1"
+year: 2003
+tmdb_id: 24
+imdb_id: tt0266697
+markers:
+  - type: INTRO
+    start: 0
+    end: 72.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6459.1
+    end: 6660
+    confidence: 0.99
+    source: manual

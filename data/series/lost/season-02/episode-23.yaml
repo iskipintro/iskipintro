@@ -1,0 +1,23 @@
+series: Lost
+season: 2
+episode: 23
+title: Episode 23
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.2
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 90.6
+    end: 181.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2520
+    end: 2580
+    confidence: 0.97
+    source: manual

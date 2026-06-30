@@ -1,0 +1,23 @@
+series: Steins;Gate
+season: 1
+episode: 20
+title: Finalize Apoptosis
+tmdb_id: 46532
+imdb_id: tt1910272
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.6
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 83.7
+    end: 182.6
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1320.7
+    end: 1440
+    confidence: 0.96
+    source: manual

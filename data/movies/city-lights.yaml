@@ -1,0 +1,15 @@
+title: City Lights
+year: 1931
+tmdb_id: 901
+imdb_id: tt0021749
+markers:
+  - type: INTRO
+    start: 0
+    end: 134.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 5031.7
+    end: 5220
+    confidence: 0.94
+    source: manual

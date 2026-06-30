@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 3
+episode: 10
+title: Love Hashira Mitsuri Kanroji
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.5
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 99.6
+    end: 166.3
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1365.2
+    end: 1440
+    confidence: 0.93
+    source: manual

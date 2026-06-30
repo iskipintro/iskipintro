@@ -1,0 +1,23 @@
+series: Daredevil
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.1
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 98.6
+    end: 156.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2908.3
+    end: 3000
+    confidence: 0.98
+    source: manual

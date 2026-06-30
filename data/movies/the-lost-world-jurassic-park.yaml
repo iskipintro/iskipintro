@@ -1,0 +1,20 @@
+title: "The Lost World: Jurassic Park"
+year: 1997
+tmdb_id: 9357
+imdb_id: tt0119567
+markers:
+  - type: INTRO
+    start: 0
+    end: 142.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7599.2
+    end: 7740
+    confidence: 0.99
+    source: manual
+  - type: POST_CREDIT
+    start: 7749.5
+    end: 7844.7
+    confidence: 0.8
+    source: manual

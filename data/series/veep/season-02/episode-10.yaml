@@ -1,0 +1,23 @@
+series: Veep
+season: 2
+episode: 10
+title: Episode 10
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.8
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 69.7
+    end: 126.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1586.3
+    end: 1680
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,23 @@
+series: The Wire
+season: 2
+episode: 12
+title: Episode 12
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.2
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 77.4
+    end: 147.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3525.2
+    end: 3600
+    confidence: 0.94
+    source: manual

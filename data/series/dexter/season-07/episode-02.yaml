@@ -1,0 +1,23 @@
+series: Dexter
+season: 7
+episode: 2
+title: Episode 2
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 73.9
+    end: 170.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3098.5
+    end: 3180
+    confidence: 0.95
+    source: manual

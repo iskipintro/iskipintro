@@ -1,0 +1,23 @@
+series: You
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 81.8
+    end: 154.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2583.9
+    end: 2700
+    confidence: 0.96
+    source: manual

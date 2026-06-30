@@ -1,0 +1,15 @@
+title: Rocky
+year: 1976
+tmdb_id: 1366
+imdb_id: tt0075148
+markers:
+  - type: INTRO
+    start: 0
+    end: 136.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6990.8
+    end: 7200
+    confidence: 0.94
+    source: manual

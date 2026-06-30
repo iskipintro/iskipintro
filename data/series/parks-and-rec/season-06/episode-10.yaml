@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 6
+episode: 10
+title: Second Chunce
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 93.8
+    end: 168.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1259.9
+    end: 1320
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Rome
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 463
+imdb_id: tt0384766
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 68.2
+    end: 130.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2927.4
+    end: 3000
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,15 @@
+title: Step Brothers
+year: 2008
+tmdb_id: 12133
+imdb_id: tt0838283
+markers:
+  - type: INTRO
+    start: 0
+    end: 69
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5688.4
+    end: 5880
+    confidence: 0.93
+    source: manual

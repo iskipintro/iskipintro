@@ -1,0 +1,20 @@
+title: The Dark Knight Rises
+year: 2012
+tmdb_id: 49026
+imdb_id: tt1345836
+markers:
+  - type: INTRO
+    start: 0
+    end: 108.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 9681
+    end: 9900
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 9924.7
+    end: 10027.300000000001
+    confidence: 0.75
+    source: manual

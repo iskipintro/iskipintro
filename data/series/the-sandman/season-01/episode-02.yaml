@@ -1,0 +1,23 @@
+series: The Sandman
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 90857
+imdb_id: tt1751634
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 96.6
+    end: 161.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2611.5
+    end: 2700
+    confidence: 0.94
+    source: manual

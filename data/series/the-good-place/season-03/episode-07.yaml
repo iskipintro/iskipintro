@@ -1,0 +1,23 @@
+series: The Good Place
+season: 3
+episode: 7
+title: The Worst Possible Use of Free Will
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.9
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 77.5
+    end: 155
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1234.5
+    end: 1320
+    confidence: 0.95
+    source: manual

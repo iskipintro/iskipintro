@@ -1,0 +1,20 @@
+title: Barton Fink
+year: 1991
+tmdb_id: 290
+imdb_id: tt0101410
+markers:
+  - type: INTRO
+    start: 0
+    end: 126.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6813.2
+    end: 6960
+    confidence: 0.93
+    source: manual
+  - type: POST_CREDIT
+    start: 6972
+    end: 7072.7
+    confidence: 0.82
+    source: manual

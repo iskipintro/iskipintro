@@ -1,0 +1,15 @@
+title: Get Out
+year: 2017
+tmdb_id: 419430
+imdb_id: tt5052448
+markers:
+  - type: INTRO
+    start: 0
+    end: 79.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6111.3
+    end: 6240
+    confidence: 0.94
+    source: manual

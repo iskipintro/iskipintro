@@ -1,0 +1,15 @@
+title: When Harry Met Sally...
+year: 1989
+tmdb_id: 639
+imdb_id: tt0098635
+markers:
+  - type: INTRO
+    start: 0
+    end: 62.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 5460.7
+    end: 5700
+    confidence: 0.94
+    source: manual

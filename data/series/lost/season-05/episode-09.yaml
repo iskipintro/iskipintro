@@ -1,0 +1,23 @@
+series: Lost
+season: 5
+episode: 9
+title: Episode 9
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 97.6
+    end: 184.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2474.2
+    end: 2580
+    confidence: 0.93
+    source: manual

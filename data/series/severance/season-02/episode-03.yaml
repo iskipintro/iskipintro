@@ -1,0 +1,23 @@
+series: Severance
+season: 2
+episode: 3
+title: Who Is Alive?
+tmdb_id: 95396
+imdb_id: tt11280740
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 54.2
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 64.7
+    end: 112.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2891.6
+    end: 3000
+    confidence: 0.94
+    source: manual

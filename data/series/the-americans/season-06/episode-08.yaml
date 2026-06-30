@@ -1,0 +1,23 @@
+series: The Americans
+season: 6
+episode: 8
+title: Episode 8
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 84.5
+    end: 144.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2524.4
+    end: 2640
+    confidence: 0.95
+    source: manual

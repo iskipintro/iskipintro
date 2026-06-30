@@ -1,0 +1,23 @@
+series: Community
+season: 5
+episode: 12
+title: Basic RV Repair and Palmistry
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 68.3
+    end: 114.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1217.9
+    end: 1320
+    confidence: 0.96
+    source: manual

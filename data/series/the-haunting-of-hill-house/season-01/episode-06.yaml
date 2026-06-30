@@ -1,0 +1,23 @@
+series: The Haunting of Hill House
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 70593
+imdb_id: tt6763664
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 61.9
+    end: 131.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2892.3
+    end: 3000
+    confidence: 0.94
+    source: manual

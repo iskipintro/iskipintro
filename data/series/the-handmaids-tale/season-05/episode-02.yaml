@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 5
+episode: 2
+title: Episode 2
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 99.1
+    end: 159.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2880.1
+    end: 3000
+    confidence: 0.94
+    source: manual

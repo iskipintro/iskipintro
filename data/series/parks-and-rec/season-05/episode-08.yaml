@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 5
+episode: 8
+title: Pawnee Commons
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 98
+    end: 151.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1242.1
+    end: 1320
+    confidence: 0.96
+    source: manual

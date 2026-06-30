@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 19
+title: The Siege of the North Part 1
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.4
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 56.1
+    end: 144.7
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1264.6
+    end: 1380
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,23 @@
+series: Atlanta
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 92.7
+    end: 171
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1690.7
+    end: 1800
+    confidence: 0.99
+    source: manual

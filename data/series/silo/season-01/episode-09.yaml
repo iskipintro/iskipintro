@@ -1,0 +1,23 @@
+series: Silo
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 125988
+imdb_id: tt14688458
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 94.3
+    end: 189.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2917
+    end: 3000
+    confidence: 0.94
+    source: manual

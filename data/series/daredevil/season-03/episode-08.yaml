@@ -1,0 +1,23 @@
+series: Daredevil
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.6
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 81
+    end: 158.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2916.9
+    end: 3000
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 5
+episode: 3
+title: Planned Obsolescence
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.5
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 56.5
+    end: 142.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1423.1
+    end: 1500
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: The Good Place
+season: 2
+episode: 2
+title: Dance Dance Resolution
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 54.7
+    end: 150.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1239.9
+    end: 1320
+    confidence: 0.99
+    source: manual

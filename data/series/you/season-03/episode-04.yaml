@@ -1,0 +1,23 @@
+series: You
+season: 3
+episode: 4
+title: Episode 4
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 67
+    end: 144.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2599.9
+    end: 2700
+    confidence: 0.94
+    source: manual

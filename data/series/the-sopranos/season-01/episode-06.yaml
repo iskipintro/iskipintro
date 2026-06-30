@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 1
+episode: 6
+title: Pax Soprana
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.8
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 89.5
+    end: 160.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3214.9
+    end: 3300
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Arcane
+season: 1
+episode: 4
+title: Happy Progress Day!
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.4
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 63.5
+    end: 122.5
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 2325.6
+    end: 2400
+    confidence: 0.97
+    source: manual

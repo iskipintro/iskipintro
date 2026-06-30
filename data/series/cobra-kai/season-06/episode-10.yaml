@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 6
+episode: 10
+title: Episode 10
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.3
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 63.9
+    end: 156.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1704.3
+    end: 1800
+    confidence: 0.93
+    source: manual

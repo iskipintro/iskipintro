@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 3
+episode: 2
+title: Episode 2
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 94.4
+    end: 177.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2594.9
+    end: 2700
+    confidence: 0.96
+    source: manual

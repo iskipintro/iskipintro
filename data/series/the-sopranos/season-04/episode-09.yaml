@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 4
+episode: 9
+title: Whoever Did This
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 73.9
+    end: 123.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3192.1
+    end: 3300
+    confidence: 0.96
+    source: manual

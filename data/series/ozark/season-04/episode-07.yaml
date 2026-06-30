@@ -1,0 +1,23 @@
+series: Ozark
+season: 4
+episode: 7
+title: The Cousin of Death
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 82.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 104.2
+    end: 175.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3214.5
+    end: 3300
+    confidence: 0.98
+    source: manual

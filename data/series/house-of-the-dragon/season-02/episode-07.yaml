@@ -1,0 +1,23 @@
+series: House of the Dragon
+season: 2
+episode: 7
+title: Episode 7
+tmdb_id: 94997
+imdb_id: tt11198330
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 80.9
+    end: 154.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3531
+    end: 3600
+    confidence: 0.94
+    source: manual

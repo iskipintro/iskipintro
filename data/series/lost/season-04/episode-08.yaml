@@ -1,0 +1,23 @@
+series: Lost
+season: 4
+episode: 8
+title: Episode 8
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 108.6
+    end: 167.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2495.5
+    end: 2580
+    confidence: 0.93
+    source: manual

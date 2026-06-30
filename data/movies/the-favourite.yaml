@@ -1,0 +1,15 @@
+title: The Favourite
+year: 2018
+tmdb_id: 375262
+imdb_id: tt5083738
+markers:
+  - type: INTRO
+    start: 0
+    end: 167
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6996.8
+    end: 7140
+    confidence: 0.98
+    source: manual

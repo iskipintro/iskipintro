@@ -1,0 +1,23 @@
+series: Lost
+season: 4
+episode: 5
+title: Episode 5
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.2
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 78.3
+    end: 161.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2500.6
+    end: 2580
+    confidence: 0.93
+    source: manual

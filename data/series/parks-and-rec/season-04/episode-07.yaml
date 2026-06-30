@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 4
+episode: 7
+title: The Treaty
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 100.5
+    end: 161.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1250.4
+    end: 1320
+    confidence: 0.97
+    source: manual

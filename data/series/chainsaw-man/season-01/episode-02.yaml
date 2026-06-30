@@ -1,0 +1,23 @@
+series: Chainsaw Man
+season: 1
+episode: 2
+title: The Place Where a Cat Is
+tmdb_id: 127646
+imdb_id: tt13616990
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.7
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 68.9
+    end: 168.3
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1356.2
+    end: 1440
+    confidence: 0.93
+    source: manual

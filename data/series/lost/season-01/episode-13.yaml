@@ -1,0 +1,23 @@
+series: Lost
+season: 1
+episode: 13
+title: Episode 13
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.7
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 81.5
+    end: 128.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2506.1
+    end: 2580
+    confidence: 0.99
+    source: manual

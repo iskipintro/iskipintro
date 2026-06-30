@@ -1,0 +1,20 @@
+title: Halloween
+year: 1978
+tmdb_id: 948
+imdb_id: tt0077651
+markers:
+  - type: INTRO
+    start: 0
+    end: 155.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 5237.9
+    end: 5460
+    confidence: 0.94
+    source: manual
+  - type: POST_CREDIT
+    start: 5466.6
+    end: 5517
+    confidence: 0.84
+    source: manual

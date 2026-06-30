@@ -1,0 +1,15 @@
+title: Ghostbusters II
+year: 1989
+tmdb_id: 2978
+imdb_id: tt0097428
+markers:
+  - type: INTRO
+    start: 0
+    end: 160.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 6338.9
+    end: 6480
+    confidence: 0.97
+    source: manual

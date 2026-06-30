@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 3
+episode: 7
+title: When the Dead Come Knocking
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.5
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 81.2
+    end: 174.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2595.1
+    end: 2700
+    confidence: 0.99
+    source: manual

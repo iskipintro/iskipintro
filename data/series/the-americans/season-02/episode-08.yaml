@@ -1,0 +1,23 @@
+series: The Americans
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 81.6
+    end: 149.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2533.6
+    end: 2640
+    confidence: 0.93
+    source: manual

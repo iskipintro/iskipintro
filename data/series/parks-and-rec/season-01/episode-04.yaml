@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 1
+episode: 4
+title: Boys' Club
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 74.7
+    end: 128.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1209.7
+    end: 1320
+    confidence: 0.98
+    source: manual

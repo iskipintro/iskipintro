@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 3
+episode: 5
+title: Bright Red Sword
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.5
+    confidence: 0.94
+    source: manual
+  - type: OPENING
+    start: 74.5
+    end: 138.6
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1330.1
+    end: 1440
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,15 @@
+title: Network
+year: 1976
+tmdb_id: 992
+imdb_id: tt0074958
+markers:
+  - type: INTRO
+    start: 0
+    end: 96.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7024.9
+    end: 7260
+    confidence: 0.96
+    source: manual

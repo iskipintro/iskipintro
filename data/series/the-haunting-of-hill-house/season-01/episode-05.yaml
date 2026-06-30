@@ -1,0 +1,23 @@
+series: The Haunting of Hill House
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 70593
+imdb_id: tt6763664
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 74.7
+    end: 126.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2914
+    end: 3000
+    confidence: 0.97
+    source: manual

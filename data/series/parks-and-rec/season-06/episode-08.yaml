@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 6
+episode: 8
+title: Filibuster
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.6
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 113.2
+    end: 213
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1200.7
+    end: 1320
+    confidence: 0.97
+    source: manual

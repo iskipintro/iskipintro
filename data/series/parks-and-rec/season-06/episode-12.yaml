@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 6
+episode: 12
+title: Farmers Market
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 82.9
+    end: 162.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1245.2
+    end: 1320
+    confidence: 0.97
+    source: manual

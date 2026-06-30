@@ -1,0 +1,23 @@
+series: Midnight Mass
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 98555
+imdb_id: tt10574476
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 81.2
+    end: 134.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3538.4
+    end: 3600
+    confidence: 0.95
+    source: manual

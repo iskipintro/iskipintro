@@ -1,0 +1,23 @@
+series: Invincible
+season: 1
+episode: 6
+title: You Look Kinda Dead
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 72.9
+    end: 126.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2795.5
+    end: 2880
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 4
+episode: 9
+title: Episode 9
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 53.6
+    end: 123.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2892.5
+    end: 3000
+    confidence: 0.95
+    source: manual

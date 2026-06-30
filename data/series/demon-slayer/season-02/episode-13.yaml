@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 13
+title: Layered Memories
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.6
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 74.6
+    end: 136.7
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1338.7
+    end: 1440
+    confidence: 0.97
+    source: manual

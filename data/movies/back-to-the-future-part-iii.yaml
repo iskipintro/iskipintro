@@ -1,0 +1,20 @@
+title: Back to the Future Part III
+year: 1990
+tmdb_id: 196
+imdb_id: tt0099088
+markers:
+  - type: INTRO
+    start: 0
+    end: 122.1
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 6915.5
+    end: 7080
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7109.3
+    end: 7159
+    confidence: 0.8
+    source: manual

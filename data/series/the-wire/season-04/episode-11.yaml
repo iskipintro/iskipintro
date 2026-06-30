@@ -1,0 +1,23 @@
+series: The Wire
+season: 4
+episode: 11
+title: Episode 11
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 62.4
+    end: 161.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3498.9
+    end: 3600
+    confidence: 0.94
+    source: manual

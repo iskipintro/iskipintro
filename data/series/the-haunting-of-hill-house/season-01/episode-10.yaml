@@ -1,0 +1,23 @@
+series: The Haunting of Hill House
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 70593
+imdb_id: tt6763664
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 68.5
+    end: 159.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2887.4
+    end: 3000
+    confidence: 0.94
+    source: manual

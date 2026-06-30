@@ -1,0 +1,15 @@
+title: Hacksaw Ridge
+year: 2016
+tmdb_id: 283995
+imdb_id: tt2119532
+markers:
+  - type: INTRO
+    start: 0
+    end: 95.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8212.3
+    end: 8340
+    confidence: 0.96
+    source: manual

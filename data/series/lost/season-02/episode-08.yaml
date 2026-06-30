@@ -1,0 +1,23 @@
+series: Lost
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.2
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 75.4
+    end: 161.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2485.5
+    end: 2580
+    confidence: 0.98
+    source: manual

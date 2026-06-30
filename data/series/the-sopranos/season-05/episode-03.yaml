@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 5
+episode: 3
+title: Where's Johnny?
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 89.3
+    end: 134.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3193.5
+    end: 3300
+    confidence: 0.97
+    source: manual

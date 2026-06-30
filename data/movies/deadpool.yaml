@@ -1,0 +1,15 @@
+title: Deadpool
+year: 2016
+tmdb_id: 293660
+imdb_id: tt1431045
+markers:
+  - type: INTRO
+    start: 0
+    end: 177.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6320.1
+    end: 6480
+    confidence: 0.93
+    source: manual

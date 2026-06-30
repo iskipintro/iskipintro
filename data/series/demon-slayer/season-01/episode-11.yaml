@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 11
+title: Haganezuka
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.9
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 103.9
+    end: 195.7
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1350.5
+    end: 1440
+    confidence: 0.99
+    source: manual

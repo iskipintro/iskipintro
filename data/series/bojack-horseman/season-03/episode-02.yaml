@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 3
+episode: 2
+title: The BoJack Horseman Show
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 82
+    end: 145.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1434.1
+    end: 1500
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,15 @@
+title: Men in Black 3
+year: 2012
+tmdb_id: 4816
+imdb_id: tt1409024
+markers:
+  - type: INTRO
+    start: 0
+    end: 122.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6177.7
+    end: 6360
+    confidence: 0.96
+    source: manual

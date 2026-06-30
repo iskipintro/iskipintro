@@ -1,0 +1,23 @@
+series: Ozark
+season: 1
+episode: 6
+title: Book of Ruth
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 98
+    end: 160.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3194.2
+    end: 3300
+    confidence: 0.97
+    source: manual

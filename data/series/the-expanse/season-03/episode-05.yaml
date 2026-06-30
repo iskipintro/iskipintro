@@ -1,0 +1,23 @@
+series: The Expanse
+season: 3
+episode: 5
+title: Triple Point
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 97
+    end: 166.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2589.6
+    end: 2700
+    confidence: 0.97
+    source: manual

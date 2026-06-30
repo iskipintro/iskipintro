@@ -1,0 +1,23 @@
+series: The Sandman
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 90857
+imdb_id: tt1751634
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 78.6
+    end: 173.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2621.3
+    end: 2700
+    confidence: 0.99
+    source: manual

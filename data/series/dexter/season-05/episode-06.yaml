@@ -1,0 +1,23 @@
+series: Dexter
+season: 5
+episode: 6
+title: Episode 6
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.3
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 63.7
+    end: 140.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3064.6
+    end: 3180
+    confidence: 0.98
+    source: manual

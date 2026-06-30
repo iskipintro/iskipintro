@@ -1,0 +1,23 @@
+series: The Punisher
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 67177
+imdb_id: tt7468410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 60.2
+    end: 124.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2914.4
+    end: 3000
+    confidence: 0.97
+    source: manual

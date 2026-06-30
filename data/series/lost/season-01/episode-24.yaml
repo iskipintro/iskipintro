@@ -1,0 +1,23 @@
+series: Lost
+season: 1
+episode: 24
+title: Episode 24
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.3
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 108.1
+    end: 206.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2469.7
+    end: 2580
+    confidence: 0.95
+    source: manual

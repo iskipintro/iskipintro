@@ -1,0 +1,15 @@
+title: Jurassic Park III
+year: 2001
+tmdb_id: 331
+imdb_id: tt0163025
+markers:
+  - type: INTRO
+    start: 0
+    end: 67.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 5305.3
+    end: 5520
+    confidence: 0.95
+    source: manual

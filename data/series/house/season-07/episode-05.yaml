@@ -1,0 +1,23 @@
+series: House M.D.
+season: 7
+episode: 5
+title: Episode 5
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.7
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 76.9
+    end: 152.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2539
+    end: 2640
+    confidence: 0.93
+    source: manual

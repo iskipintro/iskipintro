@@ -1,0 +1,23 @@
+series: Hannibal
+season: 1
+episode: 8
+title: Fromage
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 85.2
+    end: 164.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2529.7
+    end: 2640
+    confidence: 0.95
+    source: manual

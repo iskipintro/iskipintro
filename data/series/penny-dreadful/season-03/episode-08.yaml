@@ -1,0 +1,23 @@
+series: Penny Dreadful
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 56724
+imdb_id: tt2628232
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 69.6
+    end: 168
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2880.6
+    end: 3000
+    confidence: 0.95
+    source: manual

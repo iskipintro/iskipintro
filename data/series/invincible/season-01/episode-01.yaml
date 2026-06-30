@@ -1,0 +1,18 @@
+series: Invincible
+season: 1
+episode: 1
+title: It's About Time
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: INTRO
+    start: 85.7
+    end: 179
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2815.8
+    end: 2880
+    confidence: 0.98
+    source: manual

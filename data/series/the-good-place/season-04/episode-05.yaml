@@ -1,0 +1,23 @@
+series: The Good Place
+season: 4
+episode: 5
+title: Employee of the Bearimy
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.3
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 80.8
+    end: 139.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1245.6
+    end: 1320
+    confidence: 0.94
+    source: manual

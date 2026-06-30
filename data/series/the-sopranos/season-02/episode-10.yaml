@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 2
+episode: 10
+title: Bust Out
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 81.9
+    end: 162.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3184.1
+    end: 3300
+    confidence: 0.95
+    source: manual

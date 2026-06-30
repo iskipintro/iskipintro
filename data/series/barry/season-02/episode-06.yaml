@@ -1,0 +1,23 @@
+series: Barry
+season: 2
+episode: 6
+title: Episode 6
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 71.5
+    end: 116.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1721.4
+    end: 1800
+    confidence: 0.98
+    source: manual

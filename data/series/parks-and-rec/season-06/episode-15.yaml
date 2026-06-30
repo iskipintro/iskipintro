@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 6
+episode: 15
+title: The Cones of Dunshire
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.9
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 142.6
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1207.2
+    end: 1320
+    confidence: 0.98
+    source: manual

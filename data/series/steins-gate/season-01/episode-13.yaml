@@ -1,0 +1,23 @@
+series: Steins;Gate
+season: 1
+episode: 13
+title: Dogma in the Magnetosphere
+tmdb_id: 46532
+imdb_id: tt1910272
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.8
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 114.9
+    end: 167.9
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1354.2
+    end: 1440
+    confidence: 0.97
+    source: manual

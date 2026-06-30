@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 2
+episode: 9
+title: Triggerfinger
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.8
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 68.1
+    end: 136.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2639.6
+    end: 2700
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,23 @@
+series: Silo
+season: 2
+episode: 3
+title: Episode 3
+tmdb_id: 125988
+imdb_id: tt14688458
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 95.4
+    end: 156
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2894.2
+    end: 3000
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 2
+episode: 14
+title: Leslie's House
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.2
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 105.6
+    end: 199.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1216.2
+    end: 1320
+    confidence: 0.95
+    source: manual

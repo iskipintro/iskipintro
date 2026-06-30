@@ -1,0 +1,15 @@
+title: Blade Runner
+year: 1982
+tmdb_id: 78
+imdb_id: tt0083658
+markers:
+  - type: INTRO
+    start: 0
+    end: 113.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6838.6
+    end: 7020
+    confidence: 0.96
+    source: manual

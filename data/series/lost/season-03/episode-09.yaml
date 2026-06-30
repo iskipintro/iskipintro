@@ -1,0 +1,23 @@
+series: Lost
+season: 3
+episode: 9
+title: Episode 9
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 53.3
+    end: 136.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2475.4
+    end: 2580
+    confidence: 0.96
+    source: manual

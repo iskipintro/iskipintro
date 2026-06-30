@@ -1,0 +1,23 @@
+series: Hannibal
+season: 2
+episode: 13
+title: Iwa Takoyaki
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 95.1
+    end: 189.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2562.9
+    end: 2640
+    confidence: 0.98
+    source: manual

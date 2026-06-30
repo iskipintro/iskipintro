@@ -1,0 +1,23 @@
+series: Dexter
+season: 6
+episode: 4
+title: Episode 4
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 89.9
+    end: 146.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3082.6
+    end: 3180
+    confidence: 0.97
+    source: manual

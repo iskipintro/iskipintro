@@ -1,0 +1,20 @@
+title: The Witch
+year: 2015
+tmdb_id: 310131
+imdb_id: tt4263482
+markers:
+  - type: INTRO
+    start: 0
+    end: 76.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5357.3
+    end: 5580
+    confidence: 0.96
+    source: manual
+  - type: POST_CREDIT
+    start: 5595.3
+    end: 5696.400000000001
+    confidence: 0.88
+    source: manual

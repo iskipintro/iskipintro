@@ -1,0 +1,23 @@
+series: Dexter
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.7
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 83.7
+    end: 129.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3067
+    end: 3180
+    confidence: 0.99
+    source: manual

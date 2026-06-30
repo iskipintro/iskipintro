@@ -1,0 +1,23 @@
+series: Hannibal
+season: 1
+episode: 2
+title: Amuse-Bouche
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 71.3
+    end: 120.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2579.8
+    end: 2640
+    confidence: 0.99
+    source: manual

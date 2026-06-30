@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 2
+episode: 10
+title: Hunting Trip
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 109.3
+    end: 188.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1254.4
+    end: 1320
+    confidence: 0.98
+    source: manual

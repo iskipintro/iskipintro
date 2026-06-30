@@ -1,0 +1,15 @@
+title: Gattaca
+year: 1997
+tmdb_id: 782
+imdb_id: tt0119177
+markers:
+  - type: INTRO
+    start: 0
+    end: 156.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6203.4
+    end: 6360
+    confidence: 0.99
+    source: manual

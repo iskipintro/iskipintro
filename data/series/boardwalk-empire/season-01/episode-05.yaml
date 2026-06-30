@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 62.7
+    end: 116.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3190.9
+    end: 3300
+    confidence: 0.96
+    source: manual

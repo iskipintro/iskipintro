@@ -1,0 +1,23 @@
+series: Mad Men
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.9
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 85.2
+    end: 131.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2779.4
+    end: 2880
+    confidence: 0.98
+    source: manual

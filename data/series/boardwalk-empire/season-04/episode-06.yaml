@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 4
+episode: 6
+title: Episode 6
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 89.1
+    end: 188.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3201.1
+    end: 3300
+    confidence: 0.97
+    source: manual

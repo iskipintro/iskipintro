@@ -1,0 +1,15 @@
+title: Indiana Jones and the Last Crusade
+year: 1989
+tmdb_id: 89
+imdb_id: tt0097576
+markers:
+  - type: INTRO
+    start: 0
+    end: 128.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7459.9
+    end: 7620
+    confidence: 0.94
+    source: manual

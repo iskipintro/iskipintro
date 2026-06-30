@@ -1,0 +1,23 @@
+series: Severance
+season: 1
+episode: 5
+title: The Grim Barbarity of Optics and Design
+tmdb_id: 95396
+imdb_id: tt11280740
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 80.6
+    end: 144.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2900.7
+    end: 3000
+    confidence: 0.98
+    source: manual

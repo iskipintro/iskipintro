@@ -1,0 +1,20 @@
+title: Moonrise Kingdom
+year: 2012
+tmdb_id: 76077
+imdb_id: tt1748122
+markers:
+  - type: INTRO
+    start: 0
+    end: 129.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5453.2
+    end: 5640
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 5662.9
+    end: 5696.7
+    confidence: 0.84
+    source: manual

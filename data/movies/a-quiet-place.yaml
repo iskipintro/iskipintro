@@ -1,0 +1,15 @@
+title: A Quiet Place
+year: 2018
+tmdb_id: 447332
+imdb_id: tt6644200
+markers:
+  - type: INTRO
+    start: 0
+    end: 124
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5199.6
+    end: 5400
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 19
+title: Episode 19
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 100
+    end: 166.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2799.5
+    end: 2880
+    confidence: 0.97
+    source: manual

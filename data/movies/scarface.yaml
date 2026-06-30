@@ -1,0 +1,20 @@
+title: Scarface
+year: 1983
+tmdb_id: 111
+imdb_id: tt0086250
+markers:
+  - type: INTRO
+    start: 0
+    end: 151.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 10048.7
+    end: 10200
+    confidence: 0.96
+    source: manual
+  - type: POST_CREDIT
+    start: 10206.6
+    end: 10308
+    confidence: 0.82
+    source: manual

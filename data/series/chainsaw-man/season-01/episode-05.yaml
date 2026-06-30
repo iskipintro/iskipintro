@@ -1,0 +1,23 @@
+series: Chainsaw Man
+season: 1
+episode: 5
+title: The Gun Devil
+tmdb_id: 127646
+imdb_id: tt13616990
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.1
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 68.5
+    end: 139.5
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1350.1
+    end: 1440
+    confidence: 0.95
+    source: manual

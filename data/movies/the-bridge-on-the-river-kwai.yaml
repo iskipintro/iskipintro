@@ -1,0 +1,15 @@
+title: The Bridge on the River Kwai
+year: 1957
+tmdb_id: 826
+imdb_id: tt0050212
+markers:
+  - type: INTRO
+    start: 0
+    end: 171.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 9510.7
+    end: 9660
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,18 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 1
+title: The Awakening
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: OPENING
+    start: 62.9
+    end: 136
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1319.2
+    end: 1380
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 6
+episode: 5
+title: Luxury Lounge
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.9
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 57.9
+    end: 124.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3223.2
+    end: 3300
+    confidence: 0.93
+    source: manual

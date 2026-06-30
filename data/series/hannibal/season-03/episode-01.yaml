@@ -1,0 +1,18 @@
+series: Hannibal
+season: 3
+episode: 1
+title: Antipasto
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: INTRO
+    start: 39.3
+    end: 143.39999999999998
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2525
+    end: 2640
+    confidence: 0.96
+    source: manual

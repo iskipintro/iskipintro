@@ -1,0 +1,23 @@
+series: Lost
+season: 4
+episode: 9
+title: Episode 9
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 91.5
+    end: 169.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2480.2
+    end: 2580
+    confidence: 0.94
+    source: manual

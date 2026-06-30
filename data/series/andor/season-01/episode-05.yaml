@@ -1,0 +1,23 @@
+series: Andor
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 121361
+imdb_id: tt9253284
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 88.5
+    end: 184.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2316.9
+    end: 2400
+    confidence: 0.96
+    source: manual

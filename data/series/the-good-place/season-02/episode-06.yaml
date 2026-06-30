@@ -1,0 +1,23 @@
+series: The Good Place
+season: 2
+episode: 6
+title: Janet and Michael
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 112.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1248.9
+    end: 1320
+    confidence: 0.99
+    source: manual

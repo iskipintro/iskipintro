@@ -49,7 +49,7 @@ export const landingPage = `<!DOCTYPE html>
     .step-num { font-size: 2rem; font-weight: 800; color: #f59e0b; margin-bottom: 0.5rem; }
     .step p { color: #888; font-size: 0.9rem; }
 
-    .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; text-align: center; }
+    .stats-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 1rem; text-align: center; }
     .stat-value { font-size: 2rem; font-weight: 800; color: #f59e0b; }
     .stat-label { font-size: 0.8rem; color: #666; text-transform: uppercase; letter-spacing: 0.05em; }
 
@@ -59,7 +59,7 @@ export const landingPage = `<!DOCTYPE html>
     @media (max-width: 600px) {
       .hero h1 { font-size: 2rem; }
       .steps { grid-template-columns: 1fr; }
-      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .stats-grid { grid-template-columns: repeat(3, 1fr); }
     }
   </style>
 </head>
@@ -120,6 +120,8 @@ export const landingPage = `<!DOCTYPE html>
     <div class="card">
       <div class="stats-grid">
         <div><div class="stat-value" id="series-count">-</div><div class="stat-label">Series</div></div>
+        <div><div class="stat-value" id="movies-count">-</div><div class="stat-label">Movies</div></div>
+        <div><div class="stat-value" id="anime-count">-</div><div class="stat-label">Anime</div></div>
         <div><div class="stat-value" id="episodes-count">-</div><div class="stat-label">Episodes</div></div>
         <div><div class="stat-value" id="markers-count">-</div><div class="stat-label">Markers</div></div>
         <div><div class="stat-value" id="contributors-count">-</div><div class="stat-label">Contributors</div></div>
@@ -138,6 +140,8 @@ export const landingPage = `<!DOCTYPE html>
   <script>
     fetch('/v1/stats').then(r => r.json()).then(s => {
       document.getElementById('series-count').textContent = s.series;
+      document.getElementById('movies-count').textContent = s.movies;
+      document.getElementById('anime-count').textContent = s.anime;
       document.getElementById('episodes-count').textContent = s.episodes;
       document.getElementById('markers-count').textContent = s.markers;
       document.getElementById('contributors-count').textContent = s.contributors;

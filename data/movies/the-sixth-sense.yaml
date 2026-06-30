@@ -1,0 +1,15 @@
+title: The Sixth Sense
+year: 1999
+tmdb_id: 745
+imdb_id: tt0167404
+markers:
+  - type: INTRO
+    start: 0
+    end: 175
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6245.3
+    end: 6420
+    confidence: 0.99
+    source: manual

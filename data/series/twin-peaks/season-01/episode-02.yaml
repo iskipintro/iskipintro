@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.6
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 64.7
+    end: 146.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2789.7
+    end: 2880
+    confidence: 0.96
+    source: manual

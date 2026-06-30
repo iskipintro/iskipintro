@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 9
+title: The Waterbending Scroll
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.6
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 65.1
+    end: 155.8
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1281.4
+    end: 1380
+    confidence: 0.93
+    source: manual

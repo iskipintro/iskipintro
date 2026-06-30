@@ -1,0 +1,23 @@
+series: The Good Place
+season: 3
+episode: 5
+title: The Ballad of Donkey Doug
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 73.6
+    end: 148.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1211.1
+    end: 1320
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 3
+episode: 12
+title: The Fight
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.4
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 73.5
+    end: 136.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1242.7
+    end: 1320
+    confidence: 0.94
+    source: manual

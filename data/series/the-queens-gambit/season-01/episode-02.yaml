@@ -1,0 +1,23 @@
+series: The Queen's Gambit
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 93474
+imdb_id: tt10048342
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 118
+    end: 205.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2893.3
+    end: 3000
+    confidence: 0.93
+    source: manual

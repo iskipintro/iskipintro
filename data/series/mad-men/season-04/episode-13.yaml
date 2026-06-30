@@ -1,0 +1,23 @@
+series: Mad Men
+season: 4
+episode: 13
+title: Episode 13
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 55.6
+    end: 137.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2804.9
+    end: 2880
+    confidence: 0.96
+    source: manual

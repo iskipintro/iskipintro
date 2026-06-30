@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 96.4
+    end: 155.6
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2590.4
+    end: 2700
+    confidence: 0.93
+    source: manual

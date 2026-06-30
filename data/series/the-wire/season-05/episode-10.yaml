@@ -1,0 +1,23 @@
+series: The Wire
+season: 5
+episode: 10
+title: Episode 10
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 60.7
+    end: 114.1
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3485
+    end: 3600
+    confidence: 0.98
+    source: manual

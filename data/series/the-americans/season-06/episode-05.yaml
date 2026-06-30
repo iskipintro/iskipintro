@@ -1,0 +1,23 @@
+series: The Americans
+season: 6
+episode: 5
+title: Episode 5
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 87.8
+    end: 169.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2524.3
+    end: 2640
+    confidence: 0.94
+    source: manual

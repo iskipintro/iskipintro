@@ -1,0 +1,15 @@
+title: Lethal Weapon
+year: 1987
+tmdb_id: 941
+imdb_id: tt0093409
+markers:
+  - type: INTRO
+    start: 0
+    end: 134.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6390.5
+    end: 6600
+    confidence: 0.94
+    source: manual

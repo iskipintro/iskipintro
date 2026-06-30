@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 2
+episode: 13
+title: Episode 13
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.3
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 100
+    end: 147.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3221.4
+    end: 3300
+    confidence: 0.96
+    source: manual

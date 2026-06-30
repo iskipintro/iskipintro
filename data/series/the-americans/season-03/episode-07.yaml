@@ -1,0 +1,23 @@
+series: The Americans
+season: 3
+episode: 7
+title: Episode 7
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 93.1
+    end: 154.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2571.9
+    end: 2640
+    confidence: 0.97
+    source: manual

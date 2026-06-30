@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 4
+episode: 11
+title: That's Too Much, Man!
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 104.7
+    end: 199.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1412.4
+    end: 1500
+    confidence: 0.95
+    source: manual

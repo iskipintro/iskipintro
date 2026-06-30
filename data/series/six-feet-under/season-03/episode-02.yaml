@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 3
+episode: 2
+title: Episode 2
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.5
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 76
+    end: 151.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3212.9
+    end: 3300
+    confidence: 0.95
+    source: manual

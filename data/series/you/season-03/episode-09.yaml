@@ -1,0 +1,23 @@
+series: You
+season: 3
+episode: 9
+title: Episode 9
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 64
+    end: 152.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2621.8
+    end: 2700
+    confidence: 0.96
+    source: manual

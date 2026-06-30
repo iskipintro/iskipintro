@@ -1,0 +1,23 @@
+series: Westworld
+season: 4
+episode: 4
+title: Generation Loss
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 65.6
+    end: 128
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3535
+    end: 3600
+    confidence: 0.94
+    source: manual

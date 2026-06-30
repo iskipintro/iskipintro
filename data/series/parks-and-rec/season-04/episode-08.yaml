@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 4
+episode: 8
+title: The Smallest Park
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.2
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 72.1
+    end: 164.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1221.2
+    end: 1320
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: The Wire
+season: 3
+episode: 3
+title: Episode 3
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 79.1
+    end: 140.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3493.3
+    end: 3600
+    confidence: 0.95
+    source: manual

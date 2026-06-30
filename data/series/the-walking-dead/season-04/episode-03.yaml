@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 4
+episode: 3
+title: Isolation
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.6
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 90.4
+    end: 189.3
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2607.5
+    end: 2700
+    confidence: 0.96
+    source: manual

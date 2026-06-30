@@ -1,0 +1,23 @@
+series: Veep
+season: 5
+episode: 6
+title: Episode 6
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.8
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 61.4
+    end: 145.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1610
+    end: 1680
+    confidence: 0.96
+    source: manual

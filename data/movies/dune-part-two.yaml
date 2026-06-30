@@ -1,0 +1,20 @@
+title: "Dune: Part Two"
+year: 2024
+tmdb_id: 693134
+imdb_id: tt15239678
+markers:
+  - type: INTRO
+    start: 0
+    end: 62.3
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 9770.4
+    end: 9960
+    confidence: 0.96
+    source: manual
+  - type: POST_CREDIT
+    start: 9982.7
+    end: 10066.400000000001
+    confidence: 0.81
+    source: manual

@@ -1,0 +1,23 @@
+series: The White Lotus
+season: 3
+episode: 6
+title: Episode 6
+tmdb_id: 114410
+imdb_id: tt13406094
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 51.4
+    end: 141.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3197.7
+    end: 3300
+    confidence: 0.95
+    source: manual

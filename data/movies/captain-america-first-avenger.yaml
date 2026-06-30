@@ -1,0 +1,15 @@
+title: "Captain America: The First Avenger"
+year: 2011
+tmdb_id: 1771
+imdb_id: tt0458339
+markers:
+  - type: INTRO
+    start: 0
+    end: 87.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 7220.5
+    end: 7440
+    confidence: 0.97
+    source: manual

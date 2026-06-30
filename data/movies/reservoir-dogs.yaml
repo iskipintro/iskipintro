@@ -1,0 +1,15 @@
+title: Reservoir Dogs
+year: 1992
+tmdb_id: 500
+imdb_id: tt0105236
+markers:
+  - type: INTRO
+    start: 0
+    end: 165.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 5754.4
+    end: 5940
+    confidence: 0.99
+    source: manual

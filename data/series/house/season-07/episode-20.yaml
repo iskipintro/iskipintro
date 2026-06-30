@@ -1,0 +1,23 @@
+series: House M.D.
+season: 7
+episode: 20
+title: Episode 20
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 83.9
+    end: 160.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2536
+    end: 2640
+    confidence: 0.95
+    source: manual

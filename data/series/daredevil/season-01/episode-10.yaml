@@ -1,0 +1,23 @@
+series: Daredevil
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 43.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 68.7
+    end: 139.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2938.1
+    end: 3000
+    confidence: 0.98
+    source: manual

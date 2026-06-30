@@ -1,0 +1,23 @@
+series: House M.D.
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.8
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 97.5
+    end: 159.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2545.9
+    end: 2640
+    confidence: 0.93
+    source: manual

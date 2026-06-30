@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 4
+episode: 7
+title: Episode 7
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 95.4
+    end: 146.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2612.5
+    end: 2700
+    confidence: 0.97
+    source: manual

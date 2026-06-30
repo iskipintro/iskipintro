@@ -1,0 +1,23 @@
+series: The Bear
+season: 3
+episode: 6
+title: Napkins
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 110.5
+    end: 160.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1715.9
+    end: 1800
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,15 @@
+title: Black Panther
+year: 2018
+tmdb_id: 284054
+imdb_id: tt1825683
+markers:
+  - type: INTRO
+    start: 0
+    end: 98.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 7919.4
+    end: 8040
+    confidence: 0.96
+    source: manual

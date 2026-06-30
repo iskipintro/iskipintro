@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 14
+title: Episode 14
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.9
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 97.8
+    end: 184.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2777
+    end: 2880
+    confidence: 0.97
+    source: manual

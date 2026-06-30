@@ -1,0 +1,15 @@
+title: Modern Times
+year: 1936
+tmdb_id: 504
+imdb_id: tt0027977
+markers:
+  - type: INTRO
+    start: 0
+    end: 122.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5031.2
+    end: 5220
+    confidence: 0.98
+    source: manual

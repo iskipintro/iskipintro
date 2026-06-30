@@ -1,0 +1,23 @@
+series: The Fall of the House of Usher
+season: 1
+episode: 7
+title: Episode 7
+tmdb_id: 154385
+imdb_id: tt15518840
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.6
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 88.2
+    end: 133.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3223.9
+    end: 3300
+    confidence: 0.98
+    source: manual

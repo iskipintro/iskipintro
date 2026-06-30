@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 6
+episode: 5
+title: Episode 5
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 54.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 63.2
+    end: 131.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1689.7
+    end: 1800
+    confidence: 0.93
+    source: manual

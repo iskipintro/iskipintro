@@ -1,0 +1,15 @@
+title: Deadpool 2
+year: 2018
+tmdb_id: 383498
+imdb_id: tt5463162
+markers:
+  - type: INTRO
+    start: 0
+    end: 130.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6937
+    end: 7140
+    confidence: 0.98
+    source: manual

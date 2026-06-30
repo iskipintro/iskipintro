@@ -1,0 +1,23 @@
+series: Dexter
+season: 4
+episode: 10
+title: Episode 10
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 78.4
+    end: 162.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3079.9
+    end: 3180
+    confidence: 0.95
+    source: manual

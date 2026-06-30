@@ -1,0 +1,20 @@
+title: Iron Man 3
+year: 2013
+tmdb_id: 68721
+imdb_id: tt1300854
+markers:
+  - type: INTRO
+    start: 0
+    end: 67.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7564.4
+    end: 7800
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 7827.9
+    end: 7873.299999999999
+    confidence: 0.89
+    source: manual

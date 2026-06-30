@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 74.9
+    end: 124.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2625.4
+    end: 2700
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,15 @@
+title: X-Men
+year: 2000
+tmdb_id: 36657
+imdb_id: tt0120903
+markers:
+  - type: INTRO
+    start: 0
+    end: 170.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6097.3
+    end: 6240
+    confidence: 0.94
+    source: manual

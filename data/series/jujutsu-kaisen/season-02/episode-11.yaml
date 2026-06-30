@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 2
+episode: 11
+title: Shibuya Incident VI
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.6
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 73.4
+    end: 126.5
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1338
+    end: 1440
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Barry
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 66
+    end: 122.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1682.7
+    end: 1800
+    confidence: 0.99
+    source: manual

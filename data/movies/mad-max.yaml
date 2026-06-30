@@ -1,0 +1,15 @@
+title: Mad Max
+year: 1979
+tmdb_id: 9659
+imdb_id: tt0079501
+markers:
+  - type: INTRO
+    start: 0
+    end: 104.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 5351.7
+    end: 5580
+    confidence: 0.93
+    source: manual

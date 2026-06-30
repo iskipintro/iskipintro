@@ -1,0 +1,23 @@
+series: The Good Place
+season: 1
+episode: 3
+title: Tahani Al-Jamil
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 110.9
+    end: 194.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1228.6
+    end: 1320
+    confidence: 0.96
+    source: manual

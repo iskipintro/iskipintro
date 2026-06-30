@@ -1,0 +1,23 @@
+series: Veep
+season: 4
+episode: 6
+title: Episode 6
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 93.3
+    end: 175.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1606.8
+    end: 1680
+    confidence: 0.94
+    source: manual

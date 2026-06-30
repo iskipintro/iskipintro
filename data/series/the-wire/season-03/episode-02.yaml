@@ -1,0 +1,23 @@
+series: The Wire
+season: 3
+episode: 2
+title: Episode 2
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 106.4
+    end: 151.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3494.2
+    end: 3600
+    confidence: 0.98
+    source: manual

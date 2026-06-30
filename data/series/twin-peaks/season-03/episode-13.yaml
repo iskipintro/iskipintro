@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 3
+episode: 13
+title: Episode 13
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.3
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 64.6
+    end: 157.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2814.8
+    end: 2880
+    confidence: 0.95
+    source: manual

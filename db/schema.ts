@@ -24,6 +24,7 @@ export const series = sqliteTable("series", {
   kitsuId: integer("kitsu_id").unique(),
   title: text("title").notNull(),
   slug: text("slug").unique(),
+  anime: integer("anime").notNull().default(0),
   poster: text("poster"),
   backdrop: text("backdrop"),
   createdAt: text("created_at").notNull().default("CURRENT_TIMESTAMP"),

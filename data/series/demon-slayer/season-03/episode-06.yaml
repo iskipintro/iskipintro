@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 3
+episode: 6
+title: A Sword That Turns Evil
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 43.5
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 68.4
+    end: 145.3
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1373.6
+    end: 1440
+    confidence: 0.94
+    source: manual

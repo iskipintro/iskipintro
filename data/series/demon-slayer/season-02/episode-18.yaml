@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 18
+title: The Way of the Strong
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.5
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 82.2
+    end: 168.8
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1324.3
+    end: 1440
+    confidence: 0.94
+    source: manual

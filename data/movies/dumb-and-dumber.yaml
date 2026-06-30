@@ -1,0 +1,15 @@
+title: Dumb and Dumber
+year: 1994
+tmdb_id: 8487
+imdb_id: tt0109686
+markers:
+  - type: INTRO
+    start: 0
+    end: 122
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6292.5
+    end: 6420
+    confidence: 0.96
+    source: manual

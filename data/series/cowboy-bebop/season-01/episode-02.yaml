@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 2
+title: Stray Dog Strut
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.7
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 94.3
+    end: 155.7
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1333.2
+    end: 1440
+    confidence: 0.95
+    source: manual

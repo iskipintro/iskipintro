@@ -1,0 +1,23 @@
+series: The Good Place
+season: 4
+episode: 10
+title: You've Changed, Man
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 54.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 59.7
+    end: 149.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1254.3
+    end: 1320
+    confidence: 0.96
+    source: manual

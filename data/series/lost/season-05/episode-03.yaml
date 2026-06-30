@@ -1,0 +1,23 @@
+series: Lost
+season: 5
+episode: 3
+title: Episode 3
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 101.4
+    end: 176.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2514.5
+    end: 2580
+    confidence: 0.94
+    source: manual

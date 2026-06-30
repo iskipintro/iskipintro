@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 4
+episode: 8
+title: Episode 8
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 57.7
+    end: 153.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3182.2
+    end: 3300
+    confidence: 0.98
+    source: manual

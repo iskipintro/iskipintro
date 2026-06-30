@@ -1,0 +1,23 @@
+series: The Wire
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 106.5
+    end: 199.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3519.3
+    end: 3600
+    confidence: 0.98
+    source: manual

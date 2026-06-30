@@ -1,0 +1,23 @@
+series: Slow Horses
+season: 4
+episode: 4
+title: Episode 4
+tmdb_id: 95480
+imdb_id: tt5875444
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 67.5
+    end: 133.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2807.3
+    end: 2880
+    confidence: 0.95
+    source: manual

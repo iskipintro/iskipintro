@@ -1,0 +1,20 @@
+title: Rushmore
+year: 1998
+tmdb_id: 11545
+imdb_id: tt0128445
+markers:
+  - type: INTRO
+    start: 0
+    end: 70.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 5352.3
+    end: 5580
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 5590
+    end: 5704.4
+    confidence: 0.72
+    source: manual

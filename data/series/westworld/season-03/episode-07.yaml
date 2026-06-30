@@ -1,0 +1,23 @@
+series: Westworld
+season: 3
+episode: 7
+title: Passed Pawn
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 67.4
+    end: 145.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3507.1
+    end: 3600
+    confidence: 0.97
+    source: manual

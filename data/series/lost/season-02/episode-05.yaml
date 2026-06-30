@@ -1,0 +1,23 @@
+series: Lost
+season: 2
+episode: 5
+title: Episode 5
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 95.1
+    end: 188.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2503.5
+    end: 2580
+    confidence: 0.94
+    source: manual

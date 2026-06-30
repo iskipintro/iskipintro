@@ -1,0 +1,23 @@
+series: Hannibal
+season: 1
+episode: 5
+title: Coquilles
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 64.1
+    end: 125
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2521.9
+    end: 2640
+    confidence: 0.96
+    source: manual

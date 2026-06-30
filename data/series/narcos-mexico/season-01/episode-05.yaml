@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 89.5
+    end: 162.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2909.3
+    end: 3000
+    confidence: 0.99
+    source: manual

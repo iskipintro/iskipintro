@@ -1,0 +1,20 @@
+title: Corpse Bride
+year: 2005
+tmdb_id: 3933
+imdb_id: tt0121164
+markers:
+  - type: INTRO
+    start: 0
+    end: 132.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 4414.9
+    end: 4620
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 4648.1
+    end: 4705.1
+    confidence: 0.86
+    source: manual

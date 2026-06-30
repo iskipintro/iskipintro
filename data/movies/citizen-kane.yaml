@@ -1,0 +1,20 @@
+title: Citizen Kane
+year: 1941
+tmdb_id: 15
+imdb_id: tt0033467
+markers:
+  - type: INTRO
+    start: 0
+    end: 144.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6907.5
+    end: 7140
+    confidence: 0.94
+    source: manual
+  - type: POST_CREDIT
+    start: 7158
+    end: 7260.4
+    confidence: 0.9
+    source: manual

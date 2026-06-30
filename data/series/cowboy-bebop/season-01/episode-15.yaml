@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 15
+title: My Funny Valentine
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.7
+    confidence: 0.94
+    source: manual
+  - type: OPENING
+    start: 83.4
+    end: 131.5
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1338.6
+    end: 1440
+    confidence: 0.94
+    source: manual

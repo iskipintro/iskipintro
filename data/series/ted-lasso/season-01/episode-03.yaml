@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 1
+episode: 3
+title: "Trent Crimm: The Independent"
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.5
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 92.8
+    end: 189.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1691.7
+    end: 1800
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: Fallout
+season: 1
+episode: 8
+title: The Beginning
+tmdb_id: 206471
+imdb_id: tt12637874
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.7
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 87
+    end: 161.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3217.5
+    end: 3300
+    confidence: 0.96
+    source: manual

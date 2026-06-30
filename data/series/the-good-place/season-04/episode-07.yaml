@@ -1,0 +1,23 @@
+series: The Good Place
+season: 4
+episode: 7
+title: Help Is Other People
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.9
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 66
+    end: 115.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1228.7
+    end: 1320
+    confidence: 0.97
+    source: manual

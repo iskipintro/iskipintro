@@ -1,0 +1,20 @@
+title: Hereditary
+year: 2018
+tmdb_id: 493922
+imdb_id: tt7784604
+markers:
+  - type: INTRO
+    start: 0
+    end: 135.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7473.9
+    end: 7620
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 7646.9
+    end: 7764.2
+    confidence: 0.79
+    source: manual

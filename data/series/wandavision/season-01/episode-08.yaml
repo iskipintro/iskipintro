@@ -1,0 +1,23 @@
+series: WandaVision
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 85271
+imdb_id: tt9140560
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 80.5
+    end: 168
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2034.2
+    end: 2100
+    confidence: 0.95
+    source: manual

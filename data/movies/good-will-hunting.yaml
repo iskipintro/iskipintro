@@ -1,0 +1,15 @@
+title: Good Will Hunting
+year: 1997
+tmdb_id: 489
+imdb_id: tt0119217
+markers:
+  - type: INTRO
+    start: 0
+    end: 67.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7328.1
+    end: 7560
+    confidence: 0.98
+    source: manual

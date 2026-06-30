@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 3
+episode: 3
+title: That's Too Much, Man!
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 67.2
+    end: 133.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1401
+    end: 1500
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,15 @@
+title: A Nightmare on Elm Street
+year: 1984
+tmdb_id: 377
+imdb_id: tt0087800
+markers:
+  - type: INTRO
+    start: 0
+    end: 97.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 5333.5
+    end: 5460
+    confidence: 0.95
+    source: manual

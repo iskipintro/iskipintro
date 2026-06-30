@@ -1,0 +1,20 @@
+title: Doctor Strange
+year: 2016
+tmdb_id: 284052
+imdb_id: tt1211837
+markers:
+  - type: INTRO
+    start: 0
+    end: 167.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6732.4
+    end: 6900
+    confidence: 0.96
+    source: manual
+  - type: POST_CREDIT
+    start: 6926.3
+    end: 7033.2
+    confidence: 0.88
+    source: manual

@@ -1,0 +1,23 @@
+series: The Leftovers
+season: 2
+episode: 3
+title: Episode 3
+tmdb_id: 62051
+imdb_id: tt2699128
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.2
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 90.8
+    end: 163.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3222.5
+    end: 3300
+    confidence: 0.98
+    source: manual

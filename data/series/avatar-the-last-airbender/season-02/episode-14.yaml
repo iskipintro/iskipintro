@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 2
+episode: 14
+title: City of Walls and Secrets
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.7
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 70.4
+    end: 126.1
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1268.5
+    end: 1380
+    confidence: 0.95
+    source: manual

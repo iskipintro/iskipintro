@@ -1,0 +1,18 @@
+series: Ozark
+season: 4
+episode: 1
+title: The Beginning of the End
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: INTRO
+    start: 34.1
+    end: 119.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3230.6
+    end: 3300
+    confidence: 0.98
+    source: manual

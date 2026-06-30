@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 4
+episode: 2
+title: Episode 2
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 112.5
+    end: 163.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1592.2
+    end: 1680
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,18 @@
+series: The Walking Dead
+season: 2
+episode: 1
+title: What Lies Ahead
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: INTRO
+    start: 55.9
+    end: 120.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2634
+    end: 2700
+    confidence: 0.98
+    source: manual

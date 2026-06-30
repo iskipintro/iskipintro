@@ -1,0 +1,15 @@
+title: The Sting
+year: 1973
+tmdb_id: 982
+imdb_id: tt0070735
+markers:
+  - type: INTRO
+    start: 0
+    end: 163.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7552.8
+    end: 7740
+    confidence: 0.97
+    source: manual

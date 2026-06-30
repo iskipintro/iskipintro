@@ -1,0 +1,15 @@
+title: "X-Men: The Last Stand"
+year: 2006
+tmdb_id: 36668
+imdb_id: tt0376994
+markers:
+  - type: INTRO
+    start: 0
+    end: 163.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6109.7
+    end: 6240
+    confidence: 0.96
+    source: manual

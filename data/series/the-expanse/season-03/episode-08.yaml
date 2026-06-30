@@ -1,0 +1,23 @@
+series: The Expanse
+season: 3
+episode: 8
+title: It Reaches Out
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 56.7
+    end: 118.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2606.6
+    end: 2700
+    confidence: 0.93
+    source: manual

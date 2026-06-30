@@ -1,0 +1,23 @@
+series: Community
+season: 5
+episode: 10
+title: Basic Story
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 82.5
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 103.5
+    end: 168.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1243.7
+    end: 1320
+    confidence: 0.96
+    source: manual

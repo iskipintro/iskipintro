@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 46.7
+    end: 131.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3225.8
+    end: 3300
+    confidence: 0.95
+    source: manual

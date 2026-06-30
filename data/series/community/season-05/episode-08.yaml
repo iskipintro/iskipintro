@@ -1,0 +1,23 @@
+series: Community
+season: 5
+episode: 8
+title: Bondage and Beta Male Sexuality
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 66.5
+    end: 158.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1219.8
+    end: 1320
+    confidence: 0.98
+    source: manual

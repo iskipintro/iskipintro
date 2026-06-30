@@ -1,0 +1,23 @@
+series: The Wire
+season: 1
+episode: 12
+title: Episode 12
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 70.9
+    end: 166.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3507.9
+    end: 3600
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 2
+episode: 6
+title: Episode 6
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.3
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 66.5
+    end: 151.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1723.7
+    end: 1800
+    confidence: 0.96
+    source: manual

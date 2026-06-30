@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 6
+episode: 12
+title: Nice While It Lasted
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 83.4
+    end: 130.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1430.4
+    end: 1500
+    confidence: 0.98
+    source: manual

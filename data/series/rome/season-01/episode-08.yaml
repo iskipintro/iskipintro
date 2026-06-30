@@ -1,0 +1,23 @@
+series: Rome
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 463
+imdb_id: tt0384766
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.6
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 105.4
+    end: 170.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2916.7
+    end: 3000
+    confidence: 0.96
+    source: manual

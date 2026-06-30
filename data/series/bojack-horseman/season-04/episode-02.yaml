@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 4
+episode: 2
+title: The Old Sugarman Place
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 87.2
+    end: 172.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1388.3
+    end: 1500
+    confidence: 0.97
+    source: manual

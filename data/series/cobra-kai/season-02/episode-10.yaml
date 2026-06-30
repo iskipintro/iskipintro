@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 2
+episode: 10
+title: Episode 10
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 57.9
+    end: 129.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1736.9
+    end: 1800
+    confidence: 0.94
+    source: manual

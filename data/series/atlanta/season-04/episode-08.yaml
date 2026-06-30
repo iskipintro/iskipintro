@@ -1,0 +1,23 @@
+series: Atlanta
+season: 4
+episode: 8
+title: Episode 8
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 67.2
+    end: 113.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1719
+    end: 1800
+    confidence: 0.98
+    source: manual

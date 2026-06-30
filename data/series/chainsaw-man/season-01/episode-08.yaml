@@ -1,0 +1,23 @@
+series: Chainsaw Man
+season: 1
+episode: 8
+title: Chainsaw Sound
+tmdb_id: 127646
+imdb_id: tt13616990
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.7
+    confidence: 0.94
+    source: manual
+  - type: OPENING
+    start: 81.4
+    end: 165.4
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1350.6
+    end: 1440
+    confidence: 0.97
+    source: manual

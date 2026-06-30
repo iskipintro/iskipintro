@@ -1,0 +1,23 @@
+series: Arcane
+season: 2
+episode: 6
+title: The Message Hidden Within the Pattern
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.4
+    confidence: 0.94
+    source: manual
+  - type: OPENING
+    start: 113.2
+    end: 177.8
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 2328.6
+    end: 2400
+    confidence: 0.95
+    source: manual

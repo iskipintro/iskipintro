@@ -1,0 +1,18 @@
+series: The Last of Us
+season: 2
+episode: 1
+title: Future Days
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: INTRO
+    start: 41.8
+    end: 104.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3237.4
+    end: 3300
+    confidence: 0.96
+    source: manual

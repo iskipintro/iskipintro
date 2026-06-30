@@ -1,0 +1,23 @@
+series: Hannibal
+season: 3
+episode: 13
+title: The Wrath of the Lamb
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 64.3
+    end: 140.3
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2555.8
+    end: 2640
+    confidence: 0.95
+    source: manual

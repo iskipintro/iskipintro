@@ -1,0 +1,15 @@
+title: His Girl Friday
+year: 1940
+tmdb_id: 3085
+imdb_id: tt0032599
+markers:
+  - type: INTRO
+    start: 0
+    end: 132.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5336.9
+    end: 5520
+    confidence: 0.96
+    source: manual

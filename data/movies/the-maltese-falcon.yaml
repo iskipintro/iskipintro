@@ -1,0 +1,15 @@
+title: The Maltese Falcon
+year: 1941
+tmdb_id: 963
+imdb_id: tt0033870
+markers:
+  - type: INTRO
+    start: 0
+    end: 160
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 5838.2
+    end: 6000
+    confidence: 0.95
+    source: manual

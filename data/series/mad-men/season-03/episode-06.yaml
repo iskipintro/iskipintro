@@ -1,0 +1,23 @@
+series: Mad Men
+season: 3
+episode: 6
+title: Episode 6
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 87.6
+    end: 136.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2818.8
+    end: 2880
+    confidence: 0.95
+    source: manual

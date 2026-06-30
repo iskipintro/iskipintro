@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 5
+title: My Own Steel
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.4
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 81
+    end: 141.5
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1321
+    end: 1440
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: Deadwood
+season: 3
+episode: 3
+title: Episode 3
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.9
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 84.4
+    end: 160.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3231.2
+    end: 3300
+    confidence: 0.93
+    source: manual

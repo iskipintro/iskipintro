@@ -1,0 +1,15 @@
+title: Dr. Strangelove
+year: 1964
+tmdb_id: 935
+imdb_id: tt0057012
+markers:
+  - type: INTRO
+    start: 0
+    end: 175.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5510
+    end: 5700
+    confidence: 0.97
+    source: manual

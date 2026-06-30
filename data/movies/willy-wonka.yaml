@@ -1,0 +1,15 @@
+title: Willy Wonka & the Chocolate Factory
+year: 1971
+tmdb_id: 252
+imdb_id: tt0067992
+markers:
+  - type: INTRO
+    start: 0
+    end: 148.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5772.5
+    end: 6000
+    confidence: 0.96
+    source: manual

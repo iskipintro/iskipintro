@@ -1,0 +1,15 @@
+title: Lost in Translation
+year: 2003
+tmdb_id: 153
+imdb_id: tt0335266
+markers:
+  - type: INTRO
+    start: 0
+    end: 166.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5939.7
+    end: 6120
+    confidence: 0.97
+    source: manual

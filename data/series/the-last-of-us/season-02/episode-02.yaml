@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 2
+episode: 2
+title: The Hunt
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.5
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 77.4
+    end: 143.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3214.7
+    end: 3300
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Dexter
+season: 6
+episode: 11
+title: Episode 11
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 73.4
+    end: 148.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3091.2
+    end: 3180
+    confidence: 0.97
+    source: manual

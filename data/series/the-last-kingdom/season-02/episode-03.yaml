@@ -1,0 +1,23 @@
+series: The Last Kingdom
+season: 2
+episode: 3
+title: Episode 3
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 104
+    end: 192.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2900
+    end: 3000
+    confidence: 0.96
+    source: manual

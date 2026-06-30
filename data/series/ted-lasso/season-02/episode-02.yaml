@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 2
+episode: 2
+title: Lavender
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 81.5
+    end: 149.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1695
+    end: 1800
+    confidence: 0.95
+    source: manual

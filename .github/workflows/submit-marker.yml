@@ -2,17 +2,25 @@ name: Submit Marker
 on:
   workflow_dispatch:
     inputs:
-      series:
-        description: "Series name (e.g. Breaking Bad)"
+      type:
+        description: "Content type"
+        required: true
+        type: choice
+        options:
+          - TV Series
+          - Anime
+          - Movie
+      title:
+        description: "Movie title, series name, or anime name"
         required: true
         type: string
       season:
-        description: "Season number"
-        required: true
+        description: "Season number (skip for movies)"
+        required: false
         type: string
       episode:
-        description: "Episode number"
-        required: true
+        description: "Episode number (skip for movies)"
+        required: false
         type: string
       marker_type:
         description: "Marker type"
@@ -78,10 +86,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Slugify series name
+      - name: Slugify title
         id: slug
         run: |
-          SLUG=$(echo "${{ inputs.series }}" \
+          SLUG=$(echo "${{ inputs.title }}" \
             | tr '[:upper:]' '[:lower:]' \
             | sed 's/[^a-z0-9]/-/g' \
             | sed 's/--*/-/g' \
@@ -91,39 +99,67 @@ jobs:
       - name: Generate YAML
         run: |
           SLUG="${{ steps.slug.outputs.slug }}"
-          SEASON=$(printf '%02d' ${{ inputs.season }})
-          EPISODE=$(printf '%02d' ${{ inputs.episode }})
-          DIR="data/series/$SLUG/season-$SEASON"
-          FILE="$DIR/episode-$EPISODE.yaml"
           SOURCE=$(echo "${{ inputs.source }}" | sed 's/(.*//' | tr '[:upper:]' '[:lower:]' | xargs)
 
-          mkdir -p "$DIR"
+          if [ "${{ inputs.type }}" = "Movie" ]; then
+            FILE="data/movies/$SLUG.yaml"
 
-          if [ -f "$FILE" ]; then
-            {
-              echo "  - type: ${{ inputs.marker_type }}"
-              echo "    start: ${{ inputs.start_time }}"
-              echo "    end: ${{ inputs.end_time }}"
-              echo "    confidence: 0.95"
-              echo "    source: $SOURCE"
-            } >> "$FILE"
+            if [ -f "$FILE" ]; then
+              {
+                echo "  - type: ${{ inputs.marker_type }}"
+                echo "    start: ${{ inputs.start_time }}"
+                echo "    end: ${{ inputs.end_time }}"
+                echo "    confidence: 0.95"
+                echo "    source: $SOURCE"
+              } >> "$FILE"
+            else
+              {
+                echo "title: ${{ inputs.title }}"
+                [ -n "${{ inputs.tmdb_id }}" ] && echo "tmdb_id: ${{ inputs.tmdb_id }}"
+                [ -n "${{ inputs.imdb_id }}" ] && echo "imdb_id: ${{ inputs.imdb_id }}"
+                echo "markers:"
+                echo "  - type: ${{ inputs.marker_type }}"
+                echo "    start: ${{ inputs.start_time }}"
+                echo "    end: ${{ inputs.end_time }}"
+                echo "    confidence: 0.95"
+                echo "    source: $SOURCE"
+              } > "$FILE"
+            fi
           else
-            {
-              echo "series: ${{ inputs.series }}"
-              echo "season: ${{ inputs.season }}"
-              echo "episode: ${{ inputs.episode }}"
-              [ -n "${{ inputs.tmdb_id }}" ] && echo "tmdb_id: ${{ inputs.tmdb_id }}"
-              [ -n "${{ inputs.imdb_id }}" ] && echo "imdb_id: ${{ inputs.imdb_id }}"
-              [ -n "${{ inputs.mal_id }}" ] && echo "mal_id: ${{ inputs.mal_id }}"
-              [ -n "${{ inputs.anilist_id }}" ] && echo "anilist_id: ${{ inputs.anilist_id }}"
-              [ -n "${{ inputs.kitsu_id }}" ] && echo "kitsu_id: ${{ inputs.kitsu_id }}"
-              echo "markers:"
-              echo "  - type: ${{ inputs.marker_type }}"
-              echo "    start: ${{ inputs.start_time }}"
-              echo "    end: ${{ inputs.end_time }}"
-              echo "    confidence: 0.95"
-              echo "    source: $SOURCE"
-            } > "$FILE"
+            SEASON=$(printf '%02d' ${{ inputs.season }})
+            EPISODE=$(printf '%02d' ${{ inputs.episode }})
+            DIR="data/series/$SLUG/season-$SEASON"
+            FILE="$DIR/episode-$EPISODE.yaml"
+            ANIME=$([ "${{ inputs.type }}" = "Anime" ] && echo "true" || echo "false")
+            mkdir -p "$DIR"
+
+            if [ -f "$FILE" ]; then
+              {
+                echo "  - type: ${{ inputs.marker_type }}"
+                echo "    start: ${{ inputs.start_time }}"
+                echo "    end: ${{ inputs.end_time }}"
+                echo "    confidence: 0.95"
+                echo "    source: $SOURCE"
+              } >> "$FILE"
+            else
+              {
+                echo "series: ${{ inputs.title }}"
+                echo "season: ${{ inputs.season }}"
+                echo "episode: ${{ inputs.episode }}"
+                echo "anime: $ANIME"
+                [ -n "${{ inputs.tmdb_id }}" ] && echo "tmdb_id: ${{ inputs.tmdb_id }}"
+                [ -n "${{ inputs.imdb_id }}" ] && echo "imdb_id: ${{ inputs.imdb_id }}"
+                [ -n "${{ inputs.mal_id }}" ] && echo "mal_id: ${{ inputs.mal_id }}"
+                [ -n "${{ inputs.anilist_id }}" ] && echo "anilist_id: ${{ inputs.anilist_id }}"
+                [ -n "${{ inputs.kitsu_id }}" ] && echo "kitsu_id: ${{ inputs.kitsu_id }}"
+                echo "markers:"
+                echo "  - type: ${{ inputs.marker_type }}"
+                echo "    start: ${{ inputs.start_time }}"
+                echo "    end: ${{ inputs.end_time }}"
+                echo "    confidence: 0.95"
+                echo "    source: $SOURCE"
+              } > "$FILE"
+            fi
           fi
 
           echo "Created/updated $FILE"
@@ -132,15 +168,16 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
-          commit-message: "Add ${{ inputs.marker_type }} marker for ${{ inputs.series }} S${{ inputs.season }}E${{ inputs.episode }}"
-          title: "Add ${{ inputs.marker_type }} marker for ${{ inputs.series }} S${{ inputs.season }}E${{ inputs.episode }}"
+          commit-message: "Add ${{ inputs.marker_type }} marker for ${{ inputs.title }}"
+          title: "Add ${{ inputs.marker_type }} marker for ${{ inputs.title }}"
           body: |
             ## Marker Submission
 
-            **Series:** ${{ inputs.series }}
+            **Type:** ${{ inputs.type }}
+            **Title:** ${{ inputs.title }}
             **Season:** ${{ inputs.season }}
             **Episode:** ${{ inputs.episode }}
-            **Type:** ${{ inputs.marker_type }}
+            **Marker:** ${{ inputs.marker_type }}
             **Start:** ${{ inputs.start_time }}s
             **End:** ${{ inputs.end_time }}s
             **Source:** ${{ inputs.source }}
@@ -152,6 +189,6 @@ jobs:
 
             ---
             _Created automatically by the Submit Marker workflow_
-          branch: "marker-${{ steps.slug.outputs.slug }}-s${{ inputs.season }}e${{ inputs.episode }}"
+          branch: "marker-${{ steps.slug.outputs.slug }}-${{ inputs.marker_type }}"
           base: main
           labels: marker-submission

@@ -1,0 +1,23 @@
+series: Westworld
+season: 4
+episode: 6
+title: Fidelity
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.6
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 110.6
+    end: 200.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3533.7
+    end: 3600
+    confidence: 0.97
+    source: manual

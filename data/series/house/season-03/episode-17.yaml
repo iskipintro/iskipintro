@@ -1,0 +1,23 @@
+series: House M.D.
+season: 3
+episode: 17
+title: Episode 17
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 115.3
+    end: 162
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2566.9
+    end: 2640
+    confidence: 0.96
+    source: manual

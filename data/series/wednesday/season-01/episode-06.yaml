@@ -1,0 +1,23 @@
+series: Wednesday
+season: 1
+episode: 6
+title: Quid Pro Woe
+tmdb_id: 119051
+imdb_id: tt13433812
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.2
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 86
+    end: 162.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2924.5
+    end: 3000
+    confidence: 0.93
+    source: manual

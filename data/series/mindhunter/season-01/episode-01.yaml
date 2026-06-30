@@ -1,0 +1,18 @@
+series: Mindhunter
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 67744
+imdb_id: tt5290382
+anime: false
+markers:
+  - type: INTRO
+    start: 62.9
+    end: 181.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2881.2
+    end: 3000
+    confidence: 0.98
+    source: manual

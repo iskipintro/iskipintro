@@ -1,0 +1,23 @@
+series: Ozark
+season: 1
+episode: 9
+title: Coffee, Black
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 87.1
+    end: 146.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3219
+    end: 3300
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,15 @@
+title: Slumdog Millionaire
+year: 2008
+tmdb_id: 12405
+imdb_id: tt1010048
+markers:
+  - type: INTRO
+    start: 0
+    end: 150.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7057.6
+    end: 7200
+    confidence: 0.98
+    source: manual

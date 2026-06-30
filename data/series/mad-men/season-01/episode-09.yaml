@@ -1,0 +1,23 @@
+series: Mad Men
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.5
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 131.3
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2809.7
+    end: 2880
+    confidence: 0.96
+    source: manual

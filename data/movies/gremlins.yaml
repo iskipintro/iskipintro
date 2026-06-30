@@ -1,0 +1,15 @@
+title: Gremlins
+year: 1984
+tmdb_id: 927
+imdb_id: tt0087363
+markers:
+  - type: INTRO
+    start: 0
+    end: 76.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6198.3
+    end: 6360
+    confidence: 0.94
+    source: manual

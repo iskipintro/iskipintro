@@ -1,0 +1,20 @@
+title: All Quiet on the Western Front
+year: 2022
+tmdb_id: 49046
+imdb_id: tt1016150
+markers:
+  - type: INTRO
+    start: 0
+    end: 124.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 8667.7
+    end: 8880
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 8900
+    end: 8968.6
+    confidence: 0.73
+    source: manual

@@ -1,0 +1,23 @@
+series: House M.D.
+season: 3
+episode: 20
+title: Episode 20
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.4
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 50.3
+    end: 135.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2532.2
+    end: 2640
+    confidence: 0.95
+    source: manual

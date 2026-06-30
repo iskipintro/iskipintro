@@ -1,0 +1,23 @@
+series: Mad Men
+season: 2
+episode: 13
+title: Episode 13
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 87.5
+    end: 148.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2790.5
+    end: 2880
+    confidence: 0.97
+    source: manual

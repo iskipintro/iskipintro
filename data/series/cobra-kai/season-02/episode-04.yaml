@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 58.8
+    end: 149.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1697.1
+    end: 1800
+    confidence: 0.95
+    source: manual

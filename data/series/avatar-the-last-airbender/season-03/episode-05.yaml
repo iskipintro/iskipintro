@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 5
+title: The Beach
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 72
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 86.9
+    end: 168.8
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1299.5
+    end: 1380
+    confidence: 0.96
+    source: manual

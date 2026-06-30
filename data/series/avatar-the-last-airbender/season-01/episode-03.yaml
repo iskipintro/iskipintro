@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 3
+title: The Southern Air Temple
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.9
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 77.6
+    end: 143.9
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1295.3
+    end: 1380
+    confidence: 0.96
+    source: manual

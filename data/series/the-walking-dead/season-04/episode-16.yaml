@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 4
+episode: 16
+title: A
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.4
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 81.7
+    end: 159.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2615
+    end: 2700
+    confidence: 0.95
+    source: manual

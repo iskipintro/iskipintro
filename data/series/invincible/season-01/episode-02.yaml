@@ -1,0 +1,23 @@
+series: Invincible
+season: 1
+episode: 2
+title: Here Goes Nothing
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 80.6
+    end: 165.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2778.8
+    end: 2880
+    confidence: 0.98
+    source: manual

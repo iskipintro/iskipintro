@@ -1,0 +1,15 @@
+title: The General
+year: 1926
+tmdb_id: 987
+imdb_id: tt0017925
+markers:
+  - type: INTRO
+    start: 0
+    end: 125.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 4471.3
+    end: 4680
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: Steins;Gate
+season: 1
+episode: 4
+title: Interpreter Rendezvous
+tmdb_id: 46532
+imdb_id: tt1910272
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.3
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 97.4
+    end: 143.7
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1349.9
+    end: 1440
+    confidence: 0.96
+    source: manual

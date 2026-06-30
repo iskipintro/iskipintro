@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 6
+episode: 11
+title: Xerox of a Xerox
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 51.8
+    end: 117.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1392.4
+    end: 1500
+    confidence: 0.96
+    source: manual

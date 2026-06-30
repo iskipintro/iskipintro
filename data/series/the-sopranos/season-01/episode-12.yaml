@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 1
+episode: 12
+title: Isabella
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 54.4
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 67.5
+    end: 132.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3200.2
+    end: 3300
+    confidence: 0.98
+    source: manual

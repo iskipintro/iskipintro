@@ -1,0 +1,23 @@
+series: Arcane
+season: 1
+episode: 9
+title: The Monster You Created
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.7
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 102.7
+    end: 185.9
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 2323.1
+    end: 2400
+    confidence: 0.95
+    source: manual

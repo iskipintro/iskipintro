@@ -1,0 +1,15 @@
+title: Inside Out
+year: 2015
+tmdb_id: 150540
+imdb_id: tt2096673
+markers:
+  - type: INTRO
+    start: 0
+    end: 113.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5537.2
+    end: 5700
+    confidence: 0.97
+    source: manual

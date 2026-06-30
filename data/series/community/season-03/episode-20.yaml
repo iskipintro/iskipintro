@@ -1,0 +1,23 @@
+series: Community
+season: 3
+episode: 20
+title: The First Chang Dynasty
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 108.3
+    end: 166
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1224.8
+    end: 1320
+    confidence: 0.93
+    source: manual

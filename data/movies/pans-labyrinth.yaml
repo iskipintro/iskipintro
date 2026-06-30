@@ -1,0 +1,20 @@
+title: Pan's Labyrinth
+year: 2006
+tmdb_id: 1417
+imdb_id: tt0457430
+markers:
+  - type: INTRO
+    start: 0
+    end: 153.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6950.7
+    end: 7080
+    confidence: 0.99
+    source: manual
+  - type: POST_CREDIT
+    start: 7101.3
+    end: 7149.5
+    confidence: 0.83
+    source: manual

@@ -1,0 +1,23 @@
+series: Community
+season: 1
+episode: 23
+title: Modern Warfare
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 43.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 51.1
+    end: 142.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1230.4
+    end: 1320
+    confidence: 0.98
+    source: manual

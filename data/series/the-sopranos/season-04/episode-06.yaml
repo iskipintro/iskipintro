@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 4
+episode: 6
+title: Everybody Hurts
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.9
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 92.8
+    end: 143.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3219.1
+    end: 3300
+    confidence: 0.93
+    source: manual

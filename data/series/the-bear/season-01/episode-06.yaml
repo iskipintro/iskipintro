@@ -1,0 +1,23 @@
+series: The Bear
+season: 1
+episode: 6
+title: Ceres
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 94.8
+    end: 168.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1695.7
+    end: 1800
+    confidence: 0.99
+    source: manual

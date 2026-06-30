@@ -1,0 +1,23 @@
+series: House of the Dragon
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 94997
+imdb_id: tt11198330
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.9
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 116.4
+    end: 193.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3509.1
+    end: 3600
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: The Expanse
+season: 6
+episode: 3
+title: Force Projection
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.1
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 61.2
+    end: 125.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2587.9
+    end: 2700
+    confidence: 0.93
+    source: manual

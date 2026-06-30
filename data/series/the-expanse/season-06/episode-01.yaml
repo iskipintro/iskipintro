@@ -1,0 +1,18 @@
+series: The Expanse
+season: 6
+episode: 1
+title: Strange Dogs
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: INTRO
+    start: 52.5
+    end: 129.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2623.9
+    end: 2700
+    confidence: 0.97
+    source: manual

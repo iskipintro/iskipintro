@@ -1,0 +1,23 @@
+series: The Expanse
+season: 1
+episode: 5
+title: Back to the Butcher
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 43.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 65.9
+    end: 148.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2615.9
+    end: 2700
+    confidence: 0.98
+    source: manual

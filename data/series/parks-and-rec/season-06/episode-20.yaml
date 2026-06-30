@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 6
+episode: 20
+title: Moving Up
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 55.8
+    end: 141.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1227.8
+    end: 1320
+    confidence: 0.99
+    source: manual

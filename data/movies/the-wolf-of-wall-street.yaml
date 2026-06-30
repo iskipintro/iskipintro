@@ -1,0 +1,20 @@
+title: The Wolf of Wall Street
+year: 2013
+tmdb_id: 106646
+imdb_id: tt0993846
+markers:
+  - type: INTRO
+    start: 0
+    end: 131
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 10582.6
+    end: 10800
+    confidence: 0.94
+    source: manual
+  - type: POST_CREDIT
+    start: 10829.5
+    end: 10920.6
+    confidence: 0.88
+    source: manual

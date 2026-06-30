@@ -1,0 +1,20 @@
+title: Howl's Moving Castle
+year: 2004
+tmdb_id: 4935
+imdb_id: tt0347149
+markers:
+  - type: INTRO
+    start: 0
+    end: 142.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6939.4
+    end: 7140
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7148.3
+    end: 7245.3
+    confidence: 0.76
+    source: manual

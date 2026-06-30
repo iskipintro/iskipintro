@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 17
+title: You Must Master a Single Thing
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.5
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 77.4
+    end: 157.7
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1323.3
+    end: 1440
+    confidence: 0.93
+    source: manual

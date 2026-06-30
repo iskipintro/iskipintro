@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 3
+episode: 9
+title: Episode 9
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 74.7
+    end: 158.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2807.9
+    end: 2880
+    confidence: 0.94
+    source: manual

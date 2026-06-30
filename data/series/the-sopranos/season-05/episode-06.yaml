@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 5
+episode: 6
+title: Sentimental Education
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 63.9
+    end: 161.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3214.5
+    end: 3300
+    confidence: 0.98
+    source: manual

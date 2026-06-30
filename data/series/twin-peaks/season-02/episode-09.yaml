@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.9
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 94.4
+    end: 179.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2777
+    end: 2880
+    confidence: 0.97
+    source: manual

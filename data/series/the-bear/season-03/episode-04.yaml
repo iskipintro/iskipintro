@@ -1,0 +1,23 @@
+series: The Bear
+season: 3
+episode: 4
+title: Violet
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.2
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 82
+    end: 168.3
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1732.1
+    end: 1800
+    confidence: 0.95
+    source: manual

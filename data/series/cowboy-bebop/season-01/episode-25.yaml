@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 25
+title: The Real Folk Blues (Part 1)
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.9
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 78.2
+    end: 178.1
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1341.2
+    end: 1440
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Invincible
+season: 2
+episode: 5
+title: This Must Come as a Shock
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 90.3
+    end: 160.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2771
+    end: 2880
+    confidence: 0.94
+    source: manual

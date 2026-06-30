@@ -1,0 +1,23 @@
+series: Westworld
+season: 1
+episode: 10
+title: The Bicameral Mind
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.5
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 53.6
+    end: 147.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3501.7
+    end: 3600
+    confidence: 0.97
+    source: manual

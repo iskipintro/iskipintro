@@ -1,0 +1,23 @@
+series: Chainsaw Man
+season: 1
+episode: 9
+title: From Kyoto
+tmdb_id: 127646
+imdb_id: tt13616990
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.2
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 91.2
+    end: 176.7
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1348.4
+    end: 1440
+    confidence: 0.95
+    source: manual

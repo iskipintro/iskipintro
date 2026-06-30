@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 2
+episode: 6
+title: Episode 6
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 64.4
+    end: 146.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2893.5
+    end: 3000
+    confidence: 0.96
+    source: manual

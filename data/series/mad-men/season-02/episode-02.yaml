@@ -1,0 +1,23 @@
+series: Mad Men
+season: 2
+episode: 2
+title: Episode 2
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 60.1
+    end: 150.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2813.1
+    end: 2880
+    confidence: 0.95
+    source: manual

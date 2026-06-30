@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 10
+title: Never Give Up
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.9
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 88.6
+    end: 142
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1333
+    end: 1440
+    confidence: 0.95
+    source: manual

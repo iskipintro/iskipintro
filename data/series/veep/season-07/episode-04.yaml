@@ -1,0 +1,23 @@
+series: Veep
+season: 7
+episode: 4
+title: Episode 4
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.2
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 96.2
+    end: 153.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1576.7
+    end: 1680
+    confidence: 0.96
+    source: manual

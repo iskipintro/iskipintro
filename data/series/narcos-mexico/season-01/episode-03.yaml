@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 78.7
+    end: 158.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2922.2
+    end: 3000
+    confidence: 0.94
+    source: manual

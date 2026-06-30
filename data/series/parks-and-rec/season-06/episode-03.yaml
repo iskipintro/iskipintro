@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 6
+episode: 3
+title: The Pawnee-Eagleton Tip Off Part 2
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.6
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 98.6
+    end: 178.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1203.3
+    end: 1320
+    confidence: 0.96
+    source: manual

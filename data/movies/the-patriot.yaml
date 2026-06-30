@@ -1,0 +1,15 @@
+title: The Patriot
+year: 2000
+tmdb_id: 2024
+imdb_id: tt0187393
+markers:
+  - type: INTRO
+    start: 0
+    end: 174.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 9776.2
+    end: 9900
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: Slow Horses
+season: 2
+episode: 5
+title: Episode 5
+tmdb_id: 95480
+imdb_id: tt5875444
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 75.6
+    end: 175.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2786.3
+    end: 2880
+    confidence: 0.94
+    source: manual

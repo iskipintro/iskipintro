@@ -1,0 +1,23 @@
+series: The Expanse
+season: 6
+episode: 6
+title: Babylon's Ashes
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 68.7
+    end: 156.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2611.7
+    end: 2700
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 17
+title: The Northern Air Temple
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.3
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 91.9
+    end: 179.8
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1306.3
+    end: 1380
+    confidence: 0.96
+    source: manual

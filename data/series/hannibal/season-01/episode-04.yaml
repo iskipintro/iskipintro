@@ -1,0 +1,23 @@
+series: Hannibal
+season: 1
+episode: 4
+title: Œuf
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 84.6
+    end: 145.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2561
+    end: 2640
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: The Night Of
+season: 1
+episode: 7
+title: Episode 7
+tmdb_id: 69990
+imdb_id: tt2401256
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 71.4
+    end: 124.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3504.7
+    end: 3600
+    confidence: 0.95
+    source: manual

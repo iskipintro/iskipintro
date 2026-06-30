@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 3
+episode: 4
+title: Episode 4
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.4
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 61.9
+    end: 125.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2911.6
+    end: 3000
+    confidence: 0.96
+    source: manual

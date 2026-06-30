@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 2
+episode: 5
+title: Sister City
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.7
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 54.9
+    end: 113.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1241.5
+    end: 1320
+    confidence: 0.94
+    source: manual

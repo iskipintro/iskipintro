@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 20
+title: Pretend Family
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.7
+    confidence: 0.94
+    source: manual
+  - type: OPENING
+    start: 80.4
+    end: 143.8
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1327.3
+    end: 1440
+    confidence: 0.93
+    source: manual

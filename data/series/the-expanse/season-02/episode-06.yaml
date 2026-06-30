@@ -1,0 +1,23 @@
+series: The Expanse
+season: 2
+episode: 6
+title: Paradigm Shift
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 103.6
+    end: 184.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2580.2
+    end: 2700
+    confidence: 0.97
+    source: manual

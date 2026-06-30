@@ -1,0 +1,15 @@
+title: It's a Wonderful Life
+year: 1946
+tmdb_id: 1585
+imdb_id: tt0038650
+markers:
+  - type: INTRO
+    start: 0
+    end: 153.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7601.8
+    end: 7800
+    confidence: 0.96
+    source: manual

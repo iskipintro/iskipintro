@@ -1,0 +1,23 @@
+series: Veep
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 61.9
+    end: 138.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1617.7
+    end: 1680
+    confidence: 0.98
+    source: manual

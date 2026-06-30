@@ -1,0 +1,20 @@
+title: The Thin Red Line
+year: 1998
+tmdb_id: 8741
+imdb_id: tt0120863
+markers:
+  - type: INTRO
+    start: 0
+    end: 165.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 10043.4
+    end: 10200
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 10206.1
+    end: 10301.300000000001
+    confidence: 0.78
+    source: manual

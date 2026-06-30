@@ -1,0 +1,23 @@
+series: Westworld
+season: 3
+episode: 8
+title: Crisis Theory
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.9
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 82.5
+    end: 143.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3480.6
+    end: 3600
+    confidence: 0.98
+    source: manual

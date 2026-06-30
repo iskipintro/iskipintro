@@ -1,0 +1,23 @@
+series: The Bear
+season: 1
+episode: 8
+title: Braciole
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.7
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 78.6
+    end: 128.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1713.2
+    end: 1800
+    confidence: 0.97
+    source: manual

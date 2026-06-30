@@ -1,0 +1,23 @@
+series: Daredevil
+season: 3
+episode: 11
+title: Episode 11
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.5
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 74.4
+    end: 121.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2931.7
+    end: 3000
+    confidence: 0.98
+    source: manual

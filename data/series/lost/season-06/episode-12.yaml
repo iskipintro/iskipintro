@@ -1,0 +1,23 @@
+series: Lost
+season: 6
+episode: 12
+title: Episode 12
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.8
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 66.2
+    end: 118
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2517.5
+    end: 2580
+    confidence: 0.98
+    source: manual

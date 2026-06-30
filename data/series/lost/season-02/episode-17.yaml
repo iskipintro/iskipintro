@@ -1,0 +1,23 @@
+series: Lost
+season: 2
+episode: 17
+title: Episode 17
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 72.4
+    end: 126.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2460.9
+    end: 2580
+    confidence: 0.96
+    source: manual

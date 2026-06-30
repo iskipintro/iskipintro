@@ -1,0 +1,20 @@
+title: Coco
+year: 2017
+tmdb_id: 354912
+imdb_id: tt2380307
+markers:
+  - type: INTRO
+    start: 0
+    end: 121.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 6132.5
+    end: 6300
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 6316.3
+    end: 6433.1
+    confidence: 0.76
+    source: manual

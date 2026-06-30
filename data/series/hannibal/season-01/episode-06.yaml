@@ -1,0 +1,23 @@
+series: Hannibal
+season: 1
+episode: 6
+title: Entrée
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 88.1
+    end: 133.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2566.3
+    end: 2640
+    confidence: 0.96
+    source: manual

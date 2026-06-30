@@ -1,0 +1,15 @@
+title: The Notebook
+year: 2004
+tmdb_id: 11036
+imdb_id: tt0332280
+markers:
+  - type: INTRO
+    start: 0
+    end: 127
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7179.9
+    end: 7380
+    confidence: 0.95
+    source: manual

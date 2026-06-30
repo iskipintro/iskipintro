@@ -1,0 +1,23 @@
+series: House M.D.
+season: 1
+episode: 22
+title: Episode 22
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 82.9
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 108.2
+    end: 188.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2564.6
+    end: 2640
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: The Good Place
+season: 3
+episode: 9
+title: The Eternal Shriek
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.9
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 108
+    end: 201.6
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1237.6
+    end: 1320
+    confidence: 0.95
+    source: manual

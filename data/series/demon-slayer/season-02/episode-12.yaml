@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 12
+title: Something
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.9
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 60
+    end: 147.3
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1364.9
+    end: 1440
+    confidence: 0.99
+    source: manual

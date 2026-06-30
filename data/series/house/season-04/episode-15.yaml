@@ -1,0 +1,23 @@
+series: House M.D.
+season: 4
+episode: 15
+title: Episode 15
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.2
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 83.4
+    end: 173.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2579.2
+    end: 2640
+    confidence: 0.96
+    source: manual

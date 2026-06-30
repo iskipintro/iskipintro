@@ -1,0 +1,15 @@
+title: Twister
+year: 1996
+tmdb_id: 664
+imdb_id: tt0117998
+markers:
+  - type: INTRO
+    start: 0
+    end: 177
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6592.4
+    end: 6780
+    confidence: 0.94
+    source: manual

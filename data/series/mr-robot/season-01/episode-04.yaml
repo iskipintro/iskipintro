@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 91.3
+    end: 167
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2588.1
+    end: 2700
+    confidence: 0.97
+    source: manual

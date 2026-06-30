@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 3
+episode: 3
+title: Walk with Me
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 130.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2581.8
+    end: 2700
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,15 @@
+title: Poor Things
+year: 2023
+tmdb_id: 792307
+imdb_id: tt14230458
+markers:
+  - type: INTRO
+    start: 0
+    end: 94.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 8254.4
+    end: 8460
+    confidence: 0.94
+    source: manual

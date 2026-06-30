@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 6
+episode: 11
+title: Kaisha
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.5
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 91
+    end: 183.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3198.9
+    end: 3300
+    confidence: 0.96
+    source: manual

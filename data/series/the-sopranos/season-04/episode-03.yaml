@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 4
+episode: 3
+title: Christopher
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 51.8
+    end: 108.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3196.5
+    end: 3300
+    confidence: 0.98
+    source: manual

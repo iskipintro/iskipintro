@@ -1,0 +1,23 @@
+series: Community
+season: 3
+episode: 12
+title: Urban Matrimony and the Sandwich Arts
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 56.7
+    end: 116.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1217.6
+    end: 1320
+    confidence: 0.96
+    source: manual

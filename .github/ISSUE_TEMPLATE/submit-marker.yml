@@ -12,19 +12,20 @@ body:
     id: source_type
     attributes:
       label: Type
-      description: Is this a TV series/anime or a movie?
+      description: Is this a TV series, anime, or movie?
       options:
-        - TV Series / Anime
+        - TV Series
+        - Anime
         - Movie
     validations:
       required: true
 
   - type: input
-    id: series
+    id: title
     attributes:
-      label: Series name
-      description: Name of the TV series or anime
-      placeholder: e.g. Breaking Bad
+      label: Title
+      description: Movie title, series name, or anime name
+      placeholder: e.g. Breaking Bad or The Shawshank Redemption
     validations:
       required: true
 
@@ -32,17 +33,19 @@ body:
     id: season
     attributes:
       label: Season number
+      description: Required for TV series and anime
       placeholder: "1"
     validations:
-      required: true
+      required: false
 
   - type: input
     id: episode
     attributes:
       label: Episode number
+      description: Required for TV series and anime
       placeholder: "1"
     validations:
-      required: true
+      required: false
 
   - type: dropdown
     id: marker_type

@@ -1,0 +1,18 @@
+series: Parks and Recreation
+season: 7
+episode: 1
+title: "2017"
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: INTRO
+    start: 63.9
+    end: 125.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1209.2
+    end: 1320
+    confidence: 0.97
+    source: manual

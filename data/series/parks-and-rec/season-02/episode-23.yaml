@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 2
+episode: 23
+title: The Master Plan
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 94.9
+    end: 187.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1222.4
+    end: 1320
+    confidence: 0.94
+    source: manual

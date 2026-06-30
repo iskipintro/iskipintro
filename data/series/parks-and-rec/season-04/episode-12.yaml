@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 4
+episode: 12
+title: Campaign Shutdown
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 79.9
+    end: 145.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1245
+    end: 1320
+    confidence: 0.95
+    source: manual

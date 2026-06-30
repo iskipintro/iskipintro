@@ -1,0 +1,23 @@
+series: The Americans
+season: 5
+episode: 5
+title: Episode 5
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 55.9
+    end: 124.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2529.3
+    end: 2640
+    confidence: 0.96
+    source: manual

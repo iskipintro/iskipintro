@@ -1,0 +1,23 @@
+series: The Good Place
+season: 4
+episode: 13
+title: When You're Ready
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 76.3
+    end: 136.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1217.6
+    end: 1320
+    confidence: 0.94
+    source: manual

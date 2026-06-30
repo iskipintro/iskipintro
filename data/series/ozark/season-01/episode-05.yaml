@@ -1,0 +1,23 @@
+series: Ozark
+season: 1
+episode: 5
+title: Ruling Days
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.6
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 88.2
+    end: 164.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3202.1
+    end: 3300
+    confidence: 0.99
+    source: manual

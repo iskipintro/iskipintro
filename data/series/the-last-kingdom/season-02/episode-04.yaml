@@ -1,0 +1,23 @@
+series: The Last Kingdom
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 63
+    end: 123.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2888.4
+    end: 3000
+    confidence: 0.96
+    source: manual

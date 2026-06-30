@@ -1,0 +1,18 @@
+series: Mad Men
+season: 6
+episode: 1
+title: Episode 1
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: INTRO
+    start: 70.9
+    end: 135.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2793.7
+    end: 2880
+    confidence: 0.96
+    source: manual

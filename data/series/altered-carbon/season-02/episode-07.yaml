@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 2
+episode: 7
+title: Episode 7
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 73.2
+    end: 127.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2884.8
+    end: 3000
+    confidence: 0.98
+    source: manual

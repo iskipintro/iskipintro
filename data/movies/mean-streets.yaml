@@ -1,0 +1,15 @@
+title: Mean Streets
+year: 1973
+tmdb_id: 380
+imdb_id: tt0070379
+markers:
+  - type: INTRO
+    start: 0
+    end: 76.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6515.9
+    end: 6720
+    confidence: 0.96
+    source: manual

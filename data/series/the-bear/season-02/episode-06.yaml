@@ -1,0 +1,23 @@
+series: The Bear
+season: 2
+episode: 6
+title: Fishes
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 60.5
+    end: 150.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1731.6
+    end: 1800
+    confidence: 0.95
+    source: manual

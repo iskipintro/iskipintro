@@ -1,0 +1,15 @@
+title: One Flew Over the Cuckoo's Nest
+year: 1975
+tmdb_id: 510
+imdb_id: tt0073486
+markers:
+  - type: INTRO
+    start: 0
+    end: 173.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7849.2
+    end: 7980
+    confidence: 0.98
+    source: manual

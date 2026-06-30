@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 1
+episode: 8
+title: The Telescope
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.6
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 80
+    end: 166.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1406.1
+    end: 1500
+    confidence: 0.99
+    source: manual

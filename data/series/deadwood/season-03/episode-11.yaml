@@ -1,0 +1,23 @@
+series: Deadwood
+season: 3
+episode: 11
+title: Episode 11
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 84.3
+    end: 182.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3227.4
+    end: 3300
+    confidence: 0.95
+    source: manual

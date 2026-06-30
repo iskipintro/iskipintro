@@ -1,0 +1,23 @@
+series: Deadwood
+season: 1
+episode: 7
+title: Episode 7
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 80.1
+    end: 177.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3206.3
+    end: 3300
+    confidence: 0.97
+    source: manual

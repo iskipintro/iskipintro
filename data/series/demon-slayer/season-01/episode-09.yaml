@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 9
+title: Temari Demon and Arrow Demon
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.1
+    confidence: 0.94
+    source: manual
+  - type: OPENING
+    start: 73.1
+    end: 141.9
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1370.4
+    end: 1440
+    confidence: 0.95
+    source: manual

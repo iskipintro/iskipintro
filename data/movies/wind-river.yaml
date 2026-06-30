@@ -1,0 +1,15 @@
+title: Wind River
+year: 2017
+tmdb_id: 395834
+imdb_id: tt5362988
+markers:
+  - type: INTRO
+    start: 0
+    end: 167
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6257
+    end: 6420
+    confidence: 0.93
+    source: manual

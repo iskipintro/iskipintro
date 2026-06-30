@@ -1,0 +1,23 @@
+series: Silo
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 125988
+imdb_id: tt14688458
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 97.1
+    end: 158.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2916.5
+    end: 3000
+    confidence: 0.94
+    source: manual

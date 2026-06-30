@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 3
+episode: 8
+title: We'll Never Have Paris
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 54.8
+    end: 146.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1690.7
+    end: 1800
+    confidence: 0.96
+    source: manual

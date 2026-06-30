@@ -1,0 +1,23 @@
+series: Hannibal
+season: 3
+episode: 10
+title: ...And the Woman Clothed in Sun
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.9
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 57.3
+    end: 139.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2543.2
+    end: 2640
+    confidence: 0.98
+    source: manual

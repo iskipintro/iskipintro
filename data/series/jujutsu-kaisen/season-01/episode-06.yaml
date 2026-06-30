@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 1
+episode: 6
+title: After Rain
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.4
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 90
+    end: 154.9
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1365.4
+    end: 1440
+    confidence: 0.95
+    source: manual

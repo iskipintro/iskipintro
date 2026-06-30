@@ -1,0 +1,23 @@
+series: Loki
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 84958
+imdb_id: tt9140554
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 58.6
+    end: 146.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2884.9
+    end: 3000
+    confidence: 0.98
+    source: manual

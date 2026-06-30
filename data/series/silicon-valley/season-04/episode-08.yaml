@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 4
+episode: 8
+title: Episode 8
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 79.7
+    end: 130.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1596.3
+    end: 1680
+    confidence: 0.93
+    source: manual

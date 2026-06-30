@@ -1,0 +1,23 @@
+series: Midnight Mass
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 98555
+imdb_id: tt10574476
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.9
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 54.9
+    end: 107.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3494.9
+    end: 3600
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: Veep
+season: 7
+episode: 7
+title: Episode 7
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 74.7
+    end: 134.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1594.5
+    end: 1680
+    confidence: 0.97
+    source: manual

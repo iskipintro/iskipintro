@@ -1,0 +1,23 @@
+series: Deadwood
+season: 2
+episode: 11
+title: Episode 11
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.9
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 92.3
+    end: 184.3
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3201.2
+    end: 3300
+    confidence: 0.99
+    source: manual

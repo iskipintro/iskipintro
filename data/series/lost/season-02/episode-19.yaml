@@ -1,0 +1,23 @@
+series: Lost
+season: 2
+episode: 19
+title: Episode 19
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 62.8
+    end: 133.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2464.5
+    end: 2580
+    confidence: 0.98
+    source: manual

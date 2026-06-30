@@ -1,0 +1,23 @@
+series: Dexter
+season: 8
+episode: 12
+title: Episode 12
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 63.9
+    end: 151.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3102.2
+    end: 3180
+    confidence: 0.97
+    source: manual

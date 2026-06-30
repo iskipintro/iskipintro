@@ -1,0 +1,23 @@
+series: Veep
+season: 7
+episode: 2
+title: Episode 2
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 93.7
+    end: 191.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1571.3
+    end: 1680
+    confidence: 0.97
+    source: manual

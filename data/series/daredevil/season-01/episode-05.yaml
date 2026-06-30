@@ -1,0 +1,23 @@
+series: Daredevil
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 110.3
+    end: 168.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2909.6
+    end: 3000
+    confidence: 0.98
+    source: manual

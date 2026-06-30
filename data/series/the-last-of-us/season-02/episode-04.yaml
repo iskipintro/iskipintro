@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 2
+episode: 4
+title: The Wounded
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 119.5
+    end: 192.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3218.2
+    end: 3300
+    confidence: 0.96
+    source: manual

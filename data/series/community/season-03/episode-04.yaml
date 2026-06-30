@@ -1,0 +1,23 @@
+series: Community
+season: 3
+episode: 4
+title: Horror Fiction in Seven Spooky Steps
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 86.5
+    end: 143.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1247.5
+    end: 1320
+    confidence: 0.97
+    source: manual

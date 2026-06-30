@@ -1,0 +1,18 @@
+series: The Queen's Gambit
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 93474
+imdb_id: tt10048342
+anime: false
+markers:
+  - type: INTRO
+    start: 80.4
+    end: 172
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2893.1
+    end: 3000
+    confidence: 0.97
+    source: manual

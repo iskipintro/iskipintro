@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 4
+episode: 5
+title: Pie-O-My
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 95.6
+    end: 183.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3227
+    end: 3300
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 3
+episode: 6
+title: Brrap Brrap Pew Pew
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 103.3
+    end: 185.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1388.9
+    end: 1500
+    confidence: 0.95
+    source: manual

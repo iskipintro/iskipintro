@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 5
+episode: 7
+title: Episode 7
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 54.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 76.5
+    end: 136.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3227.6
+    end: 3300
+    confidence: 0.95
+    source: manual

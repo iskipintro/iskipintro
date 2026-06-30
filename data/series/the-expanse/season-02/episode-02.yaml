@@ -1,0 +1,23 @@
+series: The Expanse
+season: 2
+episode: 2
+title: Doors & Corners
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.1
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 101.4
+    end: 191.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2605.1
+    end: 2700
+    confidence: 0.97
+    source: manual

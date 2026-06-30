@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 2
+episode: 2
+title: Episode 2
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 81.5
+    end: 141.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1613.5
+    end: 1680
+    confidence: 0.95
+    source: manual

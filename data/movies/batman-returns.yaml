@@ -1,0 +1,15 @@
+title: Batman Returns
+year: 1992
+tmdb_id: 364
+imdb_id: tt0103776
+markers:
+  - type: INTRO
+    start: 0
+    end: 148
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7348.6
+    end: 7560
+    confidence: 0.94
+    source: manual

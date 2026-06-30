@@ -1,0 +1,23 @@
+series: Dexter
+season: 2
+episode: 3
+title: Episode 3
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.7
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 55.7
+    end: 110.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3071.7
+    end: 3180
+    confidence: 0.94
+    source: manual

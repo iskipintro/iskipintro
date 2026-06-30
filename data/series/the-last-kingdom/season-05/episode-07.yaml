@@ -1,0 +1,23 @@
+series: The Last Kingdom
+season: 5
+episode: 7
+title: Episode 7
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 60.4
+    end: 111.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2906
+    end: 3000
+    confidence: 0.96
+    source: manual

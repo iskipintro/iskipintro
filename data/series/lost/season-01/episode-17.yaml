@@ -1,0 +1,23 @@
+series: Lost
+season: 1
+episode: 17
+title: Episode 17
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 69.6
+    end: 120.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2509.4
+    end: 2580
+    confidence: 0.96
+    source: manual

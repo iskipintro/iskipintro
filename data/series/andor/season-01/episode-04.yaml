@@ -1,0 +1,23 @@
+series: Andor
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 121361
+imdb_id: tt9253284
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 67.8
+    end: 114.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2327.7
+    end: 2400
+    confidence: 0.94
+    source: manual

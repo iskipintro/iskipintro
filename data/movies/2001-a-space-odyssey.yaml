@@ -1,0 +1,20 @@
+title: "2001: A Space Odyssey"
+year: 1968
+tmdb_id: 62
+imdb_id: tt0062622
+markers:
+  - type: INTRO
+    start: 0
+    end: 92.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 8790.9
+    end: 8940
+    confidence: 0.94
+    source: manual
+  - type: POST_CREDIT
+    start: 8946
+    end: 8988.4
+    confidence: 0.84
+    source: manual

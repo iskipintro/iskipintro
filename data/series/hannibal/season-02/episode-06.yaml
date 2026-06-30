@@ -1,0 +1,23 @@
+series: Hannibal
+season: 2
+episode: 6
+title: Futamono
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 103
+    end: 182.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2565.6
+    end: 2640
+    confidence: 0.95
+    source: manual

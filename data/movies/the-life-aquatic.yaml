@@ -1,0 +1,15 @@
+title: The Life Aquatic with Steve Zissou
+year: 2004
+tmdb_id: 421
+imdb_id: tt0362270
+markers:
+  - type: INTRO
+    start: 0
+    end: 85.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6924.6
+    end: 7140
+    confidence: 0.95
+    source: manual

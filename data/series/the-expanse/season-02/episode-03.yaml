@@ -1,0 +1,23 @@
+series: The Expanse
+season: 2
+episode: 3
+title: Static
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.4
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 69.5
+    end: 141.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2637.1
+    end: 2700
+    confidence: 0.94
+    source: manual

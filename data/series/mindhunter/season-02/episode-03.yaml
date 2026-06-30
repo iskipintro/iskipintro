@@ -1,0 +1,23 @@
+series: Mindhunter
+season: 2
+episode: 3
+title: Episode 3
+tmdb_id: 67744
+imdb_id: tt5290382
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.6
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 73.6
+    end: 171.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2909.6
+    end: 3000
+    confidence: 0.97
+    source: manual

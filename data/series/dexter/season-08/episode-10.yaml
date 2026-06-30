@@ -1,0 +1,23 @@
+series: Dexter
+season: 8
+episode: 10
+title: Episode 10
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80.9
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 87.5
+    end: 172
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3069.8
+    end: 3180
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 11
+title: Toys in the Attic
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.9
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 79.6
+    end: 174.1
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1335
+    end: 1440
+    confidence: 0.95
+    source: manual

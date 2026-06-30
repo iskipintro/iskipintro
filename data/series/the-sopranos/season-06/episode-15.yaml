@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 6
+episode: 15
+title: Chasing It
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.7
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 96.9
+    end: 187.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3204
+    end: 3300
+    confidence: 0.94
+    source: manual

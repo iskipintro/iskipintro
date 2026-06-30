@@ -1,0 +1,15 @@
+title: Se7en
+year: 1995
+tmdb_id: 807
+imdb_id: tt0114369
+markers:
+  - type: INTRO
+    start: 0
+    end: 109.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7415.2
+    end: 7620
+    confidence: 0.96
+    source: manual

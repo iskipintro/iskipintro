@@ -1,0 +1,23 @@
+series: The Expanse
+season: 3
+episode: 11
+title: Fallen World
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 84.6
+    end: 146.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2595.2
+    end: 2700
+    confidence: 0.98
+    source: manual

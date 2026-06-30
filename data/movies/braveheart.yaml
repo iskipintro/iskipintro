@@ -1,0 +1,20 @@
+title: Braveheart
+year: 1995
+tmdb_id: 197
+imdb_id: tt0112573
+markers:
+  - type: INTRO
+    start: 0
+    end: 89.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 10453.9
+    end: 10680
+    confidence: 0.94
+    source: manual
+  - type: POST_CREDIT
+    start: 10695.3
+    end: 10731.9
+    confidence: 0.83
+    source: manual

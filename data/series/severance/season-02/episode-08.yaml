@@ -1,0 +1,23 @@
+series: Severance
+season: 2
+episode: 8
+title: The Afterlife
+tmdb_id: 95396
+imdb_id: tt11280740
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 89.3
+    end: 179.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2904.4
+    end: 3000
+    confidence: 0.98
+    source: manual

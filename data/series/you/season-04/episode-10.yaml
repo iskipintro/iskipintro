@@ -1,0 +1,23 @@
+series: You
+season: 4
+episode: 10
+title: Episode 10
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.3
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 57.6
+    end: 117.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2599.3
+    end: 2700
+    confidence: 0.96
+    source: manual

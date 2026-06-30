@@ -1,0 +1,23 @@
+series: Community
+season: 3
+episode: 19
+title: Curriculum Unavailable
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 87.5
+    end: 179.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1247.4
+    end: 1320
+    confidence: 0.96
+    source: manual

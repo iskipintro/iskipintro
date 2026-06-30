@@ -1,0 +1,23 @@
+series: Rome
+season: 1
+episode: 7
+title: Episode 7
+tmdb_id: 463
+imdb_id: tt0384766
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 94.3
+    end: 143.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2925.2
+    end: 3000
+    confidence: 0.94
+    source: manual

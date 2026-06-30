@@ -1,0 +1,23 @@
+series: Community
+season: 1
+episode: 9
+title: Debate 109
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 61.6
+    end: 120.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1225.2
+    end: 1320
+    confidence: 0.95
+    source: manual

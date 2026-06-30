@@ -1,0 +1,23 @@
+series: The Fall of the House of Usher
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 154385
+imdb_id: tt15518840
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 54.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 82.1
+    end: 167.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3213.2
+    end: 3300
+    confidence: 0.96
+    source: manual

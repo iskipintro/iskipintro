@@ -1,0 +1,20 @@
+title: "Sunrise: A Song of Two Humans"
+year: 1927
+tmdb_id: 779
+imdb_id: tt0018455
+markers:
+  - type: INTRO
+    start: 0
+    end: 104.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5478.1
+    end: 5640
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 5647.5
+    end: 5681.6
+    confidence: 0.73
+    source: manual

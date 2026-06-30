@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 24
+title: Hard Luck Woman
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.5
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 90.9
+    end: 154.9
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1366.4
+    end: 1440
+    confidence: 0.95
+    source: manual

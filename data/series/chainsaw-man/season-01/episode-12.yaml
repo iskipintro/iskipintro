@@ -1,0 +1,23 @@
+series: Chainsaw Man
+season: 1
+episode: 12
+title: The Reason Why
+tmdb_id: 127646
+imdb_id: tt13616990
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.4
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 84.7
+    end: 167.5
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1365.7
+    end: 1440
+    confidence: 0.98
+    source: manual

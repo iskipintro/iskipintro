@@ -1,0 +1,23 @@
+series: Westworld
+season: 2
+episode: 6
+title: Phase Space
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 54.7
+    end: 119.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3486.1
+    end: 3600
+    confidence: 0.98
+    source: manual

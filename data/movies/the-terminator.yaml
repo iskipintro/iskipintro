@@ -1,0 +1,20 @@
+title: The Terminator
+year: 1984
+tmdb_id: 218
+imdb_id: tt0088247
+markers:
+  - type: INTRO
+    start: 0
+    end: 107
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6326
+    end: 6480
+    confidence: 0.93
+    source: manual
+  - type: POST_CREDIT
+    start: 6499
+    end: 6542.5
+    confidence: 0.83
+    source: manual

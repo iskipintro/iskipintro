@@ -1,0 +1,18 @@
+series: Steins;Gate
+season: 1
+episode: 1
+title: Turning Point
+tmdb_id: 46532
+imdb_id: tt1910272
+anime: true
+markers:
+  - type: OPENING
+    start: 40.1
+    end: 122.19999999999999
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1371
+    end: 1440
+    confidence: 0.97
+    source: manual

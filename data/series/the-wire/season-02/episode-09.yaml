@@ -1,0 +1,23 @@
+series: The Wire
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 112.1
+    end: 211.3
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3502.2
+    end: 3600
+    confidence: 0.95
+    source: manual

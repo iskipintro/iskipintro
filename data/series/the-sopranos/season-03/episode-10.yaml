@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 3
+episode: 10
+title: To Save Us All from Satan's Power
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.9
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 107.9
+    end: 158.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3209
+    end: 3300
+    confidence: 0.98
+    source: manual

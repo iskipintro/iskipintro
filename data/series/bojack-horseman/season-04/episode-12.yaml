@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 4
+episode: 12
+title: What Time Is It Right Now
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 95.9
+    end: 149.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1422.1
+    end: 1500
+    confidence: 0.94
+    source: manual

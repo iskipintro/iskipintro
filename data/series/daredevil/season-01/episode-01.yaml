@@ -1,0 +1,18 @@
+series: Daredevil
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: INTRO
+    start: 89.2
+    end: 154.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2922.8
+    end: 3000
+    confidence: 0.94
+    source: manual

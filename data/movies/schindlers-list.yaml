@@ -1,0 +1,15 @@
+title: Schindler's List
+year: 1993
+tmdb_id: 424
+imdb_id: tt0108052
+markers:
+  - type: INTRO
+    start: 0
+    end: 69.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 11544.1
+    end: 11700
+    confidence: 0.96
+    source: manual

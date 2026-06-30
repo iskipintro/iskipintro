@@ -1,0 +1,23 @@
+series: Ozark
+season: 4
+episode: 10
+title: You're the Boss
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 107.4
+    end: 155.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3201.5
+    end: 3300
+    confidence: 0.98
+    source: manual

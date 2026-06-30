@@ -1,0 +1,23 @@
+series: Midnight Mass
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 98555
+imdb_id: tt10574476
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.3
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 101.5
+    end: 168.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3533.9
+    end: 3600
+    confidence: 0.98
+    source: manual

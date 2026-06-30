@@ -1,0 +1,23 @@
+series: Ozark
+season: 3
+episode: 6
+title: Fire Pink
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.6
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 79.8
+    end: 165
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3203.6
+    end: 3300
+    confidence: 0.98
+    source: manual

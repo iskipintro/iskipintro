@@ -1,0 +1,23 @@
+series: Fleabag
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 67070
+imdb_id: tt5687612
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 87
+    end: 177.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1454.6
+    end: 1560
+    confidence: 0.93
+    source: manual

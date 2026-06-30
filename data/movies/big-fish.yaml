@@ -1,0 +1,20 @@
+title: Big Fish
+year: 2003
+tmdb_id: 587
+imdb_id: tt0319061
+markers:
+  - type: INTRO
+    start: 0
+    end: 123.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7276.8
+    end: 7500
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 7514.7
+    end: 7564.7
+    confidence: 0.79
+    source: manual

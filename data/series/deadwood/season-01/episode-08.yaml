@@ -1,0 +1,23 @@
+series: Deadwood
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 104.9
+    end: 201.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3200.2
+    end: 3300
+    confidence: 0.95
+    source: manual

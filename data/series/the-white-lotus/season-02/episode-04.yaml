@@ -1,0 +1,23 @@
+series: The White Lotus
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 114410
+imdb_id: tt13406094
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.3
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 77.2
+    end: 167.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3234.9
+    end: 3300
+    confidence: 0.95
+    source: manual

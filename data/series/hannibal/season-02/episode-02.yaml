@@ -1,0 +1,23 @@
+series: Hannibal
+season: 2
+episode: 2
+title: Sakizuke
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 69.2
+    end: 121.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2539.5
+    end: 2640
+    confidence: 0.96
+    source: manual

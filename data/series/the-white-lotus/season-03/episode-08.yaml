@@ -1,0 +1,23 @@
+series: The White Lotus
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 114410
+imdb_id: tt13406094
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 70.8
+    end: 151.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3197
+    end: 3300
+    confidence: 0.99
+    source: manual

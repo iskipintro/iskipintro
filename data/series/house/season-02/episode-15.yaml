@@ -1,0 +1,23 @@
+series: House M.D.
+season: 2
+episode: 15
+title: Episode 15
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 87.6
+    end: 139.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2538.5
+    end: 2640
+    confidence: 0.97
+    source: manual

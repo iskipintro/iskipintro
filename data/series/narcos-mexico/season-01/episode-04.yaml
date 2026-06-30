@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 99.5
+    end: 182.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2901.7
+    end: 3000
+    confidence: 0.95
+    source: manual

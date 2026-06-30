@@ -1,0 +1,20 @@
+title: Butch Cassidy and the Sundance Kid
+year: 1969
+tmdb_id: 114
+imdb_id: tt0064115
+markers:
+  - type: INTRO
+    start: 0
+    end: 79
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6429.6
+    end: 6600
+    confidence: 0.94
+    source: manual
+  - type: POST_CREDIT
+    start: 6619.1
+    end: 6670.200000000001
+    confidence: 0.78
+    source: manual

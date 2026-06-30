@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 3
+episode: 4
+title: Episode 4
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 62.2
+    end: 148.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3195.4
+    end: 3300
+    confidence: 0.99
+    source: manual

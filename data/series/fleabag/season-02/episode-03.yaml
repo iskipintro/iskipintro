@@ -1,0 +1,23 @@
+series: Fleabag
+season: 2
+episode: 3
+title: Episode 3
+tmdb_id: 67070
+imdb_id: tt5687612
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 91.4
+    end: 164
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1460
+    end: 1560
+    confidence: 0.98
+    source: manual

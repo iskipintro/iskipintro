@@ -1,0 +1,15 @@
+title: Independence Day
+year: 1996
+tmdb_id: 602
+imdb_id: tt0116629
+markers:
+  - type: INTRO
+    start: 0
+    end: 110.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8477.7
+    end: 8700
+    confidence: 0.94
+    source: manual

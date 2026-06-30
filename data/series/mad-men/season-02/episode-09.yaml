@@ -1,0 +1,23 @@
+series: Mad Men
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 64.6
+    end: 123
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2809
+    end: 2880
+    confidence: 0.94
+    source: manual

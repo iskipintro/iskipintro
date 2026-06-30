@@ -1,0 +1,23 @@
+series: The Good Place
+season: 1
+episode: 6
+title: What We Owe to Each Other
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.3
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 147.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1221.4
+    end: 1320
+    confidence: 0.93
+    source: manual

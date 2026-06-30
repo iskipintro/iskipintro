@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 18
+title: The Waterbending Master
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.9
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 81.9
+    end: 164.2
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1264.5
+    end: 1380
+    confidence: 0.96
+    source: manual

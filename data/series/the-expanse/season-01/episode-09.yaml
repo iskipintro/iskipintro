@@ -1,0 +1,23 @@
+series: The Expanse
+season: 1
+episode: 9
+title: Critical Mass
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.2
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 90.8
+    end: 146.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2620.4
+    end: 2700
+    confidence: 0.98
+    source: manual

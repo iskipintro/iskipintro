@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 2
+episode: 8
+title: Ron and Tammy
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 71.1
+    end: 163.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1225.2
+    end: 1320
+    confidence: 0.94
+    source: manual

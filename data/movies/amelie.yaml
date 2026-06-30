@@ -1,0 +1,15 @@
+title: Amélie
+year: 2001
+tmdb_id: 194
+imdb_id: tt0211915
+markers:
+  - type: INTRO
+    start: 0
+    end: 60.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7092.7
+    end: 7320
+    confidence: 0.95
+    source: manual

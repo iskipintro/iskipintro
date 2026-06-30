@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 5
+episode: 7
+title: Episode 7
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.5
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 87.6
+    end: 145.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1564.6
+    end: 1680
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 2
+episode: 3
+title: Should Have Been
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.2
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 78.7
+    end: 153.3
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1374.4
+    end: 1440
+    confidence: 0.94
+    source: manual

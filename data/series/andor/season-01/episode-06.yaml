@@ -1,0 +1,23 @@
+series: Andor
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 121361
+imdb_id: tt9253284
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 76.9
+    end: 124.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2332.9
+    end: 2400
+    confidence: 0.95
+    source: manual

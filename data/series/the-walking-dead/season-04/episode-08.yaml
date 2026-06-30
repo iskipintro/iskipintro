@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 4
+episode: 8
+title: Too Far Gone
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 91.6
+    end: 180.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2614.7
+    end: 2700
+    confidence: 0.94
+    source: manual

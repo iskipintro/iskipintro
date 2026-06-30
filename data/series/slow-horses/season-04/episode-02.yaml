@@ -1,0 +1,23 @@
+series: Slow Horses
+season: 4
+episode: 2
+title: Episode 2
+tmdb_id: 95480
+imdb_id: tt5875444
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.7
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 89.8
+    end: 184.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2815.1
+    end: 2880
+    confidence: 0.98
+    source: manual

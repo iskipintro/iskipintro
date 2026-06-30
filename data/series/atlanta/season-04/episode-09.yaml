@@ -1,0 +1,23 @@
+series: Atlanta
+season: 4
+episode: 9
+title: Episode 9
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 82.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 111.9
+    end: 197.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1704.5
+    end: 1800
+    confidence: 0.95
+    source: manual

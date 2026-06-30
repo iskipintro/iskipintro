@@ -1,0 +1,23 @@
+series: Mad Men
+season: 6
+episode: 11
+title: Episode 11
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 101.9
+    end: 196.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2802.5
+    end: 2880
+    confidence: 0.94
+    source: manual

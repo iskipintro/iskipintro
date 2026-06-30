@@ -1,0 +1,23 @@
+series: Community
+season: 1
+episode: 17
+title: Beginner Pottery
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 87.9
+    end: 158.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1226.8
+    end: 1320
+    confidence: 0.97
+    source: manual

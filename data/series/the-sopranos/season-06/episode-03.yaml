@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 6
+episode: 3
+title: Members Only
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 77
+    end: 125.1
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3205
+    end: 3300
+    confidence: 0.93
+    source: manual

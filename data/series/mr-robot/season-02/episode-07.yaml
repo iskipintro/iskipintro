@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 2
+episode: 7
+title: Episode 7
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 103.1
+    end: 175.3
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2610.6
+    end: 2700
+    confidence: 0.95
+    source: manual

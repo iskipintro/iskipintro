@@ -1,0 +1,23 @@
+series: Penny Dreadful
+season: 3
+episode: 7
+title: Episode 7
+tmdb_id: 56724
+imdb_id: tt2628232
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 107.9
+    end: 190.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2887.7
+    end: 3000
+    confidence: 0.99
+    source: manual

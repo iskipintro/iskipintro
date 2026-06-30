@@ -1,0 +1,23 @@
+series: The Last Kingdom
+season: 3
+episode: 7
+title: Episode 7
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.4
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 72.6
+    end: 118.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2908.9
+    end: 3000
+    confidence: 0.95
+    source: manual

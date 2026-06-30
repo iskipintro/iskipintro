@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 3
+episode: 11
+title: Fish Out of Water
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.7
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 76.5
+    end: 137.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1401.3
+    end: 1500
+    confidence: 0.96
+    source: manual

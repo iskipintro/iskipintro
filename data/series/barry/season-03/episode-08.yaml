@@ -1,0 +1,23 @@
+series: Barry
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.8
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 108.8
+    end: 204.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1735.5
+    end: 1800
+    confidence: 0.93
+    source: manual

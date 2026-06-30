@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 3
+title: Honky Tonk Women
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.7
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 78.2
+    end: 124
+    confidence: 0.99
+    source: manual
+  - type: ENDING
+    start: 1362
+    end: 1440
+    confidence: 0.94
+    source: manual

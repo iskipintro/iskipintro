@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 26
+title: A New Mission
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.9
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 68.5
+    end: 135.5
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1324.4
+    end: 1440
+    confidence: 0.93
+    source: manual

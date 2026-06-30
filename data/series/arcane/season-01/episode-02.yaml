@@ -1,0 +1,23 @@
+series: Arcane
+season: 1
+episode: 2
+title: Some Mysteries Are Better Left Unsolved
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.9
+    confidence: 0.94
+    source: manual
+  - type: OPENING
+    start: 63.5
+    end: 148.8
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 2294.9
+    end: 2400
+    confidence: 0.95
+    source: manual

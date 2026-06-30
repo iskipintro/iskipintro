@@ -1,0 +1,18 @@
+series: The Last Kingdom
+season: 3
+episode: 1
+title: Episode 1
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: INTRO
+    start: 76.6
+    end: 136.89999999999998
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2922
+    end: 3000
+    confidence: 0.93
+    source: manual

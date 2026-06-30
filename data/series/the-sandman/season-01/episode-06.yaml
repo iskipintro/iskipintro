@@ -1,0 +1,23 @@
+series: The Sandman
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 90857
+imdb_id: tt1751634
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 77.3
+    end: 125.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2625
+    end: 2700
+    confidence: 0.96
+    source: manual

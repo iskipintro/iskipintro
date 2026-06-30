@@ -1,0 +1,18 @@
+series: The Haunting of Hill House
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 70593
+imdb_id: tt6763664
+anime: false
+markers:
+  - type: INTRO
+    start: 51.2
+    end: 135.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2915.4
+    end: 3000
+    confidence: 0.99
+    source: manual

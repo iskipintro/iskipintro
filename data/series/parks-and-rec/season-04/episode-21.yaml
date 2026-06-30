@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 4
+episode: 21
+title: Episode 21
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.3
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 103.4
+    end: 151.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1231.3
+    end: 1320
+    confidence: 0.95
+    source: manual

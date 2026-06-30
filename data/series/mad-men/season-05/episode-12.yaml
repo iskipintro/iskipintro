@@ -1,0 +1,23 @@
+series: Mad Men
+season: 5
+episode: 12
+title: Episode 12
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 43.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 65.4
+    end: 116.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2794
+    end: 2880
+    confidence: 0.95
+    source: manual

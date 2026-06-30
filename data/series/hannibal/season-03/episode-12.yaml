@@ -1,0 +1,23 @@
+series: Hannibal
+season: 3
+episode: 12
+title: The Number of the Beast Is 666
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 79.8
+    end: 142.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2568.5
+    end: 2640
+    confidence: 0.95
+    source: manual

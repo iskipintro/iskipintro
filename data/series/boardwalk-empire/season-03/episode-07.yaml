@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 3
+episode: 7
+title: Episode 7
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 97.2
+    end: 167.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3191.7
+    end: 3300
+    confidence: 0.98
+    source: manual

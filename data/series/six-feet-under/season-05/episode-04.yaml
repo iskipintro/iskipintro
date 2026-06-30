@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 5
+episode: 4
+title: Episode 4
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 50.6
+    end: 125.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3231.3
+    end: 3300
+    confidence: 0.98
+    source: manual

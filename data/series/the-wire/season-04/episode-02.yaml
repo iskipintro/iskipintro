@@ -1,0 +1,23 @@
+series: The Wire
+season: 4
+episode: 2
+title: Episode 2
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 104.4
+    end: 161.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3486.3
+    end: 3600
+    confidence: 0.99
+    source: manual

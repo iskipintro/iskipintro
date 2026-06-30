@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 5
+episode: 15
+title: Correspondents' Lunch
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 97.9
+    end: 173
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1201.9
+    end: 1320
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: The Expanse
+season: 3
+episode: 12
+title: Congregation
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.7
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 87.1
+    end: 146
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2586.3
+    end: 2700
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 2
+episode: 19
+title: Shibuya Incident XIV
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.5
+    confidence: 0.94
+    source: manual
+  - type: OPENING
+    start: 101
+    end: 172.3
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1348.1
+    end: 1440
+    confidence: 0.96
+    source: manual

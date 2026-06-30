@@ -1,0 +1,20 @@
+title: The Green Mile
+year: 1999
+tmdb_id: 497
+imdb_id: tt0120689
+markers:
+  - type: INTRO
+    start: 0
+    end: 119.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 11187.8
+    end: 11340
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 11347.9
+    end: 11433.6
+    confidence: 0.81
+    source: manual

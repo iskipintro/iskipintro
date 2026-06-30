@@ -1,0 +1,15 @@
+title: The Road Warrior
+year: 1981
+tmdb_id: 9561
+imdb_id: tt0082694
+markers:
+  - type: INTRO
+    start: 0
+    end: 71.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5637.9
+    end: 5760
+    confidence: 0.96
+    source: manual

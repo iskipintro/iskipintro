@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 6
+title: Imprisoned
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.8
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 84.2
+    end: 163.5
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1306.9
+    end: 1380
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Dexter
+season: 1
+episode: 9
+title: Episode 9
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 70.5
+    end: 142.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3066.4
+    end: 3180
+    confidence: 0.93
+    source: manual

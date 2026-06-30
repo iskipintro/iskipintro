@@ -1,0 +1,23 @@
+series: Chainsaw Man
+season: 1
+episode: 10
+title: A Dog's Feelings
+tmdb_id: 127646
+imdb_id: tt13616990
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.2
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 62.9
+    end: 122.2
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1333.9
+    end: 1440
+    confidence: 0.97
+    source: manual

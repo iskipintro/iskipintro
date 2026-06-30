@@ -1,0 +1,23 @@
+series: Hannibal
+season: 1
+episode: 10
+title: Buffet Froid
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.3
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 69
+    end: 120
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2552.4
+    end: 2640
+    confidence: 0.94
+    source: manual

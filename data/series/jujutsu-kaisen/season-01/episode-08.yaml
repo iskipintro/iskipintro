@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 1
+episode: 8
+title: Boredom
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.2
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 75.9
+    end: 145.7
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1329.1
+    end: 1440
+    confidence: 0.94
+    source: manual

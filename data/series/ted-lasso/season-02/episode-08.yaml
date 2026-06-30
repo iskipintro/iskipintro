@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 2
+episode: 8
+title: Man City
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 69
+    end: 141.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1714.7
+    end: 1800
+    confidence: 0.93
+    source: manual

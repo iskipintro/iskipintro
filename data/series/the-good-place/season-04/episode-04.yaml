@@ -1,0 +1,23 @@
+series: The Good Place
+season: 4
+episode: 4
+title: Tinker, Tailor, Demon, Spy
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.2
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 73.6
+    end: 141.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1256.3
+    end: 1320
+    confidence: 0.97
+    source: manual

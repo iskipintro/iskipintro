@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 4
+title: Final Selection
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.1
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 101.4
+    end: 149
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1375.1
+    end: 1440
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Community
+season: 3
+episode: 3
+title: Remedial Chaos Theory
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.7
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 115.5
+    end: 180.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1236.6
+    end: 1320
+    confidence: 0.95
+    source: manual

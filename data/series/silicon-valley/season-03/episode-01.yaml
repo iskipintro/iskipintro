@@ -1,0 +1,18 @@
+series: Silicon Valley
+season: 3
+episode: 1
+title: Episode 1
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: INTRO
+    start: 58.9
+    end: 173.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1613.4
+    end: 1680
+    confidence: 0.95
+    source: manual

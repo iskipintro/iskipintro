@@ -1,0 +1,23 @@
+series: Daredevil
+season: 1
+episode: 11
+title: Episode 11
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.5
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 74.9
+    end: 149.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2937.4
+    end: 3000
+    confidence: 0.96
+    source: manual

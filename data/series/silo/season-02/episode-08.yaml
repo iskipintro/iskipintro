@@ -1,0 +1,23 @@
+series: Silo
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 125988
+imdb_id: tt14688458
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 87.2
+    end: 150.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2907.3
+    end: 3000
+    confidence: 0.95
+    source: manual

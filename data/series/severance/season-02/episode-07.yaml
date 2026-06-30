@@ -1,0 +1,23 @@
+series: Severance
+season: 2
+episode: 7
+title: The Cold Harbor
+tmdb_id: 95396
+imdb_id: tt11280740
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 94.1
+    end: 171.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2886.3
+    end: 3000
+    confidence: 0.99
+    source: manual

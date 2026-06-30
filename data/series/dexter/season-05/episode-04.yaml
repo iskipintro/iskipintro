@@ -1,0 +1,23 @@
+series: Dexter
+season: 5
+episode: 4
+title: Episode 4
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 72.3
+    end: 162.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3068.3
+    end: 3180
+    confidence: 0.97
+    source: manual

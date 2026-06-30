@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 2
+episode: 23
+title: Shibuya Incident XVIII
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.2
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 108.7
+    end: 170.2
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1334.9
+    end: 1440
+    confidence: 0.99
+    source: manual

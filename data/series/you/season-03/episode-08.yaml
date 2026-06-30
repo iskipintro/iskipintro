@@ -1,0 +1,23 @@
+series: You
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.8
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 67.8
+    end: 166.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2580.5
+    end: 2700
+    confidence: 0.96
+    source: manual

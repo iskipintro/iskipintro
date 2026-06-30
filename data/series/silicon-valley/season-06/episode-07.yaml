@@ -1,0 +1,23 @@
+series: Silicon Valley
+season: 6
+episode: 7
+title: Episode 7
+tmdb_id: 63056
+imdb_id: tt2575988
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 107.1
+    end: 207.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1603.2
+    end: 1680
+    confidence: 0.98
+    source: manual

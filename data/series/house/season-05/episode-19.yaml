@@ -1,0 +1,23 @@
+series: House M.D.
+season: 5
+episode: 19
+title: Episode 19
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 65.9
+    end: 145.1
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2544.3
+    end: 2640
+    confidence: 0.97
+    source: manual

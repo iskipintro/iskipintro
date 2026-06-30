@@ -1,0 +1,23 @@
+series: The Leftovers
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 62051
+imdb_id: tt2699128
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 98.8
+    end: 184.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3234.9
+    end: 3300
+    confidence: 0.98
+    source: manual

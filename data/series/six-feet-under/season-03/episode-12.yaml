@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 3
+episode: 12
+title: Episode 12
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.5
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 102
+    end: 201
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3192.5
+    end: 3300
+    confidence: 0.97
+    source: manual

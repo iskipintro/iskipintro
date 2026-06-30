@@ -1,0 +1,15 @@
+title: Singin' in the Rain
+year: 1952
+tmdb_id: 872
+imdb_id: tt0045152
+markers:
+  - type: INTRO
+    start: 0
+    end: 165.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5973.3
+    end: 6180
+    confidence: 0.93
+    source: manual

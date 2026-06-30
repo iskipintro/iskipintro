@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 7
+episode: 7
+title: The Johnny Karate Super Awesome Musical Explosion Show
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 87.7
+    end: 140.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1256
+    end: 1320
+    confidence: 0.98
+    source: manual

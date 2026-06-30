@@ -1,0 +1,23 @@
+series: Arcane
+season: 2
+episode: 9
+title: The Dirt Under Your Nails
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.4
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 81.7
+    end: 174.8
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 2331.4
+    end: 2400
+    confidence: 0.96
+    source: manual

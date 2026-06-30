@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 20
+title: Pierrot le Fou
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 57.5
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 76.8
+    end: 161.5
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1322.1
+    end: 1440
+    confidence: 0.97
+    source: manual

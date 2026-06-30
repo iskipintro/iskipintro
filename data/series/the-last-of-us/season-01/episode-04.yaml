@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 1
+episode: 4
+title: Please Hold to My Hand
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 57
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 64.8
+    end: 147
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3204.7
+    end: 3300
+    confidence: 0.96
+    source: manual

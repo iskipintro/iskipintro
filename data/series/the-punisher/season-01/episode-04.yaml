@@ -1,0 +1,23 @@
+series: The Punisher
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 67177
+imdb_id: tt7468410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.1
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 74.3
+    end: 134.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2934.8
+    end: 3000
+    confidence: 0.95
+    source: manual

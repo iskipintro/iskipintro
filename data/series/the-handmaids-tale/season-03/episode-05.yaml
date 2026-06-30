@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 3
+episode: 5
+title: Episode 5
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.4
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 91.7
+    end: 139.9
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2917.6
+    end: 3000
+    confidence: 0.97
+    source: manual

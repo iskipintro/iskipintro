@@ -1,0 +1,15 @@
+title: Once Upon a Time in the West
+year: 1968
+tmdb_id: 820
+imdb_id: tt0064116
+markers:
+  - type: INTRO
+    start: 0
+    end: 105
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 10319.5
+    end: 10500
+    confidence: 0.97
+    source: manual

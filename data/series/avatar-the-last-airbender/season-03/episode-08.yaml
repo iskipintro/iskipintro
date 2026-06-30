@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 8
+title: The Puppetmaster
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.1
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 79.8
+    end: 145.4
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1308.7
+    end: 1380
+    confidence: 0.97
+    source: manual

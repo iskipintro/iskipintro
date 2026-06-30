@@ -1,0 +1,23 @@
+series: Mad Men
+season: 3
+episode: 13
+title: Episode 13
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 75
+    end: 141.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2774.8
+    end: 2880
+    confidence: 0.95
+    source: manual

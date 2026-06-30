@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 3
+episode: 14
+title: Episode 14
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 89.3
+    end: 137.1
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2816.7
+    end: 2880
+    confidence: 0.99
+    source: manual

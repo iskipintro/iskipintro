@@ -1,0 +1,20 @@
+title: Edge of Tomorrow
+year: 2014
+tmdb_id: 137113
+imdb_id: tt1631867
+markers:
+  - type: INTRO
+    start: 0
+    end: 173
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6631.6
+    end: 6780
+    confidence: 0.96
+    source: manual
+  - type: POST_CREDIT
+    start: 6801.5
+    end: 6861.8
+    confidence: 0.82
+    source: manual

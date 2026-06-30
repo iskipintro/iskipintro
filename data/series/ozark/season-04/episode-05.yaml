@@ -1,0 +1,23 @@
+series: Ozark
+season: 4
+episode: 5
+title: Ellie
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.3
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 95.8
+    end: 191
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3205.7
+    end: 3300
+    confidence: 0.97
+    source: manual

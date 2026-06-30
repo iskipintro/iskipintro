@@ -1,0 +1,23 @@
+series: House M.D.
+season: 6
+episode: 14
+title: Episode 14
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.1
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 75.9
+    end: 147.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2573
+    end: 2640
+    confidence: 0.99
+    source: manual

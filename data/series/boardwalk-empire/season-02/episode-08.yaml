@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 107.1
+    end: 164.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3227.7
+    end: 3300
+    confidence: 0.95
+    source: manual

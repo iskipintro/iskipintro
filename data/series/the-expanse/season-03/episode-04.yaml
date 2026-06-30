@@ -1,0 +1,23 @@
+series: The Expanse
+season: 3
+episode: 4
+title: Reload
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 83.5
+    end: 165.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2605.6
+    end: 2700
+    confidence: 0.93
+    source: manual

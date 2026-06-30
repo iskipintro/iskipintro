@@ -1,0 +1,18 @@
+series: The Expanse
+season: 1
+episode: 1
+title: Dulcinea
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: INTRO
+    start: 84.4
+    end: 171.10000000000002
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2602.6
+    end: 2700
+    confidence: 0.96
+    source: manual

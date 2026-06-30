@@ -1,0 +1,23 @@
+series: Mad Men
+season: 4
+episode: 9
+title: Episode 9
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.6
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 96.1
+    end: 152.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2806.3
+    end: 2880
+    confidence: 0.93
+    source: manual

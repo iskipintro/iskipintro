@@ -1,0 +1,15 @@
+title: Tombstone
+year: 1993
+tmdb_id: 11969
+imdb_id: tt0108358
+markers:
+  - type: INTRO
+    start: 0
+    end: 162.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7631.4
+    end: 7800
+    confidence: 0.93
+    source: manual

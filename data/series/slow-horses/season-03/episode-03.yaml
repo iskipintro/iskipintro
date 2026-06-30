@@ -1,0 +1,23 @@
+series: Slow Horses
+season: 3
+episode: 3
+title: Episode 3
+tmdb_id: 95480
+imdb_id: tt5875444
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 91.5
+    end: 175.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2786.7
+    end: 2880
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: Penny Dreadful
+season: 2
+episode: 7
+title: Episode 7
+tmdb_id: 56724
+imdb_id: tt2628232
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 104.7
+    end: 195.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2939.7
+    end: 3000
+    confidence: 0.95
+    source: manual

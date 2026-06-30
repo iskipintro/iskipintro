@@ -1,0 +1,23 @@
+series: House M.D.
+season: 5
+episode: 11
+title: Episode 11
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.6
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 84
+    end: 173.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2550.2
+    end: 2640
+    confidence: 0.94
+    source: manual

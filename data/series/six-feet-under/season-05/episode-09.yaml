@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 5
+episode: 9
+title: Episode 9
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 109.7
+    end: 163.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3225.6
+    end: 3300
+    confidence: 0.97
+    source: manual

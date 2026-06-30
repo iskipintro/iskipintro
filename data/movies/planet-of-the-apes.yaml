@@ -1,0 +1,20 @@
+title: Planet of the Apes
+year: 1968
+tmdb_id: 871
+imdb_id: tt0063442
+markers:
+  - type: INTRO
+    start: 0
+    end: 128
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6596.1
+    end: 6720
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 6729.5
+    end: 6763.6
+    confidence: 0.79
+    source: manual

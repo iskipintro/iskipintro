@@ -1,0 +1,18 @@
+series: You
+season: 3
+episode: 1
+title: Episode 1
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: INTRO
+    start: 36.9
+    end: 99.19999999999999
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2582.7
+    end: 2700
+    confidence: 0.94
+    source: manual

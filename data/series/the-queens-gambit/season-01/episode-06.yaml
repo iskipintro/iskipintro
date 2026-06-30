@@ -1,0 +1,23 @@
+series: The Queen's Gambit
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 93474
+imdb_id: tt10048342
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.6
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 67.2
+    end: 121.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2917.9
+    end: 3000
+    confidence: 0.98
+    source: manual

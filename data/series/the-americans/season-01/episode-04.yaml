@@ -1,0 +1,23 @@
+series: The Americans
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.5
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 77.9
+    end: 154.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2570.6
+    end: 2640
+    confidence: 0.95
+    source: manual

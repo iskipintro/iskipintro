@@ -1,0 +1,18 @@
+series: House of the Dragon
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 94997
+imdb_id: tt11198330
+anime: false
+markers:
+  - type: INTRO
+    start: 81.7
+    end: 176.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3526.3
+    end: 3600
+    confidence: 0.93
+    source: manual

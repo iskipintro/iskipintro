@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 2
+episode: 6
+title: The Blind Bandit
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.4
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 82.3
+    end: 131
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1267
+    end: 1380
+    confidence: 0.94
+    source: manual

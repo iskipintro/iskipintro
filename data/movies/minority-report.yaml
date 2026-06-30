@@ -1,0 +1,15 @@
+title: Minority Report
+year: 2002
+tmdb_id: 180
+imdb_id: tt0181689
+markers:
+  - type: INTRO
+    start: 0
+    end: 132.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8536
+    end: 8700
+    confidence: 0.96
+    source: manual

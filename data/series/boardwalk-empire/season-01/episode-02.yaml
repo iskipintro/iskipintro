@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.5
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 104.4
+    end: 159.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3237.9
+    end: 3300
+    confidence: 0.96
+    source: manual

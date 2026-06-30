@@ -1,0 +1,23 @@
+series: Invincible
+season: 3
+episode: 8
+title: I Didn't Do It
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.5
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 67.6
+    end: 123.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2793.7
+    end: 2880
+    confidence: 0.99
+    source: manual

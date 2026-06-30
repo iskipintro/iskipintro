@@ -1,0 +1,15 @@
+title: First Blood
+year: 1982
+tmdb_id: 1368
+imdb_id: tt0083944
+markers:
+  - type: INTRO
+    start: 0
+    end: 163.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5400.6
+    end: 5580
+    confidence: 0.93
+    source: manual

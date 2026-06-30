@@ -1,0 +1,23 @@
+series: Westworld
+season: 2
+episode: 10
+title: The Passenger
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.5
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 103.1
+    end: 196.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3491.8
+    end: 3600
+    confidence: 0.95
+    source: manual

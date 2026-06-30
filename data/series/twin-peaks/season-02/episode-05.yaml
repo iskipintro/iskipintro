@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 5
+title: Episode 5
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 78.2
+    end: 136.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2776.6
+    end: 2880
+    confidence: 0.98
+    source: manual

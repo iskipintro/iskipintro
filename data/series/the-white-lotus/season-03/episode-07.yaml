@@ -1,0 +1,23 @@
+series: The White Lotus
+season: 3
+episode: 7
+title: Episode 7
+tmdb_id: 114410
+imdb_id: tt13406094
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.9
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 101.4
+    end: 175.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3210
+    end: 3300
+    confidence: 0.94
+    source: manual

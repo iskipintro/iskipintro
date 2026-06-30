@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 6
+episode: 7
+title: Episode 7
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.1
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 62.8
+    end: 123.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1695.5
+    end: 1800
+    confidence: 0.97
+    source: manual

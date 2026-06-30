@@ -1,0 +1,23 @@
+series: The Night Of
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 69990
+imdb_id: tt2401256
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 98.6
+    end: 158.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3519.5
+    end: 3600
+    confidence: 0.93
+    source: manual

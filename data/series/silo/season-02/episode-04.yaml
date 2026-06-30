@@ -1,0 +1,23 @@
+series: Silo
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 125988
+imdb_id: tt14688458
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 95.9
+    end: 183.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2938.6
+    end: 3000
+    confidence: 0.96
+    source: manual

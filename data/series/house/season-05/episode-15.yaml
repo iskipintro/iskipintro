@@ -1,0 +1,23 @@
+series: House M.D.
+season: 5
+episode: 15
+title: Episode 15
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 53.4
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 60.9
+    end: 108.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2544.8
+    end: 2640
+    confidence: 0.98
+    source: manual

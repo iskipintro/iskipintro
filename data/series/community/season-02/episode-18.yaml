@@ -1,0 +1,23 @@
+series: Community
+season: 2
+episode: 18
+title: Custody Law and Eastern European Diplomacy
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 107.1
+    end: 194.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1202.7
+    end: 1320
+    confidence: 0.94
+    source: manual

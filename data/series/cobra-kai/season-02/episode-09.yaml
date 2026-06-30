@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 96.2
+    end: 185
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1728.3
+    end: 1800
+    confidence: 0.98
+    source: manual

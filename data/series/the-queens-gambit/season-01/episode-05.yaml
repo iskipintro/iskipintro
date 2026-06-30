@@ -1,0 +1,23 @@
+series: The Queen's Gambit
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 93474
+imdb_id: tt10048342
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 67.9
+    end: 140.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2911.5
+    end: 3000
+    confidence: 0.98
+    source: manual

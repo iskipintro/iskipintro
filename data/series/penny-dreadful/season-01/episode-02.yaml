@@ -1,0 +1,23 @@
+series: Penny Dreadful
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 56724
+imdb_id: tt2628232
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.5
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 77.8
+    end: 140.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2922.9
+    end: 3000
+    confidence: 0.98
+    source: manual

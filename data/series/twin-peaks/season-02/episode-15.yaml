@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 15
+title: Episode 15
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.3
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 103.6
+    end: 191.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2809.6
+    end: 2880
+    confidence: 0.96
+    source: manual

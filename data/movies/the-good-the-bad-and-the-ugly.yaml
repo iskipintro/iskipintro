@@ -1,0 +1,20 @@
+title: The Good, the Bad and the Ugly
+year: 1966
+tmdb_id: 429
+imdb_id: tt0060196
+markers:
+  - type: INTRO
+    start: 0
+    end: 158.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 10467.2
+    end: 10680
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 10696.9
+    end: 10764.199999999999
+    confidence: 0.8
+    source: manual

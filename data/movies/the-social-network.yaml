@@ -1,0 +1,20 @@
+title: The Social Network
+year: 2010
+tmdb_id: 37799
+imdb_id: tt1285016
+markers:
+  - type: INTRO
+    start: 0
+    end: 71.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6997.4
+    end: 7200
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 7224.1
+    end: 7314.8
+    confidence: 0.85
+    source: manual

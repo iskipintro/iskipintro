@@ -1,0 +1,23 @@
+series: Dexter
+season: 4
+episode: 8
+title: Episode 8
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 93.8
+    end: 167.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3094.7
+    end: 3180
+    confidence: 0.95
+    source: manual

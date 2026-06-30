@@ -1,0 +1,23 @@
+series: Community
+season: 2
+episode: 11
+title: Abed's Uncontrollable Christmas
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.2
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 74.4
+    end: 154.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1212.2
+    end: 1320
+    confidence: 0.98
+    source: manual

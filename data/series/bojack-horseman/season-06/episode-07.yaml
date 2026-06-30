@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 6
+episode: 7
+title: The Face of Depression
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.2
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 84
+    end: 158
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1423.6
+    end: 1500
+    confidence: 0.97
+    source: manual

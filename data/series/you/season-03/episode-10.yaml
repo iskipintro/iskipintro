@@ -1,0 +1,23 @@
+series: You
+season: 3
+episode: 10
+title: Episode 10
+tmdb_id: 78191
+imdb_id: tt7335184
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.2
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 99.6
+    end: 154.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2595.4
+    end: 2700
+    confidence: 0.93
+    source: manual

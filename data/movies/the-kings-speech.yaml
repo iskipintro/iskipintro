@@ -1,0 +1,20 @@
+title: The King's Speech
+year: 2010
+tmdb_id: 45269
+imdb_id: tt1504320
+markers:
+  - type: INTRO
+    start: 0
+    end: 147.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6860.1
+    end: 7080
+    confidence: 0.96
+    source: manual
+  - type: POST_CREDIT
+    start: 7096.9
+    end: 7157.299999999999
+    confidence: 0.82
+    source: manual

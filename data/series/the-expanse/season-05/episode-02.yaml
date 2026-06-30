@@ -1,0 +1,23 @@
+series: The Expanse
+season: 5
+episode: 2
+title: Churn
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.7
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 105.5
+    end: 180.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2595.2
+    end: 2700
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,23 @@
+series: Veep
+season: 4
+episode: 3
+title: Episode 3
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 52
+    end: 140.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1608.1
+    end: 1680
+    confidence: 0.98
+    source: manual

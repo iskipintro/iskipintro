@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 9
+title: Nightmares and Daydreams
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.1
+    confidence: 0.99
+    source: manual
+  - type: OPENING
+    start: 73.5
+    end: 144.6
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1291.5
+    end: 1380
+    confidence: 0.93
+    source: manual

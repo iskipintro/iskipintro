@@ -1,0 +1,23 @@
+series: Ozark
+season: 1
+episode: 3
+title: My Dripping Sleep
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.1
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 92.3
+    end: 165.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3233.7
+    end: 3300
+    confidence: 0.95
+    source: manual

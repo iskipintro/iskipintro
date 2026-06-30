@@ -1,0 +1,23 @@
+series: Penny Dreadful
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 56724
+imdb_id: tt2628232
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.9
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 78.6
+    end: 158.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2907.6
+    end: 3000
+    confidence: 0.95
+    source: manual

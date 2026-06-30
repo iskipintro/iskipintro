@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 3
+episode: 3
+title: Episode 3
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 100.5
+    end: 157.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2880.5
+    end: 3000
+    confidence: 0.96
+    source: manual

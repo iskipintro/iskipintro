@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 3
+title: The Painted Lady
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.3
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 65.4
+    end: 164.7
+    confidence: 0.95
+    source: manual
+  - type: ENDING
+    start: 1300.9
+    end: 1380
+    confidence: 0.97
+    source: manual

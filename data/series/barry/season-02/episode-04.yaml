@@ -1,0 +1,23 @@
+series: Barry
+season: 2
+episode: 4
+title: Episode 4
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 94.4
+    end: 147.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1729
+    end: 1800
+    confidence: 0.94
+    source: manual

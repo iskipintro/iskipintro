@@ -1,0 +1,23 @@
+series: The Good Place
+season: 3
+episode: 10
+title: The Book of Dougs
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 70.5
+    end: 134.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1211.4
+    end: 1320
+    confidence: 0.93
+    source: manual

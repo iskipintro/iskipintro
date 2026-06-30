@@ -1,0 +1,23 @@
+series: Ozark
+season: 2
+episode: 7
+title: One Way Out
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.9
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 77.1
+    end: 174.3
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3226.5
+    end: 3300
+    confidence: 0.94
+    source: manual

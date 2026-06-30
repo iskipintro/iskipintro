@@ -1,0 +1,23 @@
+series: Community
+season: 1
+episode: 15
+title: Basic Genealogy
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 72.2
+    end: 156.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1205.9
+    end: 1320
+    confidence: 0.97
+    source: manual

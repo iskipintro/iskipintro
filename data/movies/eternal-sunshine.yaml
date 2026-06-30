@@ -1,0 +1,15 @@
+title: Eternal Sunshine of the Spotless Mind
+year: 2004
+tmdb_id: 38
+imdb_id: tt0338013
+markers:
+  - type: INTRO
+    start: 0
+    end: 69.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 6258.6
+    end: 6480
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Steins;Gate
+season: 1
+episode: 2
+title: Time Travel Paranoia
+tmdb_id: 46532
+imdb_id: tt1910272
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 53
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 67.4
+    end: 162.8
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1371.8
+    end: 1440
+    confidence: 0.93
+    source: manual

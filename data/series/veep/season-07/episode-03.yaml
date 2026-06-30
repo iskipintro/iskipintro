@@ -1,0 +1,23 @@
+series: Veep
+season: 7
+episode: 3
+title: Episode 3
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.5
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 109.1
+    end: 189.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1602.7
+    end: 1680
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: Ozark
+season: 3
+episode: 10
+title: All In
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.1
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 63.1
+    end: 148.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3213.4
+    end: 3300
+    confidence: 0.94
+    source: manual

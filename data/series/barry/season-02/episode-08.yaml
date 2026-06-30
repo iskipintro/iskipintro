@@ -1,0 +1,23 @@
+series: Barry
+season: 2
+episode: 8
+title: Episode 8
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.6
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 58.5
+    end: 118.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1700.9
+    end: 1800
+    confidence: 0.98
+    source: manual

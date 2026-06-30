@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 2
+episode: 17
+title: Shibuya Incident XII
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.2
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 70.3
+    end: 170.1
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1326.4
+    end: 1440
+    confidence: 0.93
+    source: manual

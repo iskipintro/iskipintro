@@ -1,0 +1,15 @@
+title: Home Alone
+year: 1990
+tmdb_id: 771
+imdb_id: tt0099785
+markers:
+  - type: INTRO
+    start: 0
+    end: 90.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 6014.7
+    end: 6180
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,20 @@
+title: WALL-E
+year: 2008
+tmdb_id: 10681
+imdb_id: tt0910970
+markers:
+  - type: INTRO
+    start: 0
+    end: 77.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 5665.7
+    end: 5880
+    confidence: 0.93
+    source: manual
+  - type: POST_CREDIT
+    start: 5907.2
+    end: 5975.8
+    confidence: 0.89
+    source: manual

@@ -1,0 +1,23 @@
+series: The Punisher
+season: 1
+episode: 7
+title: Episode 7
+tmdb_id: 67177
+imdb_id: tt7468410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.1
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 97.3
+    end: 187.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2925.6
+    end: 3000
+    confidence: 0.93
+    source: manual

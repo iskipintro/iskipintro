@@ -1,0 +1,23 @@
+series: The Fall of the House of Usher
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 154385
+imdb_id: tt15518840
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.9
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 58.7
+    end: 117
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3198.4
+    end: 3300
+    confidence: 0.96
+    source: manual

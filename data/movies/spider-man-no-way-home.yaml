@@ -1,0 +1,20 @@
+title: "Spider-Man: No Way Home"
+year: 2021
+tmdb_id: 634649
+imdb_id: tt10872600
+markers:
+  - type: INTRO
+    start: 0
+    end: 102.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8710.6
+    end: 8880
+    confidence: 0.94
+    source: manual
+  - type: POST_CREDIT
+    start: 8897.6
+    end: 8989.1
+    confidence: 0.89
+    source: manual

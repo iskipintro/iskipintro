@@ -1,0 +1,18 @@
+series: Cobra Kai
+season: 2
+episode: 1
+title: Episode 1
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: INTRO
+    start: 83.1
+    end: 150
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1738.7
+    end: 1800
+    confidence: 0.97
+    source: manual

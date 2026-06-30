@@ -1,0 +1,23 @@
+series: Westworld
+season: 1
+episode: 7
+title: Trompe L'Oeil
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.9
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 62.4
+    end: 107.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3515.1
+    end: 3600
+    confidence: 0.96
+    source: manual

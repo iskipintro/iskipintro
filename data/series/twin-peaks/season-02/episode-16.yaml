@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 16
+title: Episode 16
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66.9
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 75
+    end: 134
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2804.5
+    end: 2880
+    confidence: 0.97
+    source: manual

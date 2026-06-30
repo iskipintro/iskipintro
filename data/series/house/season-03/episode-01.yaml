@@ -1,0 +1,18 @@
+series: House M.D.
+season: 3
+episode: 1
+title: Episode 1
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: INTRO
+    start: 36.2
+    end: 97.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2542.5
+    end: 2640
+    confidence: 0.97
+    source: manual

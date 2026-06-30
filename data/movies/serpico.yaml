@@ -1,0 +1,20 @@
+title: Serpico
+year: 1973
+tmdb_id: 11527
+imdb_id: tt0070666
+markers:
+  - type: INTRO
+    start: 0
+    end: 81.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7625.9
+    end: 7800
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7829.6
+    end: 7906.200000000001
+    confidence: 0.78
+    source: manual

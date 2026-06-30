@@ -1,0 +1,23 @@
+series: Mad Men
+season: 5
+episode: 11
+title: Episode 11
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 88.7
+    end: 136.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2799.5
+    end: 2880
+    confidence: 0.95
+    source: manual

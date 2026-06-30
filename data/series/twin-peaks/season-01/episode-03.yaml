@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 74.4
+    end: 147.3
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2810.3
+    end: 2880
+    confidence: 0.97
+    source: manual

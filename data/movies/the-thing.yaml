@@ -1,0 +1,15 @@
+title: The Thing
+year: 1982
+tmdb_id: 1091
+imdb_id: tt0084787
+markers:
+  - type: INTRO
+    start: 0
+    end: 141.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 6315.4
+    end: 6540
+    confidence: 0.96
+    source: manual

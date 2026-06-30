@@ -1,0 +1,23 @@
+series: Community
+season: 1
+episode: 20
+title: The Art of Discourse
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 96.4
+    end: 186.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1249.3
+    end: 1320
+    confidence: 0.96
+    source: manual

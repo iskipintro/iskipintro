@@ -1,0 +1,23 @@
+series: Mad Men
+season: 6
+episode: 9
+title: Episode 9
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 70.1
+    end: 161.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2797.9
+    end: 2880
+    confidence: 0.93
+    source: manual

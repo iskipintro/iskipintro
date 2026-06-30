@@ -1,0 +1,23 @@
+series: Westworld
+season: 3
+episode: 2
+title: The Winter Line
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 112.2
+    end: 178.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3480.9
+    end: 3600
+    confidence: 0.97
+    source: manual

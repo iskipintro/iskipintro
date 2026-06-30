@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 2
+episode: 19
+title: The Guru
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.7
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 100
+    end: 172.5
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1306.8
+    end: 1380
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: The Wire
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 1438
+imdb_id: tt0306414
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 84.8
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 106.9
+    end: 158.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3520.7
+    end: 3600
+    confidence: 0.98
+    source: manual

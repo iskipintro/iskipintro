@@ -1,0 +1,23 @@
+series: WandaVision
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 85271
+imdb_id: tt9140560
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 94.4
+    end: 157.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1999.2
+    end: 2100
+    confidence: 0.98
+    source: manual

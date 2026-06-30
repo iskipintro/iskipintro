@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 1
+episode: 15
+title: On a Starry Night
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.5
+    confidence: 0.96
+    source: manual
+  - type: OPENING
+    start: 98.3
+    end: 179.2
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 1346.8
+    end: 1440
+    confidence: 0.99
+    source: manual

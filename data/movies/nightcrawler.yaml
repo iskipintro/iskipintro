@@ -1,0 +1,15 @@
+title: Nightcrawler
+year: 2014
+tmdb_id: 242582
+imdb_id: tt2872718
+markers:
+  - type: INTRO
+    start: 0
+    end: 79.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 6847.4
+    end: 7020
+    confidence: 0.96
+    source: manual

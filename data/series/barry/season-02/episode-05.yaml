@@ -1,0 +1,23 @@
+series: Barry
+season: 2
+episode: 5
+title: Episode 5
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 75.5
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 101.8
+    end: 197.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1710.1
+    end: 1800
+    confidence: 0.95
+    source: manual

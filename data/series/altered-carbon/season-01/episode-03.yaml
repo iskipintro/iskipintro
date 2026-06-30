@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.2
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 69.7
+    end: 144.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2890.1
+    end: 3000
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: The Last Kingdom
+season: 5
+episode: 8
+title: Episode 8
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 91.6
+    end: 160.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2929.1
+    end: 3000
+    confidence: 0.98
+    source: manual

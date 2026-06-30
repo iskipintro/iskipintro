@@ -1,0 +1,23 @@
+series: The Expanse
+season: 3
+episode: 6
+title: Immolation
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.3
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 94.1
+    end: 174.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2623.1
+    end: 2700
+    confidence: 0.95
+    source: manual

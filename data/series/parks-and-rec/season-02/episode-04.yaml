@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 2
+episode: 4
+title: Practice Date
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 112.1
+    end: 157.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1208.6
+    end: 1320
+    confidence: 0.95
+    source: manual

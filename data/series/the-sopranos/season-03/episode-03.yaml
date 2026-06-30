@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 3
+episode: 3
+title: Fortunate Son
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 96.6
+    end: 161.3
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3231.9
+    end: 3300
+    confidence: 0.93
+    source: manual

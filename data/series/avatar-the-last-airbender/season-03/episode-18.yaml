@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 18
+title: "Sozin's Comet Part 1: The Phoenix King"
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 77.1
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 91.7
+    end: 139.3
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1296.4
+    end: 1380
+    confidence: 0.93
+    source: manual

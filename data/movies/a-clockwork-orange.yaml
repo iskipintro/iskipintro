@@ -1,0 +1,15 @@
+title: A Clockwork Orange
+year: 1971
+tmdb_id: 185
+imdb_id: tt0066921
+markers:
+  - type: INTRO
+    start: 0
+    end: 158.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 8017.1
+    end: 8160
+    confidence: 0.97
+    source: manual

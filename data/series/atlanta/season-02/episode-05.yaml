@@ -1,0 +1,23 @@
+series: Atlanta
+season: 2
+episode: 5
+title: Episode 5
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 70.2
+    end: 141.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1727.1
+    end: 1800
+    confidence: 0.97
+    source: manual

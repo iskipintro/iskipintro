@@ -1,0 +1,23 @@
+series: Wednesday
+season: 2
+episode: 4
+title: The Curse of the Crescent Moon
+tmdb_id: 119051
+imdb_id: tt13433812
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 70.7
+    end: 144.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2891.1
+    end: 3000
+    confidence: 0.96
+    source: manual

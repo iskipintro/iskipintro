@@ -1,0 +1,23 @@
+series: WandaVision
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 85271
+imdb_id: tt9140560
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 64.3
+    end: 135.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1985.7
+    end: 2100
+    confidence: 0.94
+    source: manual

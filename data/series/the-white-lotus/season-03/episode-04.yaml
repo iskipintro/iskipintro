@@ -1,0 +1,23 @@
+series: The White Lotus
+season: 3
+episode: 4
+title: Episode 4
+tmdb_id: 114410
+imdb_id: tt13406094
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 85.6
+    end: 163.3
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3190.9
+    end: 3300
+    confidence: 0.96
+    source: manual

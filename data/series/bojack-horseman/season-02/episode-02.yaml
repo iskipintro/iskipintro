@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 2
+episode: 2
+title: Yesterdayland
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.6
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 103.5
+    end: 196.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1403.8
+    end: 1500
+    confidence: 0.96
+    source: manual

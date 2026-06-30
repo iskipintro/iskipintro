@@ -1,0 +1,23 @@
+series: Arcane
+season: 2
+episode: 2
+title: Watch It All Burn
+tmdb_id: 94605
+imdb_id: tt11126994
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.5
+    confidence: 0.98
+    source: manual
+  - type: OPENING
+    start: 78.4
+    end: 172.6
+    confidence: 0.96
+    source: manual
+  - type: ENDING
+    start: 2335.2
+    end: 2400
+    confidence: 0.93
+    source: manual

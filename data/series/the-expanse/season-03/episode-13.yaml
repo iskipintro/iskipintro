@@ -1,0 +1,23 @@
+series: The Expanse
+season: 3
+episode: 13
+title: Abaddon's Gate
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59.1
+    end: 130.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2587.5
+    end: 2700
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,18 @@
+series: Six Feet Under
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: INTRO
+    start: 87.2
+    end: 166.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3238.7
+    end: 3300
+    confidence: 0.99
+    source: manual

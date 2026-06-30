@@ -1,0 +1,23 @@
+series: The Punisher
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 67177
+imdb_id: tt7468410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 86.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 100.3
+    end: 180.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2931.6
+    end: 3000
+    confidence: 0.96
+    source: manual

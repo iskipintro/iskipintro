@@ -1,0 +1,23 @@
+series: The Expanse
+season: 2
+episode: 13
+title: Caliban's War
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.4
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 59.5
+    end: 155.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2593.5
+    end: 2700
+    confidence: 0.96
+    source: manual

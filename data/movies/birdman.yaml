@@ -1,0 +1,15 @@
+title: Birdman
+year: 2014
+tmdb_id: 194662
+imdb_id: tt2562232
+markers:
+  - type: INTRO
+    start: 0
+    end: 168.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6903.5
+    end: 7140
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 2
+episode: 9
+title: The Shot
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.3
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 78.5
+    end: 143.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1418.9
+    end: 1500
+    confidence: 0.96
+    source: manual

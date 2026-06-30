@@ -1,0 +1,23 @@
+series: Westworld
+season: 4
+episode: 5
+title: Zhuangzi
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 51.3
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 65.2
+    end: 141
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3484.7
+    end: 3600
+    confidence: 0.96
+    source: manual

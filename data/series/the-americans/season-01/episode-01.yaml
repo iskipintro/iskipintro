@@ -1,0 +1,18 @@
+series: The Americans
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: INTRO
+    start: 44.1
+    end: 107.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2563.8
+    end: 2640
+    confidence: 0.96
+    source: manual

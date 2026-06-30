@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.4
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 57.6
+    end: 141.4
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2934.9
+    end: 3000
+    confidence: 0.96
+    source: manual

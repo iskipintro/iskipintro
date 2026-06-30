@@ -1,0 +1,23 @@
+series: Wednesday
+season: 2
+episode: 6
+title: The Final Exam
+tmdb_id: 119051
+imdb_id: tt13433812
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 61.4
+    end: 109.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2919.4
+    end: 3000
+    confidence: 0.94
+    source: manual

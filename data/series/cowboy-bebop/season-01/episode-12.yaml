@@ -1,0 +1,23 @@
+series: Cowboy Bebop
+season: 1
+episode: 12
+title: Jupiter Jazz (Part 1)
+tmdb_id: 20686
+imdb_id: tt0213338
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.9
+    confidence: 0.92
+    source: manual
+  - type: OPENING
+    start: 96.3
+    end: 161.1
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1346.9
+    end: 1440
+    confidence: 0.93
+    source: manual

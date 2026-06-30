@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 1
+episode: 2
+title: Biscuits
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.2
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 76.4
+    end: 174.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1693
+    end: 1800
+    confidence: 0.98
+    source: manual

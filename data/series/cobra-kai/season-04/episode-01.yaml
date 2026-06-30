@@ -1,0 +1,18 @@
+series: Cobra Kai
+season: 4
+episode: 1
+title: Episode 1
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: INTRO
+    start: 70.2
+    end: 162.60000000000002
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1731.4
+    end: 1800
+    confidence: 0.97
+    source: manual

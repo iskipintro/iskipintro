@@ -1,0 +1,23 @@
+series: Rome
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 463
+imdb_id: tt0384766
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.5
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 101.7
+    end: 180.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2918.1
+    end: 3000
+    confidence: 0.93
+    source: manual

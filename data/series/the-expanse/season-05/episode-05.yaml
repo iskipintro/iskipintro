@@ -1,0 +1,23 @@
+series: The Expanse
+season: 5
+episode: 5
+title: Down and Out
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.8
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 76
+    end: 157.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2636.9
+    end: 2700
+    confidence: 0.99
+    source: manual

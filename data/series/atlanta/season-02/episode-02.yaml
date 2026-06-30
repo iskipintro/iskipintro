@@ -1,0 +1,23 @@
+series: Atlanta
+season: 2
+episode: 2
+title: Episode 2
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.6
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 76.4
+    end: 148.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1691.9
+    end: 1800
+    confidence: 0.93
+    source: manual

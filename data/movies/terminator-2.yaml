@@ -1,0 +1,20 @@
+title: "Terminator 2: Judgment Day"
+year: 1991
+tmdb_id: 280
+imdb_id: tt0103064
+markers:
+  - type: INTRO
+    start: 0
+    end: 106.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8042.9
+    end: 8220
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 8236.9
+    end: 8325.4
+    confidence: 0.88
+    source: manual

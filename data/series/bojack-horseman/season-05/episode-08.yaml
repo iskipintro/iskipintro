@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 5
+episode: 8
+title: The Showstopper
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.6
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 84.7
+    end: 158
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1414.7
+    end: 1500
+    confidence: 0.98
+    source: manual

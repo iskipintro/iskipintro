@@ -1,0 +1,23 @@
+series: Six Feet Under
+season: 4
+episode: 11
+title: Episode 11
+tmdb_id: 1809
+imdb_id: tt0248654
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.5
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 54.4
+    end: 101.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3197.2
+    end: 3300
+    confidence: 0.93
+    source: manual

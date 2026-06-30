@@ -1,0 +1,23 @@
+series: Westworld
+season: 1
+episode: 4
+title: Dissonance Theory
+tmdb_id: 63247
+imdb_id: tt0475784
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.3
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 71
+    end: 122.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3491
+    end: 3600
+    confidence: 0.96
+    source: manual

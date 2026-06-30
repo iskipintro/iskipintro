@@ -1,0 +1,23 @@
+series: Veep
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79.8
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 98.5
+    end: 192.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1617.3
+    end: 1680
+    confidence: 0.94
+    source: manual

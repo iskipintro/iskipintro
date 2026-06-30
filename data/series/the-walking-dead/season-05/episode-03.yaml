@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 5
+episode: 3
+title: Four Walls and a Roof
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 58.4
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 71.8
+    end: 126
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2602.6
+    end: 2700
+    confidence: 0.99
+    source: manual

@@ -1,0 +1,23 @@
+series: Jujutsu Kaisen
+season: 1
+episode: 13
+title: Tomorrow
+tmdb_id: 113737
+imdb_id: tt12343534
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.7
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 85.5
+    end: 175.6
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1371.7
+    end: 1440
+    confidence: 0.99
+    source: manual

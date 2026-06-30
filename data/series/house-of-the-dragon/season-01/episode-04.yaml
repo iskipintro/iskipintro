@@ -1,0 +1,23 @@
+series: House of the Dragon
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 94997
+imdb_id: tt11198330
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.2
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 84.5
+    end: 171.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3505.2
+    end: 3600
+    confidence: 0.94
+    source: manual

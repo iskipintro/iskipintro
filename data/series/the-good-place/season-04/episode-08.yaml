@@ -1,0 +1,23 @@
+series: The Good Place
+season: 4
+episode: 8
+title: The Funeral
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.9
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 61.2
+    end: 140.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1220.3
+    end: 1320
+    confidence: 0.96
+    source: manual

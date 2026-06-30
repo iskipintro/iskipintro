@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 4
+episode: 10
+title: Episode 10
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 49.2
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 78.6
+    end: 163.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1700.2
+    end: 1800
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,18 @@
+series: Rome
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 463
+imdb_id: tt0384766
+anime: false
+markers:
+  - type: INTRO
+    start: 52.1
+    end: 125.69999999999999
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2889.2
+    end: 3000
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: "Demon Slayer: Kimetsu no Yaiba"
+season: 1
+episode: 7
+title: Muzan Kibutsuji
+tmdb_id: 85937
+imdb_id: tt9335498
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.9
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 92.7
+    end: 187.1
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1332.2
+    end: 1440
+    confidence: 0.95
+    source: manual

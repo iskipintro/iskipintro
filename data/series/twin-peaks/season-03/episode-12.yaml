@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 3
+episode: 12
+title: Episode 12
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 71.3
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 79
+    end: 151.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2777.4
+    end: 2880
+    confidence: 0.93
+    source: manual

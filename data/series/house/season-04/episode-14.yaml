@@ -1,0 +1,23 @@
+series: House M.D.
+season: 4
+episode: 14
+title: Episode 14
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.9
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 92.6
+    end: 183
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2567.1
+    end: 2640
+    confidence: 0.97
+    source: manual

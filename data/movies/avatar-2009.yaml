@@ -1,0 +1,20 @@
+title: Avatar
+year: 2009
+tmdb_id: 19995
+imdb_id: tt0499549
+markers:
+  - type: INTRO
+    start: 0
+    end: 61.1
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 9499.9
+    end: 9720
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 9733.4
+    end: 9841.5
+    confidence: 0.76
+    source: manual

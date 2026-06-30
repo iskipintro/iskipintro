@@ -1,0 +1,23 @@
+series: House M.D.
+season: 5
+episode: 6
+title: Episode 6
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 105.4
+    end: 191.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2556.9
+    end: 2640
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,18 @@
+series: The Last Kingdom
+season: 5
+episode: 1
+title: Episode 1
+tmdb_id: 71899
+imdb_id: tt4179452
+anime: false
+markers:
+  - type: INTRO
+    start: 70.1
+    end: 158.39999999999998
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2938.3
+    end: 3000
+    confidence: 0.95
+    source: manual

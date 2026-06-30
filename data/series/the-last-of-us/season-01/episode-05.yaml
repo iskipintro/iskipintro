@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 1
+episode: 5
+title: Endure and Survive
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.2
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 64.6
+    end: 119.5
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3200.1
+    end: 3300
+    confidence: 0.96
+    source: manual

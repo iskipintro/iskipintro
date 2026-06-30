@@ -1,0 +1,15 @@
+title: The Hateful Eight
+year: 2015
+tmdb_id: 273248
+imdb_id: tt3460252
+markers:
+  - type: INTRO
+    start: 0
+    end: 89.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 9900.5
+    end: 10080
+    confidence: 0.95
+    source: manual

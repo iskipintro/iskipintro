@@ -1,0 +1,23 @@
+series: The Last of Us
+season: 1
+episode: 3
+title: Long Long Time
+tmdb_id: 100088
+imdb_id: tt3581920
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.9
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 83.9
+    end: 169.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 3202.6
+    end: 3300
+    confidence: 0.93
+    source: manual

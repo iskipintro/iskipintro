@@ -1,0 +1,18 @@
+series: Dexter
+season: 3
+episode: 1
+title: Episode 1
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: INTRO
+    start: 74.8
+    end: 171.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3072.7
+    end: 3180
+    confidence: 0.94
+    source: manual

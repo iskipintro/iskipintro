@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 4
+episode: 8
+title: Episode 8
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.2
+    confidence: 0.99
+    source: manual
+  - type: INTRO
+    start: 81.6
+    end: 143.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1727.4
+    end: 1800
+    confidence: 0.95
+    source: manual

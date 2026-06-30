@@ -25,6 +25,7 @@ CREATE TABLE IF NOT EXISTS series (
   kitsu_id INTEGER UNIQUE,
   title TEXT NOT NULL,
   slug TEXT UNIQUE,
+  anime INTEGER NOT NULL DEFAULT 0,
   poster TEXT,
   backdrop TEXT,
   created_at TEXT NOT NULL DEFAULT (CURRENT_TIMESTAMP)

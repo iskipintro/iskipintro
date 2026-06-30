@@ -1,0 +1,23 @@
+series: Barry
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 81.2
+    end: 174.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1731.2
+    end: 1800
+    confidence: 0.94
+    source: manual

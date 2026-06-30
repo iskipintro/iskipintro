@@ -1,0 +1,23 @@
+series: Invincible
+season: 2
+episode: 3
+title: This Missive, This Machination!
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 40.3
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 64.6
+    end: 123.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2764.3
+    end: 2880
+    confidence: 0.97
+    source: manual

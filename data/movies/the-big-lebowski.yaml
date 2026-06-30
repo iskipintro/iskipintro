@@ -1,0 +1,15 @@
+title: The Big Lebowski
+year: 1998
+tmdb_id: 115
+imdb_id: tt0118715
+markers:
+  - type: INTRO
+    start: 0
+    end: 134.7
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6808.1
+    end: 7020
+    confidence: 0.98
+    source: manual

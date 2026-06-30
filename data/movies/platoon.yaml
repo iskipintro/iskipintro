@@ -1,0 +1,20 @@
+title: Platoon
+year: 1986
+tmdb_id: 792
+imdb_id: tt0091763
+markers:
+  - type: INTRO
+    start: 0
+    end: 136.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7015
+    end: 7200
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7213.3
+    end: 7331.2
+    confidence: 0.78
+    source: manual

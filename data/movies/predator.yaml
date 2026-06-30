@@ -1,0 +1,15 @@
+title: Predator
+year: 1987
+tmdb_id: 106
+imdb_id: tt0093773
+markers:
+  - type: INTRO
+    start: 0
+    end: 177.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6227.4
+    end: 6420
+    confidence: 0.94
+    source: manual

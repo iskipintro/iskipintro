@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 3
+episode: 20
+title: "Sozin's Comet Part 3: Into the Inferno"
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.6
+    confidence: 0.95
+    source: manual
+  - type: OPENING
+    start: 74.4
+    end: 146.2
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1309.4
+    end: 1380
+    confidence: 0.94
+    source: manual

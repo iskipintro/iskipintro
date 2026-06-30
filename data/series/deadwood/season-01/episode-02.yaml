@@ -1,0 +1,23 @@
+series: Deadwood
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 116.3
+    end: 177.8
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3183.1
+    end: 3300
+    confidence: 0.94
+    source: manual

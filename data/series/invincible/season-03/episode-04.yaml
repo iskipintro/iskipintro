@@ -1,0 +1,23 @@
+series: Invincible
+season: 3
+episode: 4
+title: You Want a Real Costume?
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 77.8
+    end: 159
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2766.7
+    end: 2880
+    confidence: 0.94
+    source: manual

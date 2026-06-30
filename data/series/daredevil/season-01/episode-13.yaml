@@ -1,0 +1,23 @@
+series: Daredevil
+season: 1
+episode: 13
+title: Episode 13
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 76.1
+    end: 129.3
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2927.8
+    end: 3000
+    confidence: 0.98
+    source: manual

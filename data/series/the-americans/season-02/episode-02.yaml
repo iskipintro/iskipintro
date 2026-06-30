@@ -1,0 +1,23 @@
+series: The Americans
+season: 2
+episode: 2
+title: Episode 2
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.7
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 63.8
+    end: 161.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2535.5
+    end: 2640
+    confidence: 0.96
+    source: manual

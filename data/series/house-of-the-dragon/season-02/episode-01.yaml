@@ -1,0 +1,18 @@
+series: House of the Dragon
+season: 2
+episode: 1
+title: Episode 1
+tmdb_id: 94997
+imdb_id: tt11198330
+anime: false
+markers:
+  - type: INTRO
+    start: 82.8
+    end: 182.8
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3494.6
+    end: 3600
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 1
+episode: 12
+title: Episode 12
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 100.8
+    end: 162.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2936.2
+    end: 3000
+    confidence: 0.96
+    source: manual

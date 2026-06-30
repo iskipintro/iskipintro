@@ -1,0 +1,18 @@
+series: Fleabag
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 67070
+imdb_id: tt5687612
+anime: false
+markers:
+  - type: INTRO
+    start: 81.9
+    end: 189.4
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1455.8
+    end: 1560
+    confidence: 0.98
+    source: manual

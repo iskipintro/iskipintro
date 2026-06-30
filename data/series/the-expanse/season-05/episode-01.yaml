@@ -1,0 +1,18 @@
+series: The Expanse
+season: 5
+episode: 1
+title: Exodus
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: INTRO
+    start: 35
+    end: 140.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2638.1
+    end: 2700
+    confidence: 0.97
+    source: manual

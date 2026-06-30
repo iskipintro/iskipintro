@@ -1,0 +1,15 @@
+title: Lawrence of Arabia
+year: 1962
+tmdb_id: 947
+imdb_id: tt0056172
+markers:
+  - type: INTRO
+    start: 0
+    end: 134.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 13518.1
+    end: 13680
+    confidence: 0.97
+    source: manual

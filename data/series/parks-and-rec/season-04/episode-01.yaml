@@ -1,0 +1,18 @@
+series: Parks and Recreation
+season: 4
+episode: 1
+title: I'm Leslie Knope
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: INTRO
+    start: 76.5
+    end: 153.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1221.9
+    end: 1320
+    confidence: 0.97
+    source: manual

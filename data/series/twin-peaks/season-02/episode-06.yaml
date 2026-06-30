@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 6
+title: Episode 6
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 75.2
+    end: 130.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2765.5
+    end: 2880
+    confidence: 0.95
+    source: manual

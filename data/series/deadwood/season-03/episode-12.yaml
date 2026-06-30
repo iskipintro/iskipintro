@@ -1,0 +1,23 @@
+series: Deadwood
+season: 3
+episode: 12
+title: Episode 12
+tmdb_id: 1427
+imdb_id: tt0348914
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.5
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 61.4
+    end: 131.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3197.8
+    end: 3300
+    confidence: 0.93
+    source: manual

@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 2
+episode: 15
+title: Sweetums
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 41.7
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 51.4
+    end: 101.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1211.5
+    end: 1320
+    confidence: 0.95
+    source: manual

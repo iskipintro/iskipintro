@@ -1,0 +1,15 @@
+title: Million Dollar Baby
+year: 2004
+tmdb_id: 70
+imdb_id: tt0405159
+markers:
+  - type: INTRO
+    start: 0
+    end: 62.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7778.1
+    end: 7920
+    confidence: 0.96
+    source: manual

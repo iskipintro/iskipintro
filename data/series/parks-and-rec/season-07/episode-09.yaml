@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 7
+episode: 9
+title: Two Weeks
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 82.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 91.2
+    end: 178
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1205.5
+    end: 1320
+    confidence: 0.94
+    source: manual

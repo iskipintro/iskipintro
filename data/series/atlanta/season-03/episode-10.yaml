@@ -1,0 +1,23 @@
+series: Atlanta
+season: 3
+episode: 10
+title: Episode 10
+tmdb_id: 71660
+imdb_id: tt4288182
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.1
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 70.1
+    end: 141.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1728
+    end: 1800
+    confidence: 0.97
+    source: manual

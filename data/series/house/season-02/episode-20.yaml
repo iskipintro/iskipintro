@@ -1,0 +1,23 @@
+series: House M.D.
+season: 2
+episode: 20
+title: Episode 20
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.2
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 64.6
+    end: 151
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2539.9
+    end: 2640
+    confidence: 0.97
+    source: manual

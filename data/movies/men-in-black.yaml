@@ -1,0 +1,15 @@
+title: Men in Black
+year: 1997
+tmdb_id: 607
+imdb_id: tt0119654
+markers:
+  - type: INTRO
+    start: 0
+    end: 117.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5748.5
+    end: 5880
+    confidence: 0.95
+    source: manual

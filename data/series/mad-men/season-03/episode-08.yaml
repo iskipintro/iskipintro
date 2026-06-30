@@ -1,0 +1,23 @@
+series: Mad Men
+season: 3
+episode: 8
+title: Episode 8
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.7
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 79.1
+    end: 173.9
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2818.5
+    end: 2880
+    confidence: 0.96
+    source: manual

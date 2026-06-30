@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 1
+episode: 13
+title: The Blue Spirit
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 60.2
+    confidence: 0.97
+    source: manual
+  - type: OPENING
+    start: 78.2
+    end: 133.6
+    confidence: 0.97
+    source: manual
+  - type: ENDING
+    start: 1264.7
+    end: 1380
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Lost
+season: 4
+episode: 10
+title: Episode 10
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 69.6
+    end: 139.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2518.7
+    end: 2580
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: Hannibal
+season: 3
+episode: 5
+title: Contorno
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 79
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 88
+    end: 170.7
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2562.1
+    end: 2640
+    confidence: 0.94
+    source: manual

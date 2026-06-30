@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 82.8
+    end: 149.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2916.6
+    end: 3000
+    confidence: 0.93
+    source: manual

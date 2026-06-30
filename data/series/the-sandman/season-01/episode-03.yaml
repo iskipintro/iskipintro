@@ -1,0 +1,23 @@
+series: The Sandman
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 90857
+imdb_id: tt1751634
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.8
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 76.5
+    end: 156.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2603.6
+    end: 2700
+    confidence: 0.93
+    source: manual

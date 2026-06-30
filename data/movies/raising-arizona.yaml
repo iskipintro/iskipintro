@@ -1,0 +1,15 @@
+title: Raising Arizona
+year: 1987
+tmdb_id: 1131
+imdb_id: tt0093822
+markers:
+  - type: INTRO
+    start: 0
+    end: 91.6
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5417.3
+    end: 5640
+    confidence: 0.99
+    source: manual

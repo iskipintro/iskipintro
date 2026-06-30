@@ -1,0 +1,23 @@
+series: Fallout
+season: 1
+episode: 3
+title: The Head
+tmdb_id: 206471
+imdb_id: tt12637874
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.9
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 91.7
+    end: 159.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3227.4
+    end: 3300
+    confidence: 0.96
+    source: manual

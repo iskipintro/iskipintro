@@ -1,0 +1,20 @@
+title: The Pianist
+year: 2002
+tmdb_id: 423
+imdb_id: tt0253474
+markers:
+  - type: INTRO
+    start: 0
+    end: 119.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 8774.3
+    end: 9000
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 9011.1
+    end: 9043.9
+    confidence: 0.83
+    source: manual

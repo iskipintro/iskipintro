@@ -1,0 +1,15 @@
+title: Barry Lyndon
+year: 1975
+tmdb_id: 317
+imdb_id: tt0072684
+markers:
+  - type: INTRO
+    start: 0
+    end: 98.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 10834.8
+    end: 11040
+    confidence: 0.97
+    source: manual

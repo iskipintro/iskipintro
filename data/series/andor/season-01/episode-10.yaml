@@ -1,0 +1,23 @@
+series: Andor
+season: 1
+episode: 10
+title: Episode 10
+tmdb_id: 121361
+imdb_id: tt9253284
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.4
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 98.3
+    end: 176.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2309.8
+    end: 2400
+    confidence: 0.95
+    source: manual

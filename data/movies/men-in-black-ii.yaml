@@ -1,0 +1,15 @@
+title: Men in Black II
+year: 2002
+tmdb_id: 608
+imdb_id: tt0120912
+markers:
+  - type: INTRO
+    start: 0
+    end: 100
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 5158.8
+    end: 5280
+    confidence: 0.97
+    source: manual

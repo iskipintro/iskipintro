@@ -1,0 +1,20 @@
+title: "Captain America: The Winter Soldier"
+year: 2014
+tmdb_id: 100402
+imdb_id: tt1843866
+markers:
+  - type: INTRO
+    start: 0
+    end: 115.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7942.9
+    end: 8160
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 8186.7
+    end: 8266.1
+    confidence: 0.85
+    source: manual

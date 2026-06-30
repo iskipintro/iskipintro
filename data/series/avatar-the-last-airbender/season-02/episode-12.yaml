@@ -1,0 +1,23 @@
+series: "Avatar: The Last Airbender"
+season: 2
+episode: 12
+title: The Serpent's Pass
+tmdb_id: 246
+imdb_id: tt0417299
+anime: true
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.2
+    confidence: 0.93
+    source: manual
+  - type: OPENING
+    start: 66.8
+    end: 143.2
+    confidence: 0.98
+    source: manual
+  - type: ENDING
+    start: 1277.1
+    end: 1380
+    confidence: 0.96
+    source: manual

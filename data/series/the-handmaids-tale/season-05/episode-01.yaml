@@ -1,0 +1,18 @@
+series: The Handmaid's Tale
+season: 5
+episode: 1
+title: Episode 1
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: INTRO
+    start: 48.4
+    end: 166.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2922.4
+    end: 3000
+    confidence: 0.97
+    source: manual

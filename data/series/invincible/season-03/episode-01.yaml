@@ -1,0 +1,18 @@
+series: Invincible
+season: 3
+episode: 1
+title: You're Not Laughing Now
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: INTRO
+    start: 67.9
+    end: 139.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2763.2
+    end: 2880
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,23 @@
+series: Invincible
+season: 3
+episode: 3
+title: You Were Just a Kid
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.7
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 55.6
+    end: 104
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 2766.9
+    end: 2880
+    confidence: 0.93
+    source: manual

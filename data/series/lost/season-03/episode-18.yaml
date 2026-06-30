@@ -1,0 +1,23 @@
+series: Lost
+season: 3
+episode: 18
+title: Episode 18
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 60.6
+    end: 152.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2497.6
+    end: 2580
+    confidence: 0.97
+    source: manual

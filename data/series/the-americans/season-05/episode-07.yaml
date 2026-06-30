@@ -1,0 +1,23 @@
+series: The Americans
+season: 5
+episode: 7
+title: Episode 7
+tmdb_id: 4650
+imdb_id: tt2149175
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 73.5
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 90.5
+    end: 157.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2550.4
+    end: 2640
+    confidence: 0.93
+    source: manual

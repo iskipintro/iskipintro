@@ -1,0 +1,23 @@
+series: Hannibal
+season: 2
+episode: 3
+title: Hassun
+tmdb_id: 16216
+imdb_id: tt2243973
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 55.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 77.9
+    end: 142.6
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2562.3
+    end: 2640
+    confidence: 0.96
+    source: manual

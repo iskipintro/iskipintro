@@ -1,0 +1,18 @@
+series: Community
+season: 2
+episode: 1
+title: Anthropology 101
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: INTRO
+    start: 54.5
+    end: 143.7
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1202.8
+    end: 1320
+    confidence: 0.97
+    source: manual

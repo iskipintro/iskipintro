@@ -1,0 +1,18 @@
+series: Veep
+season: 2
+episode: 1
+title: Episode 1
+tmdb_id: 63459
+imdb_id: tt1759761
+anime: false
+markers:
+  - type: INTRO
+    start: 84.7
+    end: 154
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1611.9
+    end: 1680
+    confidence: 0.94
+    source: manual

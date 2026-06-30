@@ -1,0 +1,23 @@
+series: Boardwalk Empire
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 13468
+imdb_id: tt0979432
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 50.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 73.9
+    end: 120.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3232.5
+    end: 3300
+    confidence: 0.95
+    source: manual

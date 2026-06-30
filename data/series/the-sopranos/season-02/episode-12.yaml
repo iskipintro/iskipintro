@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 2
+episode: 12
+title: The Knight in White Satin Armor
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 88.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 104.7
+    end: 201.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3225.4
+    end: 3300
+    confidence: 0.96
+    source: manual

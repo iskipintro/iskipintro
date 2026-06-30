@@ -1,0 +1,23 @@
+series: The Leftovers
+season: 2
+episode: 9
+title: Episode 9
+tmdb_id: 62051
+imdb_id: tt2699128
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46
+    confidence: 0.92
+    source: manual
+  - type: INTRO
+    start: 55.3
+    end: 103
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3198.2
+    end: 3300
+    confidence: 0.94
+    source: manual

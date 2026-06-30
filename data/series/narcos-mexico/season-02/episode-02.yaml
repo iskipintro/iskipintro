@@ -1,0 +1,23 @@
+series: "Narcos: Mexico"
+season: 2
+episode: 2
+title: Episode 2
+tmdb_id: 83810
+imdb_id: tt8714904
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68.1
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 90.8
+    end: 159.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2883.9
+    end: 3000
+    confidence: 0.98
+    source: manual

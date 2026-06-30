@@ -1,0 +1,23 @@
+series: The Punisher
+season: 2
+episode: 13
+title: Episode 13
+tmdb_id: 67177
+imdb_id: tt7468410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 65.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 93.4
+    end: 139.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2920.4
+    end: 3000
+    confidence: 0.98
+    source: manual

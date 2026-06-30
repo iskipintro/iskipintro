@@ -1,0 +1,18 @@
+series: Twin Peaks
+season: 1
+episode: 1
+title: Episode 1
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: INTRO
+    start: 77.2
+    end: 177.5
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2775.4
+    end: 2880
+    confidence: 0.98
+    source: manual

@@ -1,0 +1,23 @@
+series: Ozark
+season: 2
+episode: 2
+title: The Precious Blood of Jesus
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 83.5
+    end: 183
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3224.5
+    end: 3300
+    confidence: 0.94
+    source: manual

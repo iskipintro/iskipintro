@@ -1,0 +1,23 @@
+series: Invincible
+season: 1
+episode: 7
+title: We Need to Talk
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.3
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 92.7
+    end: 172.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2788.8
+    end: 2880
+    confidence: 0.94
+    source: manual

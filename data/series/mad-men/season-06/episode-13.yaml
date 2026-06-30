@@ -1,0 +1,23 @@
+series: Mad Men
+season: 6
+episode: 13
+title: Episode 13
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 61.2
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 84.2
+    end: 173
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2794.2
+    end: 2880
+    confidence: 0.98
+    source: manual

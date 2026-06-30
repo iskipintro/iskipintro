@@ -1,0 +1,23 @@
+series: The Handmaid's Tale
+season: 4
+episode: 6
+title: Episode 6
+tmdb_id: 69478
+imdb_id: tt5834204
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 47.9
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 59.7
+    end: 106.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2880.8
+    end: 3000
+    confidence: 0.95
+    source: manual

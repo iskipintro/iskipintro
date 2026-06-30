@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 4
+episode: 9
+title: Episode 9
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 45.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 62.2
+    end: 146.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1684.2
+    end: 1800
+    confidence: 0.94
+    source: manual

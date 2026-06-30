@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 3
+episode: 4
+title: Big Week
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.7
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 92.9
+    end: 143.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1715.4
+    end: 1800
+    confidence: 0.98
+    source: manual

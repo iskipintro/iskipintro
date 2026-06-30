@@ -1,0 +1,23 @@
+series: Daredevil
+season: 1
+episode: 8
+title: Episode 8
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.6
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 78.8
+    end: 136.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2883.7
+    end: 3000
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: Dexter
+season: 3
+episode: 5
+title: Episode 5
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 90.2
+    end: 181.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 3066.8
+    end: 3180
+    confidence: 0.96
+    source: manual

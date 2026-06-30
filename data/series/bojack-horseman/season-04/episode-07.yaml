@@ -1,0 +1,23 @@
+series: BoJack Horseman
+season: 4
+episode: 7
+title: The Light
+tmdb_id: 61222
+imdb_id: tt3398228
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 52.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 66.5
+    end: 158.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1397.8
+    end: 1500
+    confidence: 0.96
+    source: manual

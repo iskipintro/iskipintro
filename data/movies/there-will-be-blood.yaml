@@ -1,0 +1,20 @@
+title: There Will Be Blood
+year: 2007
+tmdb_id: 7345
+imdb_id: tt0469494
+markers:
+  - type: INTRO
+    start: 0
+    end: 112.2
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 9297.7
+    end: 9480
+    confidence: 0.97
+    source: manual
+  - type: POST_CREDIT
+    start: 9488.6
+    end: 9530.6
+    confidence: 0.82
+    source: manual

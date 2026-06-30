@@ -1,0 +1,23 @@
+series: Ozark
+season: 1
+episode: 4
+title: Tonight We Improvise
+tmdb_id: 69740
+imdb_id: tt5071412
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.7
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 102.6
+    end: 189.8
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 3205.6
+    end: 3300
+    confidence: 0.99
+    source: manual

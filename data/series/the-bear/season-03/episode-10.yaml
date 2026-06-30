@@ -1,0 +1,23 @@
+series: The Bear
+season: 3
+episode: 10
+title: Forever
+tmdb_id: 114795
+imdb_id: tt14452776
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 67.5
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 95.8
+    end: 141.7
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 1703.5
+    end: 1800
+    confidence: 0.98
+    source: manual

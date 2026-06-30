@@ -1,0 +1,20 @@
+title: The Deer Hunter
+year: 1978
+tmdb_id: 11778
+imdb_id: tt0077416
+markers:
+  - type: INTRO
+    start: 0
+    end: 83.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 10841.7
+    end: 10980
+    confidence: 0.93
+    source: manual
+  - type: POST_CREDIT
+    start: 10991.7
+    end: 11041.6
+    confidence: 0.89
+    source: manual

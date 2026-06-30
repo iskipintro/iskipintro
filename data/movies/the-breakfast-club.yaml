@@ -1,0 +1,15 @@
+title: The Breakfast Club
+year: 1985
+tmdb_id: 2108
+imdb_id: tt0088847
+markers:
+  - type: INTRO
+    start: 0
+    end: 146.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 5689.7
+    end: 5820
+    confidence: 0.96
+    source: manual

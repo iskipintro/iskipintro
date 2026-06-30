@@ -1,0 +1,23 @@
+series: The Expanse
+season: 3
+episode: 2
+title: IFF
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.2
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 110.6
+    end: 166.7
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2597.4
+    end: 2700
+    confidence: 0.93
+    source: manual

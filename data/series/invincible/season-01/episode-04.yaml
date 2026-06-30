@@ -1,0 +1,23 @@
+series: Invincible
+season: 1
+episode: 4
+title: Neil Armstrong, Eat Your Heart Out
+tmdb_id: 95557
+imdb_id: tt6741278
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 63.8
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 70.7
+    end: 135.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2793.7
+    end: 2880
+    confidence: 0.99
+    source: manual

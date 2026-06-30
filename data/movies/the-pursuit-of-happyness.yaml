@@ -1,0 +1,15 @@
+title: The Pursuit of Happyness
+year: 2006
+tmdb_id: 1402
+imdb_id: tt0454921
+markers:
+  - type: INTRO
+    start: 0
+    end: 124.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 6812.6
+    end: 7020
+    confidence: 0.94
+    source: manual

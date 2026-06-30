@@ -1,0 +1,23 @@
+series: Lost
+season: 1
+episode: 16
+title: Episode 16
+tmdb_id: 4607
+imdb_id: tt0411008
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 70.3
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 85.4
+    end: 155.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2473.6
+    end: 2580
+    confidence: 0.94
+    source: manual

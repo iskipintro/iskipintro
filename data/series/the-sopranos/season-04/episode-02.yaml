@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 4
+episode: 2
+title: No Show
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 80.7
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 99.9
+    end: 157.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 3205.5
+    end: 3300
+    confidence: 0.94
+    source: manual

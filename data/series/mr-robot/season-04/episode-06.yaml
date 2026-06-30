@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 4
+episode: 6
+title: Episode 6
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 48.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 57.4
+    end: 151.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2628
+    end: 2700
+    confidence: 0.97
+    source: manual

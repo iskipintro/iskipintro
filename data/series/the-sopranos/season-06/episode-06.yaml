@@ -1,0 +1,23 @@
+series: The Sopranos
+season: 6
+episode: 6
+title: Johnny Cakes
+tmdb_id: 1398
+imdb_id: tt0141842
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 64.4
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 71.3
+    end: 126.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3224.6
+    end: 3300
+    confidence: 0.98
+    source: manual

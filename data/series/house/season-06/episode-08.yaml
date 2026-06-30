@@ -1,0 +1,23 @@
+series: House M.D.
+season: 6
+episode: 8
+title: Episode 8
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.6
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 110
+    end: 181.9
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2565.2
+    end: 2640
+    confidence: 0.96
+    source: manual

@@ -1,0 +1,23 @@
+series: Mr. Robot
+season: 4
+episode: 12
+title: Episode 12
+tmdb_id: 62560
+imdb_id: tt4158110
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 87.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 111.9
+    end: 175.9
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2615.3
+    end: 2700
+    confidence: 0.96
+    source: manual

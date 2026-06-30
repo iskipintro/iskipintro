@@ -1,0 +1,15 @@
+title: Once Upon a Time in Hollywood
+year: 2019
+tmdb_id: 466272
+imdb_id: tt7131622
+markers:
+  - type: INTRO
+    start: 0
+    end: 159.5
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 9428.7
+    end: 9660
+    confidence: 0.94
+    source: manual

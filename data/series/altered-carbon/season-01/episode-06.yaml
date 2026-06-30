@@ -1,0 +1,23 @@
+series: Altered Carbon
+season: 1
+episode: 6
+title: Episode 6
+tmdb_id: 68429
+imdb_id: tt2261227
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 78.4
+    end: 129.6
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2883.8
+    end: 3000
+    confidence: 0.96
+    source: manual

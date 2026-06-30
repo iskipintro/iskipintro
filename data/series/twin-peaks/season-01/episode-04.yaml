@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 74.3
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 91.6
+    end: 146.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2804.2
+    end: 2880
+    confidence: 0.93
+    source: manual

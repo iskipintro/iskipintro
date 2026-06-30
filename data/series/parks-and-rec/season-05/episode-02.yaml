@@ -1,0 +1,23 @@
+series: Parks and Recreation
+season: 5
+episode: 2
+title: Soda Tax
+tmdb_id: 33217
+imdb_id: tt1266020
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 68
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 78.5
+    end: 170.2
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 1209.4
+    end: 1320
+    confidence: 0.98
+    source: manual

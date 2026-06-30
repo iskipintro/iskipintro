@@ -1,0 +1,18 @@
+series: Daredevil
+season: 2
+episode: 1
+title: Episode 1
+tmdb_id: 61889
+imdb_id: tt3322312
+anime: false
+markers:
+  - type: INTRO
+    start: 58
+    end: 146
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2934.2
+    end: 3000
+    confidence: 0.94
+    source: manual

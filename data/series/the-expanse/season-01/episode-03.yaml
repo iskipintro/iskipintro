@@ -1,0 +1,23 @@
+series: The Expanse
+season: 1
+episode: 3
+title: Remember the Cant
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 89.7
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 95.4
+    end: 160.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2598
+    end: 2700
+    confidence: 0.96
+    source: manual

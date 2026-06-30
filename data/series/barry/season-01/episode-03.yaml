@@ -1,0 +1,23 @@
+series: Barry
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 75008
+imdb_id: tt5348176
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 42.8
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 48.3
+    end: 132.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 1690.6
+    end: 1800
+    confidence: 0.98
+    source: manual

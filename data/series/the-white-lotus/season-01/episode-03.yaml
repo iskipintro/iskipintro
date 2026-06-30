@@ -1,0 +1,23 @@
+series: The White Lotus
+season: 1
+episode: 3
+title: Episode 3
+tmdb_id: 114410
+imdb_id: tt13406094
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 78.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 106.3
+    end: 179.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3213.9
+    end: 3300
+    confidence: 0.97
+    source: manual

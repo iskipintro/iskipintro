@@ -1,0 +1,23 @@
+series: House M.D.
+season: 1
+episode: 18
+title: Episode 18
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 72.8
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 79.5
+    end: 142.8
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2548.5
+    end: 2640
+    confidence: 0.97
+    source: manual

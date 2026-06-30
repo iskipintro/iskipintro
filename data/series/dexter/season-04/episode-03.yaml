@@ -1,0 +1,23 @@
+series: Dexter
+season: 4
+episode: 3
+title: Episode 3
+tmdb_id: 1405
+imdb_id: tt0773262
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 69.8
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 88.9
+    end: 168.2
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 3063.6
+    end: 3180
+    confidence: 0.93
+    source: manual

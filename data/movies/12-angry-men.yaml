@@ -1,0 +1,15 @@
+title: "12 Angry Men"
+year: 1957
+tmdb_id: 389
+imdb_id: tt0050083
+markers:
+  - type: INTRO
+    start: 0
+    end: 148.3
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 5536.6
+    end: 5760
+    confidence: 0.96
+    source: manual

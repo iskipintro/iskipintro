@@ -1,0 +1,23 @@
+series: Ted Lasso
+season: 2
+episode: 10
+title: No Weddings and a Funeral
+tmdb_id: 107717
+imdb_id: tt10986410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 44.8
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 51.3
+    end: 148.1
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 1681
+    end: 1800
+    confidence: 0.93
+    source: manual

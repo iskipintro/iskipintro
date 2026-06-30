@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 3
+episode: 5
+title: Episode 5
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 56.1
+    confidence: 0.95
+    source: manual
+  - type: INTRO
+    start: 84.2
+    end: 152.1
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2778
+    end: 2880
+    confidence: 0.95
+    source: manual

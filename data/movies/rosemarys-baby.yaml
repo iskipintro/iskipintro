@@ -1,0 +1,15 @@
+title: Rosemary's Baby
+year: 1968
+tmdb_id: 805
+imdb_id: tt0063522
+markers:
+  - type: INTRO
+    start: 0
+    end: 173
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7975
+    end: 8160
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,23 @@
+series: The Good Place
+season: 2
+episode: 12
+title: Somewhere Else
+tmdb_id: 66573
+imdb_id: tt4955642
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 66.4
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 72.8
+    end: 144
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1247.9
+    end: 1320
+    confidence: 0.98
+    source: manual

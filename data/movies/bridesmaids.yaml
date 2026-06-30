@@ -1,0 +1,15 @@
+title: Bridesmaids
+year: 2011
+tmdb_id: 55721
+imdb_id: tt1478338
+markers:
+  - type: INTRO
+    start: 0
+    end: 96.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7356.5
+    end: 7500
+    confidence: 0.97
+    source: manual

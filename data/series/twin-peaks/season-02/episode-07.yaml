@@ -1,0 +1,23 @@
+series: Twin Peaks
+season: 2
+episode: 7
+title: Episode 7
+tmdb_id: 1925
+imdb_id: tt0098936
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 83.6
+    confidence: 0.94
+    source: manual
+  - type: INTRO
+    start: 106.4
+    end: 174.6
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2814.2
+    end: 2880
+    confidence: 0.95
+    source: manual

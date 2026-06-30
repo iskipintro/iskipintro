@@ -1,0 +1,23 @@
+series: Community
+season: 3
+episode: 11
+title: Contemporary Impressionists
+tmdb_id: 18347
+imdb_id: tt1439629
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 76.1
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 83.7
+    end: 173
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1228.6
+    end: 1320
+    confidence: 0.97
+    source: manual

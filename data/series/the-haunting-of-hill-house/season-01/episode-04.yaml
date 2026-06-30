@@ -1,0 +1,23 @@
+series: The Haunting of Hill House
+season: 1
+episode: 4
+title: Episode 4
+tmdb_id: 70593
+imdb_id: tt6763664
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 59.2
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 82.7
+    end: 152.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 2911.2
+    end: 3000
+    confidence: 0.97
+    source: manual

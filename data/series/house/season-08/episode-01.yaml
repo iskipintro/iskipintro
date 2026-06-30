@@ -1,0 +1,18 @@
+series: House M.D.
+season: 8
+episode: 1
+title: Episode 1
+tmdb_id: 1408
+imdb_id: tt0412142
+anime: false
+markers:
+  - type: INTRO
+    start: 80.3
+    end: 172.5
+    confidence: 0.95
+    source: manual
+  - type: CREDITS
+    start: 2570.4
+    end: 2640
+    confidence: 0.95
+    source: manual

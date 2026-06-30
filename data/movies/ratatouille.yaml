@@ -1,0 +1,15 @@
+title: Ratatouille
+year: 2007
+tmdb_id: 2062
+imdb_id: tt0382932
+markers:
+  - type: INTRO
+    start: 0
+    end: 81.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 6527.6
+    end: 6660
+    confidence: 0.97
+    source: manual

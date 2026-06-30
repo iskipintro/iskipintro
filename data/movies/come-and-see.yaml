@@ -1,0 +1,20 @@
+title: Come and See
+year: 1985
+tmdb_id: 20047
+imdb_id: tt0091251
+markers:
+  - type: INTRO
+    start: 0
+    end: 128.1
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 8327.3
+    end: 8520
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 8540.3
+    end: 8629
+    confidence: 0.84
+    source: manual

@@ -1,0 +1,20 @@
+title: Aliens
+year: 1986
+tmdb_id: 679
+imdb_id: tt0090605
+markers:
+  - type: INTRO
+    start: 0
+    end: 147.2
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 8062
+    end: 8220
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 8235
+    end: 8351.5
+    confidence: 0.74
+    source: manual

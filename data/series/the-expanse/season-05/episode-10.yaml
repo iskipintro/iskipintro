@@ -1,0 +1,23 @@
+series: The Expanse
+season: 5
+episode: 10
+title: Nemesis Games
+tmdb_id: 63639
+imdb_id: tt3230854
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.98
+    source: manual
+  - type: INTRO
+    start: 70.2
+    end: 144.8
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 2605.2
+    end: 2700
+    confidence: 0.97
+    source: manual

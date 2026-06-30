@@ -1,0 +1,20 @@
+title: Vertigo
+year: 1958
+tmdb_id: 426
+imdb_id: tt0052357
+markers:
+  - type: INTRO
+    start: 0
+    end: 108.4
+    confidence: 0.97
+    source: manual
+  - type: CREDITS
+    start: 7557.1
+    end: 7680
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 7707.4
+    end: 7809.799999999999
+    confidence: 0.78
+    source: manual

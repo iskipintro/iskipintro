@@ -1,0 +1,23 @@
+series: Mad Men
+season: 1
+episode: 5
+title: Episode 5
+tmdb_id: 1209
+imdb_id: tt0804503
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 62.9
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 90.6
+    end: 154
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2766.8
+    end: 2880
+    confidence: 0.97
+    source: manual

@@ -1,0 +1,23 @@
+series: The Walking Dead
+season: 3
+episode: 11
+title: I Ain't a Judas
+tmdb_id: 1402
+imdb_id: tt1520211
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 85.1
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 102.9
+    end: 170.5
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2586.9
+    end: 2700
+    confidence: 0.93
+    source: manual

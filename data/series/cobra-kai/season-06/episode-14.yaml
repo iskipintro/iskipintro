@@ -1,0 +1,23 @@
+series: Cobra Kai
+season: 6
+episode: 14
+title: Episode 14
+tmdb_id: 77169
+imdb_id: tt7221388
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 46.4
+    confidence: 0.93
+    source: manual
+  - type: INTRO
+    start: 65.9
+    end: 120.2
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1736
+    end: 1800
+    confidence: 0.94
+    source: manual

@@ -1,0 +1,15 @@
+title: The Fugitive
+year: 1993
+tmdb_id: 5503
+imdb_id: tt0106977
+markers:
+  - type: INTRO
+    start: 0
+    end: 129.4
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 7570.2
+    end: 7800
+    confidence: 0.97
+    source: manual

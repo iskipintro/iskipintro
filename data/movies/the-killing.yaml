@@ -1,0 +1,20 @@
+title: The Killing
+year: 1956
+tmdb_id: 247
+imdb_id: tt0049406
+markers:
+  - type: INTRO
+    start: 0
+    end: 153.3
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 4877
+    end: 5040
+    confidence: 0.98
+    source: manual
+  - type: POST_CREDIT
+    start: 5063.8
+    end: 5139.400000000001
+    confidence: 0.88
+    source: manual

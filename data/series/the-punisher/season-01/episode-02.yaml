@@ -1,0 +1,23 @@
+series: The Punisher
+season: 1
+episode: 2
+title: Episode 2
+tmdb_id: 67177
+imdb_id: tt7468410
+anime: false
+markers:
+  - type: RECAP
+    start: 0
+    end: 81.4
+    confidence: 0.96
+    source: manual
+  - type: INTRO
+    start: 92.5
+    end: 170.9
+    confidence: 0.96
+    source: manual
+  - type: CREDITS
+    start: 2925.1
+    end: 3000
+    confidence: 0.95
+    source: manual

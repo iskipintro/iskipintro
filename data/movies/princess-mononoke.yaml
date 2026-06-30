@@ -1,0 +1,15 @@
+title: Princess Mononoke
+year: 1997
+tmdb_id: 128
+imdb_id: tt0119698
+markers:
+  - type: INTRO
+    start: 0
+    end: 64.4
+    confidence: 0.98
+    source: manual
+  - type: CREDITS
+    start: 7912
+    end: 8040
+    confidence: 0.95
+    source: manual
