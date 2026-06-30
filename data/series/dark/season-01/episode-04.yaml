@@ -1,0 +1,21 @@
+series: Dark
+season: 1
+episode: 4
+tmdb_id: 70523
+imdb_id: tt5753856
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 112
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1343
+    end: 1408
+    confidence: 0.95
+    source: manual

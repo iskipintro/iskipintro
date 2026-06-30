@@ -1,0 +1,21 @@
+series: Friends
+season: 3
+episode: 19
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 36
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 36
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1317
+    end: 1382
+    confidence: 0.95
+    source: manual

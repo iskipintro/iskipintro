@@ -1,0 +1,21 @@
+series: Dark
+season: 2
+episode: 7
+tmdb_id: 70523
+imdb_id: tt5753856
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 90
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1339
+    end: 1404
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,20 @@
+title: The Shawshank Redemption
+year: 1994
+tmdb_id: 278
+imdb_id: tt0111161
+markers:
+  - type: INTRO
+    start: 0
+    end: 109
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 8520
+    end: 8610
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 8610
+    end: 8610
+    confidence: 0.80
+    source: manual

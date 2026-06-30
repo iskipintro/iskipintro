@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 6
+episode: 12
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 106
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1334
+    end: 1399
+    confidence: 0.95
+    source: manual

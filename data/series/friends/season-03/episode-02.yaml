@@ -1,0 +1,21 @@
+series: Friends
+season: 3
+episode: 2
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 108
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1303
+    end: 1368
+    confidence: 0.95
+    source: manual

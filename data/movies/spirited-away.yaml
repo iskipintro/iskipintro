@@ -1,0 +1,23 @@
+title: Spirited Away
+year: 2001
+tmdb_id: 129
+imdb_id: tt0245429
+mal_id: 199
+anilist_id: 199
+kitsu_id: 199
+markers:
+  - type: INTRO
+    start: 0
+    end: 116
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7440
+    end: 7530
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 7530
+    end: 7541
+    confidence: 0.80
+    source: manual

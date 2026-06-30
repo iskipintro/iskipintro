@@ -1,0 +1,21 @@
+series: Friends
+season: 8
+episode: 6
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 38
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 38
+    end: 86
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1302
+    end: 1367
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Friends
+season: 2
+episode: 23
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 101
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1280
+    end: 1345
+    confidence: 0.95
+    source: manual

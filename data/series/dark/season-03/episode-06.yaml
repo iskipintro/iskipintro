@@ -1,0 +1,21 @@
+series: Dark
+season: 3
+episode: 6
+tmdb_id: 70523
+imdb_id: tt5753856
+markers:
+  - type: RECAP
+    start: 0
+    end: 54
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 54
+    end: 102
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1264
+    end: 1329
+    confidence: 0.95
+    source: manual

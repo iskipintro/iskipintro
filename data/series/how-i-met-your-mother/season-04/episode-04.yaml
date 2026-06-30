@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 4
+episode: 4
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 107
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1336
+    end: 1401
+    confidence: 0.95
+    source: manual

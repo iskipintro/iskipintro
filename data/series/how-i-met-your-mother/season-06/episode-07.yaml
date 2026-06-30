@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 6
+episode: 7
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 41
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 41
+    end: 97
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1280
+    end: 1345
+    confidence: 0.95
+    source: manual

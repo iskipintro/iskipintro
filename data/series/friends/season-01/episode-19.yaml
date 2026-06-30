@@ -1,0 +1,21 @@
+series: Friends
+season: 1
+episode: 19
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 61
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 61
+    end: 122
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1366
+    end: 1431
+    confidence: 0.95
+    source: manual

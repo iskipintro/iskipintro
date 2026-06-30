@@ -1,0 +1,21 @@
+series: The Big Bang Theory
+season: 7
+episode: 17
+tmdb_id: 1418
+imdb_id: tt0898266
+markers:
+  - type: RECAP
+    start: 0
+    end: 38
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 38
+    end: 84
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1309
+    end: 1374
+    confidence: 0.95
+    source: manual

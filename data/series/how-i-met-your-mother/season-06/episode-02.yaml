@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 6
+episode: 2
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 56
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 56
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1318
+    end: 1383
+    confidence: 0.95
+    source: manual

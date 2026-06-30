@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 5
+episode: 1
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55
+    end: 104
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1268
+    end: 1333
+    confidence: 0.95
+    source: manual

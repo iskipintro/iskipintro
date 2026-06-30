@@ -1,0 +1,21 @@
+series: The Big Bang Theory
+season: 10
+episode: 24
+tmdb_id: 1418
+imdb_id: tt0898266
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55
+    end: 97
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1362
+    end: 1427
+    confidence: 0.95
+    source: manual

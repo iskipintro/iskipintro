@@ -1,0 +1,21 @@
+series: The Big Bang Theory
+season: 4
+episode: 11
+tmdb_id: 1418
+imdb_id: tt0898266
+markers:
+  - type: RECAP
+    start: 0
+    end: 50
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 50
+    end: 109
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1289
+    end: 1354
+    confidence: 0.95
+    source: manual

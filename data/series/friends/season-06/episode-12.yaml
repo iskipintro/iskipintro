@@ -1,0 +1,21 @@
+series: Friends
+season: 6
+episode: 12
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 35
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 35
+    end: 87
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1268
+    end: 1333
+    confidence: 0.95
+    source: manual

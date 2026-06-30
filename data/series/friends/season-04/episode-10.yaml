@@ -1,0 +1,21 @@
+series: Friends
+season: 4
+episode: 10
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1294
+    end: 1359
+    confidence: 0.95
+    source: manual

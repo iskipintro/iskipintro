@@ -1,0 +1,21 @@
+series: Dark
+season: 1
+episode: 8
+tmdb_id: 70523
+imdb_id: tt5753856
+markers:
+  - type: RECAP
+    start: 0
+    end: 35
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 35
+    end: 78
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1353
+    end: 1418
+    confidence: 0.95
+    source: manual

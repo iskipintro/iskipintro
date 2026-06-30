@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 7
+episode: 24
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 110
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1347
+    end: 1412
+    confidence: 0.95
+    source: manual

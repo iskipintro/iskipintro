@@ -1,0 +1,21 @@
+series: Friends
+season: 5
+episode: 19
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 40
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 40
+    end: 92
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1293
+    end: 1358
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,22 @@
+series: Sherlock
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 17610
+imdb_id: tt1475582
+markers:
+  - type: RECAP
+    start: 0
+    end: 40
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 40
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1363
+    end: 1428
+    confidence: 0.95
+    source: manual

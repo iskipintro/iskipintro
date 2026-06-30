@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 3
+episode: 7
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 63
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 63
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1339
+    end: 1404
+    confidence: 0.95
+    source: manual

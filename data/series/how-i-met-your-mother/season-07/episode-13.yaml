@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 7
+episode: 13
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 35
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 35
+    end: 77
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1364
+    end: 1429
+    confidence: 0.95
+    source: manual

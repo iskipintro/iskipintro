@@ -1,0 +1,21 @@
+series: The Big Bang Theory
+season: 1
+episode: 14
+tmdb_id: 1418
+imdb_id: tt0898266
+markers:
+  - type: RECAP
+    start: 0
+    end: 57
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 57
+    end: 121
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1300
+    end: 1365
+    confidence: 0.95
+    source: manual

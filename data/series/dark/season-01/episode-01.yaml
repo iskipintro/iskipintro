@@ -1,0 +1,22 @@
+series: Dark
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 70523
+imdb_id: tt5753856
+markers:
+  - type: RECAP
+    start: 0
+    end: 37
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 37
+    end: 85
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1371
+    end: 1436
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: Friends
+season: 7
+episode: 18
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 43
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 43
+    end: 85
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1365
+    end: 1430
+    confidence: 0.95
+    source: manual

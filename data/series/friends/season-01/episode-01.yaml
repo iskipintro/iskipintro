@@ -1,0 +1,22 @@
+series: Friends
+season: 1
+episode: 1
+title: Pilot
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 35
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 35
+    end: 90
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1312
+    end: 1377
+    confidence: 0.95
+    source: manual

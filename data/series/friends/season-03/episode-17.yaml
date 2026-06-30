@@ -1,0 +1,21 @@
+series: Friends
+season: 3
+episode: 17
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 55
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 55
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1299
+    end: 1364
+    confidence: 0.95
+    source: manual

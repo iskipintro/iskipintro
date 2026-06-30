@@ -1,0 +1,21 @@
+series: Friends
+season: 7
+episode: 22
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 49
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 49
+    end: 90
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1326
+    end: 1391
+    confidence: 0.95
+    source: manual

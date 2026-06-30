@@ -1,0 +1,20 @@
+title: The Godfather
+year: 1972
+tmdb_id: 238
+imdb_id: tt0068646
+markers:
+  - type: INTRO
+    start: 0
+    end: 95
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 10500
+    end: 10590
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 10590
+    end: 10607
+    confidence: 0.80
+    source: manual

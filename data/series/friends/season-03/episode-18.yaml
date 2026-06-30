@@ -1,0 +1,21 @@
+series: Friends
+season: 3
+episode: 18
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1321
+    end: 1386
+    confidence: 0.95
+    source: manual

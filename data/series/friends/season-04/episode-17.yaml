@@ -1,0 +1,21 @@
+series: Friends
+season: 4
+episode: 17
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 106
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1287
+    end: 1352
+    confidence: 0.95
+    source: manual

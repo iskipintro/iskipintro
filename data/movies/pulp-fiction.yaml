@@ -1,0 +1,20 @@
+title: Pulp Fiction
+year: 1994
+tmdb_id: 680
+imdb_id: tt0110912
+markers:
+  - type: INTRO
+    start: 0
+    end: 104
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 8880
+    end: 8970
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 8970
+    end: 8981
+    confidence: 0.80
+    source: manual

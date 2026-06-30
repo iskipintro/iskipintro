@@ -1,0 +1,20 @@
+title: Parasite
+year: 2019
+tmdb_id: 496243
+imdb_id: tt6751668
+markers:
+  - type: INTRO
+    start: 0
+    end: 73
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 7920
+    end: 8010
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 8010
+    end: 8037
+    confidence: 0.80
+    source: manual

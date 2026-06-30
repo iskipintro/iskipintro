@@ -1,0 +1,21 @@
+series: Friends
+season: 9
+episode: 1
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 83
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1354
+    end: 1419
+    confidence: 0.95
+    source: manual

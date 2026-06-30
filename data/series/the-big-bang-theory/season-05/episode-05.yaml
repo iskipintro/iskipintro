@@ -1,0 +1,21 @@
+series: The Big Bang Theory
+season: 5
+episode: 5
+tmdb_id: 1418
+imdb_id: tt0898266
+markers:
+  - type: RECAP
+    start: 0
+    end: 45
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 45
+    end: 100
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1365
+    end: 1430
+    confidence: 0.95
+    source: manual

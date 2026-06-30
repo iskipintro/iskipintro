@@ -1,0 +1,21 @@
+series: Friends
+season: 10
+episode: 18
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 102
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1311
+    end: 1376
+    confidence: 0.95
+    source: manual

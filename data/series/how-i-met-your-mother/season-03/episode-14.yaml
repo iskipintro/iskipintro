@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 3
+episode: 14
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 105
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1330
+    end: 1395
+    confidence: 0.95
+    source: manual

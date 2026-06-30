@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 5
+episode: 19
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 62
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 62
+    end: 115
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1275
+    end: 1340
+    confidence: 0.95
+    source: manual

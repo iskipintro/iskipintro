@@ -1,0 +1,21 @@
+series: The Big Bang Theory
+season: 11
+episode: 9
+tmdb_id: 1418
+imdb_id: tt0898266
+markers:
+  - type: RECAP
+    start: 0
+    end: 60
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 60
+    end: 107
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1356
+    end: 1421
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,20 @@
+title: Fight Club
+year: 1999
+tmdb_id: 550
+imdb_id: tt0137523
+markers:
+  - type: INTRO
+    start: 0
+    end: 118
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 8340
+    end: 8430
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 8430
+    end: 8434
+    confidence: 0.80
+    source: manual

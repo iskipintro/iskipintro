@@ -1,0 +1,21 @@
+series: The Big Bang Theory
+season: 3
+episode: 5
+tmdb_id: 1418
+imdb_id: tt0898266
+markers:
+  - type: RECAP
+    start: 0
+    end: 47
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 47
+    end: 94
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1328
+    end: 1393
+    confidence: 0.95
+    source: manual

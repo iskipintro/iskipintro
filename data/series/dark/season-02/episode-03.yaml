@@ -1,0 +1,21 @@
+series: Dark
+season: 2
+episode: 3
+tmdb_id: 70523
+imdb_id: tt5753856
+markers:
+  - type: RECAP
+    start: 0
+    end: 59
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 59
+    end: 99
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1306
+    end: 1371
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 9
+episode: 4
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 58
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 58
+    end: 103
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1359
+    end: 1424
+    confidence: 0.95
+    source: manual

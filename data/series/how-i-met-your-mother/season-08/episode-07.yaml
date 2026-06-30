@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 8
+episode: 7
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 46
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 46
+    end: 91
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1299
+    end: 1364
+    confidence: 0.95
+    source: manual

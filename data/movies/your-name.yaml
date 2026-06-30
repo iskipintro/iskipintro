@@ -1,0 +1,23 @@
+title: Your Name
+year: 2016
+tmdb_id: 372058
+imdb_id: tt5311514
+mal_id: 32281
+anilist_id: 21519
+kitsu_id: 32281
+markers:
+  - type: INTRO
+    start: 0
+    end: 102
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 6360
+    end: 6450
+    confidence: 0.95
+    source: manual
+  - type: POST_CREDIT
+    start: 6450
+    end: 6455
+    confidence: 0.80
+    source: manual

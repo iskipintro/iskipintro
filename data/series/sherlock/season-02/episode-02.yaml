@@ -1,0 +1,21 @@
+series: Sherlock
+season: 2
+episode: 2
+tmdb_id: 17610
+imdb_id: tt1475582
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 96
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1263
+    end: 1328
+    confidence: 0.95
+    source: manual

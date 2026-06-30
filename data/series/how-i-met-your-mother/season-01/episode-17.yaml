@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 1
+episode: 17
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 44
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 44
+    end: 85
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1316
+    end: 1381
+    confidence: 0.95
+    source: manual

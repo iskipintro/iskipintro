@@ -1,0 +1,21 @@
+series: Friends
+season: 2
+episode: 7
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 42
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 42
+    end: 84
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1377
+    end: 1442
+    confidence: 0.95
+    source: manual

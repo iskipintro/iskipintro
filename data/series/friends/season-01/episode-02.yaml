@@ -1,0 +1,21 @@
+series: Friends
+season: 1
+episode: 2
+tmdb_id: 1668
+imdb_id: tt0108778
+markers:
+  - type: RECAP
+    start: 0
+    end: 60
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 60
+    end: 115
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1300
+    end: 1365
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 5
+episode: 17
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 61
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 61
+    end: 111
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1333
+    end: 1398
+    confidence: 0.95
+    source: manual

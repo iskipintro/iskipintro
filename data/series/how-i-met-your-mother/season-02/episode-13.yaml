@@ -1,0 +1,21 @@
+series: How I Met Your Mother
+season: 2
+episode: 13
+tmdb_id: 1100
+imdb_id: tt0460649
+markers:
+  - type: RECAP
+    start: 0
+    end: 36
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 36
+    end: 88
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1317
+    end: 1382
+    confidence: 0.95
+    source: manual

@@ -1,0 +1,21 @@
+series: The Big Bang Theory
+season: 9
+episode: 19
+tmdb_id: 1418
+imdb_id: tt0898266
+markers:
+  - type: RECAP
+    start: 0
+    end: 48
+    confidence: 0.97
+    source: manual
+  - type: INTRO
+    start: 48
+    end: 111
+    confidence: 0.99
+    source: manual
+  - type: CREDITS
+    start: 1281
+    end: 1346
+    confidence: 0.95
+    source: manual
