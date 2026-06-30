@@ -86,44 +86,41 @@ jobs:
       - name: Deploy to Cloudflare D1
         run: |
           echo "::group::Deploying to D1 database"
-          # Install wrangler
           npm install wrangler
 
-          # Read parsed data and generate SQL
-          node -e "
-            const data = require('./parsed-data.json');
-            const fs = require('fs');
-            let sql = '-- Auto-generated from YAML data\\n';
+          cat > /tmp/generate-sql.mjs << 'SCRIPT'
+          import { readFileSync, writeFileSync } from 'fs';
+          const data = JSON.parse(readFileSync('./parsed-data.json', 'utf8'));
+          let sql = '-- Auto-generated from YAML data\n';
 
-            // Clear existing markers that came from data files
-            // We'll rebuild from YAML on each deploy
-            sql += 'DELETE FROM markers WHERE source IS NOT NULL AND source IN (\\\"manual\\\",\\\"jikan\\\",\\\"anilist\\\",\\\"kitsu\\\",\\\"tmdb\\\",\\\"imdb\\\",\\\"ai\\\");\\n';
+          sql += "DELETE FROM markers WHERE source IS NOT NULL AND source IN ('manual','jikan','anilist','kitsu','tmdb','imdb','ai');\n";
 
-            for (const s of data.series) {
-              // Upsert series
-              sql += \\`INSERT OR IGNORE INTO series (title) VALUES (\\\"\\\${s.title}\\\");\\n\`;
-              sql += \\`SELECT id INTO @series_id FROM series WHERE title = \\\"\\\${s.title}\\\";\\n\`;
+          for (const s of data.series) {
+            const t = s.title.replace(/'/g, "''");
+            sql += `INSERT OR IGNORE INTO series (title) VALUES ('${t}');\n`;
+            sql += `SELECT id INTO @series_id FROM series WHERE title = '${t}';\n`;
 
-              for (const sn of s.seasons) {
-                sql += \\`INSERT OR IGNORE INTO seasons (series_id, season_number) VALUES (@series_id, \\\${sn.season});\\n\`;
-                sql += \\`SELECT id INTO @season_id FROM seasons WHERE series_id = @series_id AND season_number = \\\${sn.season};\\n\`;
+            for (const sn of s.seasons) {
+              sql += `INSERT OR IGNORE INTO seasons (series_id, season_number) VALUES (@series_id, ${sn.season});\n`;
+              sql += `SELECT id INTO @season_id FROM seasons WHERE series_id = @series_id AND season_number = ${sn.season};\n`;
 
-                for (const ep of sn.episodes) {
-                  sql += \\`INSERT OR IGNORE INTO episodes (season_id, episode_number, title) VALUES (@season_id, \\\${ep.episode}, \\\"\\\${ep.title || ''}\\\");\\n\`;
-                  sql += \\`SELECT id INTO @episode_id FROM episodes WHERE season_id = @season_id AND episode_number = \\\${ep.episode};\\n\`;
+              for (const ep of sn.episodes) {
+                const title = (ep.title || '').replace(/'/g, "''");
+                sql += `INSERT OR IGNORE INTO episodes (season_id, episode_number, title) VALUES (@season_id, ${ep.episode}, '${title}');\n`;
+                sql += `SELECT id INTO @episode_id FROM episodes WHERE season_id = @season_id AND episode_number = ${ep.episode};\n`;
 
-                  for (const m of ep.markers) {
-                    sql += \\`INSERT INTO markers (episode_id, type, start_time, end_time, confidence, verified) VALUES (@episode_id, \\\"\\\${m.type}\\\", \\\${m.startTime}, \\\${m.endTime}, \\\${m.confidence}, 1);\\n\`;
-                  }
+                for (const m of ep.markers) {
+                  sql += `INSERT INTO markers (episode_id, type, start_time, end_time, confidence, verified) VALUES (@episode_id, '${m.type}', ${m.startTime}, ${m.endTime}, ${m.confidence}, 1);\n`;
                 }
               }
             }
+          }
 
-            fs.writeFileSync('deploy.sql', sql);
-            console.log('Generated deploy.sql');
-          "
+          writeFileSync('deploy.sql', sql);
+          console.log('Generated deploy.sql');
+SCRIPT
 
-          # Apply to D1 (requires wrangler auth)
+          node /tmp/generate-sql.mjs
           npx wrangler d1 execute iskipintro-db --file=./deploy.sql
           echo "::endgroup::"
 
